@@ -1,6 +1,18 @@
 [
   {
     "scene": {
+      "season": 3,
+      "episode": 14,
+      "absolute": 14
+    },
+    "tvdb": {
+      "season": 0,
+      "episode": 1,
+      "absolute": 0
+    }
+  },
+  {
+    "scene": {
       "season": 1,
       "episode": 1,
       "absolute": 1
