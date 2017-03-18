@@ -3934,5 +3934,17 @@
       "episode": 18,
       "absolute": 304
     }
+  },
+  {
+    "scene": {
+      "season": 20,
+      "episode": 19,
+      "absolute": 314
+    },
+    "tvdb": {
+      "season": 20,
+      "episode": 19,
+      "absolute": 305
+    }
   }
 ]

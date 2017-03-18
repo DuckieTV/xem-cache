@@ -130,5 +130,29 @@
       "episode": 7,
       "absolute": 11
     }
+  },
+  {
+    "scene": {
+      "season": 10,
+      "episode": 1,
+      "absolute": 12
+    },
+    "tvdb": {
+      "season": 2017,
+      "episode": 1,
+      "absolute": 12
+    }
+  },
+  {
+    "scene": {
+      "season": 10,
+      "episode": 2,
+      "absolute": 13
+    },
+    "tvdb": {
+      "season": 2017,
+      "episode": 2,
+      "absolute": 13
+    }
   }
 ]
