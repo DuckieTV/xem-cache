@@ -5295,7 +5295,7 @@
     "scene": {
       "season": 14,
       "episode": 1,
-      "absolute": 0
+      "absolute": 457
     },
     "scene_2": {
       "season": 12,
@@ -5826,14 +5826,62 @@
   },
   {
     "scene": {
+      "season": 13,
+      "episode": 29,
+      "absolute": 456
+    },
+    "tvdb": {
+      "season": 2017,
+      "episode": 10,
+      "absolute": 448
+    }
+  },
+  {
+    "scene": {
+      "season": 14,
+      "episode": 1,
+      "absolute": 457
+    },
+    "tvdb": {
+      "season": 2017,
+      "episode": 11,
+      "absolute": 449
+    }
+  },
+  {
+    "scene": {
+      "season": 14,
+      "episode": 2,
+      "absolute": 458
+    },
+    "tvdb": {
+      "season": 2017,
+      "episode": 12,
+      "absolute": 450
+    }
+  },
+  {
+    "scene": {
       "season": 0,
       "episode": 0,
       "absolute": 0
     },
     "tvdb": {
       "season": 2017,
-      "episode": 10,
-      "absolute": 448
+      "episode": 13,
+      "absolute": 451
+    }
+  },
+  {
+    "scene": {
+      "season": 0,
+      "episode": 0,
+      "absolute": 0
+    },
+    "tvdb": {
+      "season": 2017,
+      "episode": 14,
+      "absolute": 452
     }
   }
 ]
