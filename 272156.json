@@ -802,5 +802,29 @@
       "episode": 11,
       "absolute": 81
     }
+  },
+  {
+    "scene": {
+      "season": 11,
+      "episode": 1,
+      "absolute": 84
+    },
+    "tvdb": {
+      "season": 13,
+      "episode": 1,
+      "absolute": 82
+    }
+  },
+  {
+    "scene": {
+      "season": 11,
+      "episode": 2,
+      "absolute": 85
+    },
+    "tvdb": {
+      "season": 13,
+      "episode": 2,
+      "absolute": 83
+    }
   }
 ]
