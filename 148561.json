@@ -466,5 +466,41 @@
       "episode": 19,
       "absolute": 39
     }
+  },
+  {
+    "scene": {
+      "season": 7,
+      "episode": 20,
+      "absolute": 40
+    },
+    "tvdb": {
+      "season": 6,
+      "episode": 20,
+      "absolute": 40
+    }
+  },
+  {
+    "scene": {
+      "season": 7,
+      "episode": 21,
+      "absolute": 41
+    },
+    "tvdb": {
+      "season": 6,
+      "episode": 21,
+      "absolute": 41
+    }
+  },
+  {
+    "scene": {
+      "season": 7,
+      "episode": 22,
+      "absolute": 42
+    },
+    "tvdb": {
+      "season": 6,
+      "episode": 22,
+      "absolute": 42
+    }
   }
 ]
