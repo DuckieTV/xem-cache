@@ -3598,5 +3598,53 @@
       "episode": 5,
       "absolute": 1118
     }
+  },
+  {
+    "scene": {
+      "season": 56,
+      "episode": 6,
+      "absolute": 104
+    },
+    "tvdb": {
+      "season": 2017,
+      "episode": 6,
+      "absolute": 1119
+    }
+  },
+  {
+    "scene": {
+      "season": 56,
+      "episode": 7,
+      "absolute": 105
+    },
+    "tvdb": {
+      "season": 2017,
+      "episode": 7,
+      "absolute": 1120
+    }
+  },
+  {
+    "scene": {
+      "season": 56,
+      "episode": 8,
+      "absolute": 106
+    },
+    "tvdb": {
+      "season": 2017,
+      "episode": 8,
+      "absolute": 1121
+    }
+  },
+  {
+    "scene": {
+      "season": 56,
+      "episode": 9,
+      "absolute": 107
+    },
+    "tvdb": {
+      "season": 2017,
+      "episode": 9,
+      "absolute": 1122
+    }
   }
 ]
