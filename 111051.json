@@ -6171,5 +6171,29 @@
       "episode": 38,
       "absolute": 476
     }
+  },
+  {
+    "scene": {
+      "season": 14,
+      "episode": 29,
+      "absolute": 485
+    },
+    "tvdb": {
+      "season": 2017,
+      "episode": 39,
+      "absolute": 477
+    }
+  },
+  {
+    "scene": {
+      "season": 14,
+      "episode": 30,
+      "absolute": 486
+    },
+    "tvdb": {
+      "season": 2017,
+      "episode": 40,
+      "absolute": 478
+    }
   }
 ]
