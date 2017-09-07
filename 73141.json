@@ -2794,5 +2794,17 @@
       "episode": 21,
       "absolute": 233
     }
+  },
+  {
+    "scene": {
+      "season": 13,
+      "episode": 22,
+      "absolute": 234
+    },
+    "tvdb": {
+      "season": 14,
+      "episode": 22,
+      "absolute": 234
+    }
   }
 ]
