@@ -747,7 +747,7 @@
     "scene": {
       "season": 11,
       "episode": 1,
-      "absolute": 79
+      "absolute": 80
     },
     "tvdb": {
       "season": 12,
@@ -759,12 +759,120 @@
     "scene": {
       "season": 11,
       "episode": 2,
-      "absolute": 80
+      "absolute": 81
     },
     "tvdb": {
       "season": 12,
       "episode": 8,
       "absolute": 78
+    }
+  },
+  {
+    "scene": {
+      "season": 11,
+      "episode": 0,
+      "absolute": 79
+    },
+    "tvdb": {
+      "season": 12,
+      "episode": 9,
+      "absolute": 79
+    }
+  },
+  {
+    "scene": {
+      "season": 11,
+      "episode": 3,
+      "absolute": 82
+    },
+    "tvdb": {
+      "season": 12,
+      "episode": 10,
+      "absolute": 80
+    }
+  },
+  {
+    "scene": {
+      "season": 11,
+      "episode": 4,
+      "absolute": 83
+    },
+    "tvdb": {
+      "season": 12,
+      "episode": 11,
+      "absolute": 81
+    }
+  },
+  {
+    "scene": {
+      "season": 11,
+      "episode": 5,
+      "absolute": 84
+    },
+    "tvdb": {
+      "season": 12,
+      "episode": 12,
+      "absolute": 82
+    }
+  },
+  {
+    "scene": {
+      "season": 12,
+      "episode": 1,
+      "absolute": 85
+    },
+    "tvdb": {
+      "season": 13,
+      "episode": 1,
+      "absolute": 83
+    }
+  },
+  {
+    "scene": {
+      "season": 12,
+      "episode": 2,
+      "absolute": 86
+    },
+    "tvdb": {
+      "season": 13,
+      "episode": 2,
+      "absolute": 84
+    }
+  },
+  {
+    "scene": {
+      "season": 12,
+      "episode": 3,
+      "absolute": 87
+    },
+    "tvdb": {
+      "season": 13,
+      "episode": 3,
+      "absolute": 85
+    }
+  },
+  {
+    "scene": {
+      "season": 12,
+      "episode": 4,
+      "absolute": 88
+    },
+    "tvdb": {
+      "season": 13,
+      "episode": 4,
+      "absolute": 86
+    }
+  },
+  {
+    "scene": {
+      "season": 12,
+      "episode": 5,
+      "absolute": 89
+    },
+    "tvdb": {
+      "season": 13,
+      "episode": 5,
+      "absolute": 87
     }
   }
 ]
