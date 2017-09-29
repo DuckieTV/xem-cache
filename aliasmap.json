@@ -2152,7 +2152,9 @@
     "Shokugeki no Souma",
     "Shokugeki no Soma S2",
     "Shokugeki no Souma: Ni no Sara",
-    "Shokugeki no Souma S2"
+    "Shokugeki no Souma S2",
+    "Shokugeki no Soma S3",
+    "Shokugeki no Souma: San no Sara"
   ],
   "290122": [
     "Sengoku Musou"
@@ -2193,7 +2195,8 @@
   ],
   "293121": [
     "My Two-Faced Little Sister",
-    "Himouto! Umaru-chan S2"
+    "Himouto! Umaru-chan S2",
+    "Himouto! Umaru-chan R"
   ],
   "293267": [
     "Kangoku Gakuen"
@@ -2453,6 +2456,9 @@
   "306269": [
     "3-gatsu no Lion"
   ],
+  "306407": [
+    "Love Live! Sunshine!! S2"
+  ],
   "306741": [
     "Netoge no Yome wa Onnanoko ja Nai to Omotta?"
   ],
@@ -2654,6 +2660,9 @@
   "320459": [
     "ChaoS;Child"
   ],
+  "321209": [
+    "Inuyashiki"
+  ],
   "321535": [
     "Seikaisuru Kado"
   ],
@@ -2721,6 +2730,11 @@
   "328001": [
     "Shoukoku no Altair"
   ],
+  "328670": [
+    "Quanzhi Fashi",
+    "Quanzhi Fashi Season 2",
+    "Quanzhi Fashi (Full-Time Magister)"
+  ],
   "328822": [
     "Tsurezure Children"
   ],
@@ -2778,5 +2792,33 @@
   ],
   "329993": [
     "Konbini Kareshi"
+  ],
+  "331787": [
+    "Houseki no Kuni"
+  ],
+  "332159": [
+    "Kujira no Kora wa Sajou ni Utau"
+  ],
+  "332771": [
+    "Netojuu no Susume"
+  ],
+  "332983": [
+    "Shoujo Shuumatsu Ryokou"
+  ],
+  "332994": [
+    "Imouto sae Ireba Ii"
+  ],
+  "333152": [
+    "Kino no Tabi: The Beautiful World - Animated Series"
+  ],
+  "333232": [
+    "Osake wa Fuufu ni Natte Kara"
+  ],
+  "333709": [
+    "Juuni Taisen"
+  ],
+  "334706": [
+    "Boku no Kanojo ga Majime Sugiru Shobitch na Ken",
+    "Boku no Kanojo ga Majime Sugiru Shojo Bitch na Ken"
   ]
 }
