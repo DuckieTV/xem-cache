@@ -2770,5 +2770,53 @@
       "episode": 15,
       "absolute": 230
     }
+  },
+  {
+    "scene": {
+      "season": 18,
+      "episode": 1,
+      "absolute": 231
+    },
+    "tvdb": {
+      "season": 2017,
+      "episode": 16,
+      "absolute": 231
+    }
+  },
+  {
+    "scene": {
+      "season": 18,
+      "episode": 2,
+      "absolute": 232
+    },
+    "tvdb": {
+      "season": 2017,
+      "episode": 17,
+      "absolute": 232
+    }
+  },
+  {
+    "scene": {
+      "season": 18,
+      "episode": 3,
+      "absolute": 233
+    },
+    "tvdb": {
+      "season": 2017,
+      "episode": 18,
+      "absolute": 233
+    }
+  },
+  {
+    "scene": {
+      "season": 18,
+      "episode": 4,
+      "absolute": 234
+    },
+    "tvdb": {
+      "season": 2017,
+      "episode": 19,
+      "absolute": 234
+    }
   }
 ]
