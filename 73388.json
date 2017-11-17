@@ -3421,11 +3421,6 @@
   },
   {
     "scene": {
-      "season": 17,
-      "episode": 1,
-      "absolute": 0
-    },
-    "scene_2": {
       "season": 20,
       "episode": 1,
       "absolute": 279
@@ -3438,11 +3433,6 @@
   },
   {
     "scene": {
-      "season": 17,
-      "episode": 2,
-      "absolute": 0
-    },
-    "scene_2": {
       "season": 20,
       "episode": 2,
       "absolute": 280
@@ -3455,11 +3445,6 @@
   },
   {
     "scene": {
-      "season": 17,
-      "episode": 3,
-      "absolute": 0
-    },
-    "scene_2": {
       "season": 20,
       "episode": 3,
       "absolute": 281
