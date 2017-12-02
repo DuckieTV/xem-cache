@@ -526,5 +526,29 @@
       "episode": 44,
       "absolute": 44
     }
+  },
+  {
+    "scene": {
+      "season": 1,
+      "episode": 23,
+      "absolute": 23
+    },
+    "tvdb": {
+      "season": 1,
+      "episode": 45,
+      "absolute": 45
+    }
+  },
+  {
+    "scene": {
+      "season": 1,
+      "episode": 23,
+      "absolute": 23
+    },
+    "tvdb": {
+      "season": 1,
+      "episode": 46,
+      "absolute": 46
+    }
   }
 ]
