@@ -2043,7 +2043,8 @@
   ],
   "284131": [
     "Nanatsu no Taizai",
-    "Nanatsu no Taizai - The Seven Deadly Sins"
+    "Nanatsu no Taizai - The Seven Deadly Sins",
+    "Nanatsu no Taizai - Imashime no Fukkatsu"
   ],
   "284132": [
     "Madan no Ou to Vanadis"
@@ -2249,6 +2250,7 @@
     "Ushio to Tora (2016)"
   ],
   "294002": [
+    "Overlord S2",
     "Overlord II"
   ],
   "295204": [
@@ -2390,6 +2392,9 @@
   "303147": [
     "Shoujo-tachi wa Kouya wo Mezasu",
     "Shoujo-tachi wa Kouya o Mezasu"
+  ],
+  "303725": [
+    "Dagashi Kashi S2"
   ],
   "303728": [
     "Nijiiro Days",
@@ -2575,7 +2580,7 @@
     "Saiki Kusuo no Psi-Nan"
   ],
   "313488": [
-    "Hitori no Shita: The Outcast 2",
+    "Hitori no Shita: The Outcast S2",
     "Hitori no Shita - The outcast Season 2"
   ],
   "313533": [
@@ -2726,7 +2731,8 @@
     "Alice to Zouroku"
   ],
   "324710": [
-    "Gin no Guardian"
+    "Gin no Guardian",
+    "Gin no Guardian S2"
   ],
   "325197": [
     "Tsuki ga Kirei"
@@ -2840,6 +2846,10 @@
   "330308": [
     "Code Realize - Sousei no Himegimi"
   ],
+  "330692": [
+    "Yuru Camp",
+    "Yuru Camp△"
+  ],
   "331787": [
     "Houseki no Kuni"
   ],
@@ -2880,10 +2890,43 @@
   "335116": [
     "Grancrest Senki"
   ],
+  "335235": [
+    "Gakuen Babysitters"
+  ],
+  "335237": [
+    "Ito Junji: Collection"
+  ],
   "336404": [
     "Death March kara Hajimaru Isekai Kyousoukyoku"
   ],
+  "336406": [
+    "Ryuuou no Oshigoto!"
+  ],
+  "336480": [
+    "Kokkoku"
+  ],
+  "337019": [
+    "Miira no Kaikata"
+  ],
+  "337121": [
+    "Hakyuu Houshin Engi"
+  ],
+  "337122": [
+    "Koi wa Ameagari no You ni"
+  ],
+  "337622": [
+    "Toji No Miko"
+  ],
+  "337623": [
+    "Sora yori mo Tooi Basho"
+  ],
+  "337936": [
+    "Karakai Jouzu no Takagi-san"
+  ],
   "339277": [
     "Nanatsu no Bitoku"
+  ],
+  "339447": [
+    "Ramen Daisuki Koizumi-san"
   ]
 }
