@@ -1006,5 +1006,17 @@
       "episode": 8,
       "absolute": 79
     }
+  },
+  {
+    "scene": {
+      "season": 10,
+      "episode": 9,
+      "absolute": 78
+    },
+    "tvdb": {
+      "season": 10,
+      "episode": 9,
+      "absolute": 80
+    }
   }
 ]
