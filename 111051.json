@@ -6339,5 +6339,29 @@
       "episode": 52,
       "absolute": 490
     }
+  },
+  {
+    "scene": {
+      "season": 15,
+      "episode": 13,
+      "absolute": 499
+    },
+    "tvdb": {
+      "season": 2018,
+      "episode": 1,
+      "absolute": 491
+    }
+  },
+  {
+    "scene": {
+      "season": 15,
+      "episode": 14,
+      "absolute": 500
+    },
+    "tvdb": {
+      "season": 2018,
+      "episode": 2,
+      "absolute": 492
+    }
   }
 ]
