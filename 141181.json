@@ -2818,5 +2818,65 @@
       "episode": 19,
       "absolute": 234
     }
+  },
+  {
+    "scene": {
+      "season": 18,
+      "episode": 5,
+      "absolute": 235
+    },
+    "tvdb": {
+      "season": 2017,
+      "episode": 20,
+      "absolute": 235
+    }
+  },
+  {
+    "scene": {
+      "season": 18,
+      "episode": 6,
+      "absolute": 236
+    },
+    "tvdb": {
+      "season": 2017,
+      "episode": 21,
+      "absolute": 236
+    }
+  },
+  {
+    "scene": {
+      "season": 18,
+      "episode": 7,
+      "absolute": 237
+    },
+    "tvdb": {
+      "season": 2018,
+      "episode": 1,
+      "absolute": 237
+    }
+  },
+  {
+    "scene": {
+      "season": 18,
+      "episode": 8,
+      "absolute": 238
+    },
+    "tvdb": {
+      "season": 2018,
+      "episode": 2,
+      "absolute": 238
+    }
+  },
+  {
+    "scene": {
+      "season": 18,
+      "episode": 9,
+      "absolute": 239
+    },
+    "tvdb": {
+      "season": 2018,
+      "episode": 3,
+      "absolute": 239
+    }
   }
 ]
