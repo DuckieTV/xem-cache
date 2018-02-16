@@ -3574,5 +3574,17 @@
       "episode": 7,
       "absolute": 291
     }
+  },
+  {
+    "scene": {
+      "season": 20,
+      "episode": 14,
+      "absolute": 292
+    },
+    "tvdb": {
+      "season": 2018,
+      "episode": 8,
+      "absolute": 292
+    }
   }
 ]
