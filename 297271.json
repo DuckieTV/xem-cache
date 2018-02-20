@@ -1,0 +1,98 @@
+[
+  {
+    "scene": {
+      "season": 4,
+      "episode": 1,
+      "absolute": 44
+    },
+    "tvdb": {
+      "season": 4,
+      "episode": 1,
+      "absolute": 1
+    }
+  },
+  {
+    "scene": {
+      "season": 4,
+      "episode": 2,
+      "absolute": 45
+    },
+    "tvdb": {
+      "season": 4,
+      "episode": 2,
+      "absolute": 2
+    }
+  },
+  {
+    "scene": {
+      "season": 4,
+      "episode": 3,
+      "absolute": 46
+    },
+    "tvdb": {
+      "season": 4,
+      "episode": 3,
+      "absolute": 3
+    }
+  },
+  {
+    "scene": {
+      "season": 4,
+      "episode": 4,
+      "absolute": 47
+    },
+    "tvdb": {
+      "season": 4,
+      "episode": 4,
+      "absolute": 4
+    }
+  },
+  {
+    "scene": {
+      "season": 4,
+      "episode": 5,
+      "absolute": 48
+    },
+    "tvdb": {
+      "season": 4,
+      "episode": 5,
+      "absolute": 5
+    }
+  },
+  {
+    "scene": {
+      "season": 4,
+      "episode": 6,
+      "absolute": 49
+    },
+    "tvdb": {
+      "season": 4,
+      "episode": 6,
+      "absolute": 6
+    }
+  },
+  {
+    "scene": {
+      "season": 4,
+      "episode": 7,
+      "absolute": 50
+    },
+    "tvdb": {
+      "season": 4,
+      "episode": 7,
+      "absolute": 7
+    }
+  },
+  {
+    "scene": {
+      "season": 4,
+      "episode": 8,
+      "absolute": 51
+    },
+    "tvdb": {
+      "season": 4,
+      "episode": 8,
+      "absolute": 8
+    }
+  }
+]
