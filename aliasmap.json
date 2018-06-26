@@ -1539,7 +1539,8 @@
   "267440": [
     "Shingeki no Kyojin",
     "Shingeki no Kyojin S2",
-    "Shingeki no Kyojin (Season 2)"
+    "Shingeki no Kyojin (Season 2)",
+    "Shingeki no Kyojin S3"
   ],
   "267441": [
     "Hataraku Maou-sama!",
@@ -2299,7 +2300,10 @@
   "294002": [
     "Overlord II",
     "Overlord S2",
-    "Overlord 2"
+    "Overlord 2",
+    "Overlord III",
+    "Overlord S3",
+    "Overlord 3"
   ],
   "295204": [
     "Aoharu x Machine Gun",
@@ -3029,6 +3033,9 @@
     "Märchen Mädchen",
     "Marchen Madchen"
   ],
+  "337350": [
+    "Chio-chan no Tsuugakuro"
+  ],
   "337622": [
     "Toji No Miko"
   ],
@@ -3150,11 +3157,39 @@
   "344222": [
     "Uchuu Senkan Tiramisu"
   ],
+  "344844": [
+    "Satsuriku no Tenshi"
+  ],
   "344974": [
     "Isekai Izakaya - Koto Aitheria no Izakaya Nobu"
   ],
+  "344980": [
+    "Yuragi-sou no Yuuna-san"
+  ],
   "345144": [
     "Usagi no Matthew"
+  ],
+  "346931": [
+    "Hataraku Saibou"
+  ],
+  "347215": [
+    "Jashin-chan Dropkick"
+  ],
+  "347294": [
+    "Hyakuren no Haou to Seiyaku no Valkyria"
+  ],
+  "347425": [
+    "Isekai Maou to Shoukan Shoujo no Dorei Majutsu"
+  ],
+  "347467": [
+    "Muhyo to Rouji no Mahouritsu Soudan Jimusho"
+  ],
+  "347468": [
+    "Sunoharasou no Kanrinin-san",
+    "Sunohara-sou no Kanrinin-san"
+  ],
+  "348601": [
+    "Kyoto Teramachi Sanjou no Holmes"
   ],
   "737567": [
     "Itsudatte Bokura no Koi wa 10 Centi Datta"
