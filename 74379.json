@@ -3731,14 +3731,26 @@
   },
   {
     "scene": {
-      "season": 56,
-      "episode": 16,
+      "season": 2018,
+      "episode": 1,
       "absolute": 114
     },
     "tvdb": {
       "season": 2018,
       "episode": 1,
       "absolute": 1129
+    }
+  },
+  {
+    "scene": {
+      "season": 2018,
+      "episode": 2,
+      "absolute": 115
+    },
+    "tvdb": {
+      "season": 2018,
+      "episode": 2,
+      "absolute": 1130
     }
   }
 ]
