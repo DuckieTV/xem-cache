@@ -3010,5 +3010,41 @@
       "episode": 14,
       "absolute": 250
     }
+  },
+  {
+    "scene": {
+      "season": 19,
+      "episode": 8,
+      "absolute": 251
+    },
+    "tvdb": {
+      "season": 2018,
+      "episode": 15,
+      "absolute": 251
+    }
+  },
+  {
+    "scene": {
+      "season": 19,
+      "episode": 9,
+      "absolute": 252
+    },
+    "tvdb": {
+      "season": 2018,
+      "episode": 16,
+      "absolute": 252
+    }
+  },
+  {
+    "scene": {
+      "season": 19,
+      "episode": 10,
+      "absolute": 253
+    },
+    "tvdb": {
+      "season": 2018,
+      "episode": 17,
+      "absolute": 253
+    }
   }
 ]
