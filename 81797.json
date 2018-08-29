@@ -10210,5 +10210,29 @@
       "episode": 72,
       "absolute": 851
     }
+  },
+  {
+    "scene": {
+      "season": 1,
+      "episode": 852,
+      "absolute": 852
+    },
+    "tvdb": {
+      "season": 19,
+      "episode": 73,
+      "absolute": 852
+    }
+  },
+  {
+    "scene": {
+      "season": 1,
+      "episode": 853,
+      "absolute": 853
+    },
+    "tvdb": {
+      "season": 19,
+      "episode": 74,
+      "absolute": 853
+    }
   }
 ]
