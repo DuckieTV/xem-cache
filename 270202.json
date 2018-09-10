@@ -1618,5 +1618,17 @@
       "episode": 17,
       "absolute": 101
     }
+  },
+  {
+    "scene": {
+      "season": 11,
+      "episode": 18,
+      "absolute": 100
+    },
+    "tvdb": {
+      "season": 11,
+      "episode": 18,
+      "absolute": 102
+    }
   }
 ]
