@@ -676,7 +676,9 @@
     "とある魔術の禁書目録[インデックス]II",
     "To Aru Majutsu no Index",
     "To Aru Majutsu no Index II",
-    "A Certain Magical Index II"
+    "A Certain Magical Index II",
+    "Toaru Majutsu no Index III",
+    "A Certain Magical Index III"
   ],
   "83360": [
     "Kemeko DX"
@@ -822,7 +824,8 @@
     "フェアリーテイル",
     "Fairy Tail S2",
     "Fairy Tail 2",
-    "Fairy Tail (2014)"
+    "Fairy Tail (2014)",
+    "Fairy Tail S3"
   ],
   "114921": [
     "A Certain Scientific Railgun",
@@ -1328,7 +1331,8 @@
   ],
   "259640": [
     "Sword Art Online II",
-    "Sword Art Online"
+    "Sword Art Online",
+    "Sword Art Online: Alicization"
   ],
   "259641": [
     "Koi to Senkyo to Chocolate"
@@ -1458,7 +1462,9 @@
     "JoJo Bizarre Adventure - Stardust Crusaders Egypt Arc",
     "JoJo Bizarre Adventure - Stardust Crusaders",
     "JoJo Bizarre Adventure",
-    "JoJo Bizarre Adventure"
+    "JoJo Bizarre Adventure",
+    "us JoJo's Bizarre Adventure - Golden Wind",
+    "JoJo no Kimyou na Bouken: Ougon no Kaze"
   ],
   "263688": [
     "Hellsing Ultimate OVA",
@@ -2047,7 +2053,8 @@
     "Tokyo Ghoul A",
     "Tokyo Ghoul Root A",
     "Tokyo Ghoulre",
-    "Tokyo Ghoul Re"
+    "Tokyo Ghoul Re",
+    "Tokyo Ghoul:Re S2"
   ],
   "281275": [
     "Saekano",
@@ -2558,8 +2565,9 @@
     "Bungou Stray Dogs S2"
   ],
   "305077": [
-    "Ace Attorney",
-    "Gyakuten Saiban"
+    "Gyakuten Saiban",
+    "Phoenix Wright: Ace Attorney",
+    "Ace Attorney S2"
   ],
   "305082": [
     "Koutetsujou no Kabaneri"
@@ -3236,6 +3244,9 @@
   "345144": [
     "Usagi no Matthew"
   ],
+  "345596": [
+    "Seishun Buta Yarou wa Bunny Girl Senpai no Yume o Minai"
+  ],
   "346676": [
     "Shichisei no Subaru"
   ],
@@ -3275,6 +3286,9 @@
     "Sunoharasou no Kanrinin-san",
     "Sunohara-sou no Kanrinin-san"
   ],
+  "348065": [
+    "Yagate Kimi ni Naru"
+  ],
   "348601": [
     "Kyoto Teramachi Sanjou no Holmes",
     "Holmes at Kyoto Teramachi Sanjo"
@@ -3299,6 +3313,46 @@
   ],
   "350301": [
     "Iya na Kao Sarenagara Opantsu Misete Moraitai"
+  ],
+  "350555": [
+    "Kishuku Gakkou no Juliet"
+  ],
+  "351049": [
+    "Ulysses: Jeanne d'Arc to Renkin no Kishi"
+  ],
+  "351751": [
+    "Irozuku Sekai no Ashita kara"
+  ],
+  "352212": [
+    "Tonari no Kyuuketsuki-san"
+  ],
+  "352408": [
+    "Tensei Shitara Slime Datta Ken"
+  ],
+  "352564": [
+    "Ore ga Suki na no wa Imouto Dakedo Imouto ja Nai"
+  ],
+  "352573": [
+    "Akanesasu Shoujo"
+  ],
+  "352681": [
+    "Beelzebub-jou no Oki ni Mesu Mama"
+  ],
+  "352683": [
+    "Conception"
+  ],
+  "352839": [
+    "Uchi no Maid ga Uzasugiru"
+  ],
+  "352854": [
+    "RErideD - Tokigoe no Derrida"
+  ],
+  "352875": [
+    "Sora to Umi no Aida"
+  ],
+  "353219": [
+    "Gaikotsu Shotenin Honda-san",
+    "Gaikotsu Shoten'in Honda-san"
   ],
   "737567": [
     "Itsudatte Bokura no Koi wa 10 Centi Datta"
