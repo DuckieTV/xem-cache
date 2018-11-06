@@ -3848,5 +3848,29 @@
       "episode": 10,
       "absolute": 1138
     }
+  },
+  {
+    "scene": {
+      "season": 2018,
+      "episode": 11,
+      "absolute": 124
+    },
+    "tvdb": {
+      "season": 2018,
+      "episode": 11,
+      "absolute": 1139
+    }
+  },
+  {
+    "scene": {
+      "season": 2018,
+      "episode": 12,
+      "absolute": 125
+    },
+    "tvdb": {
+      "season": 2018,
+      "episode": 12,
+      "absolute": 1140
+    }
   }
 ]
