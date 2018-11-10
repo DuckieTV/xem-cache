@@ -12238,5 +12238,221 @@
       "episode": 78,
       "absolute": 1020
     }
+  },
+  {
+    "scene": {
+      "season": 21,
+      "episode": 36,
+      "absolute": 1021
+    },
+    "tvdb": {
+      "season": 18,
+      "episode": 79,
+      "absolute": 1021
+    }
+  },
+  {
+    "scene": {
+      "season": 21,
+      "episode": 37,
+      "absolute": 1022
+    },
+    "tvdb": {
+      "season": 18,
+      "episode": 80,
+      "absolute": 1022
+    }
+  },
+  {
+    "scene": {
+      "season": 21,
+      "episode": 38,
+      "absolute": 1023
+    },
+    "tvdb": {
+      "season": 18,
+      "episode": 81,
+      "absolute": 1023
+    }
+  },
+  {
+    "scene": {
+      "season": 21,
+      "episode": 39,
+      "absolute": 1024
+    },
+    "tvdb": {
+      "season": 18,
+      "episode": 82,
+      "absolute": 1024
+    }
+  },
+  {
+    "scene": {
+      "season": 21,
+      "episode": 40,
+      "absolute": 1025
+    },
+    "tvdb": {
+      "season": 18,
+      "episode": 83,
+      "absolute": 1025
+    }
+  },
+  {
+    "scene": {
+      "season": 21,
+      "episode": 41,
+      "absolute": 1026
+    },
+    "tvdb": {
+      "season": 18,
+      "episode": 84,
+      "absolute": 1026
+    }
+  },
+  {
+    "scene": {
+      "season": 21,
+      "episode": 42,
+      "absolute": 1027
+    },
+    "tvdb": {
+      "season": 18,
+      "episode": 85,
+      "absolute": 1027
+    }
+  },
+  {
+    "scene": {
+      "season": 21,
+      "episode": 43,
+      "absolute": 1028
+    },
+    "tvdb": {
+      "season": 18,
+      "episode": 86,
+      "absolute": 1028
+    }
+  },
+  {
+    "scene": {
+      "season": 21,
+      "episode": 44,
+      "absolute": 1029
+    },
+    "tvdb": {
+      "season": 18,
+      "episode": 87,
+      "absolute": 1029
+    }
+  },
+  {
+    "scene": {
+      "season": 21,
+      "episode": 45,
+      "absolute": 1030
+    },
+    "tvdb": {
+      "season": 18,
+      "episode": 88,
+      "absolute": 1030
+    }
+  },
+  {
+    "scene": {
+      "season": 21,
+      "episode": 46,
+      "absolute": 1031
+    },
+    "tvdb": {
+      "season": 18,
+      "episode": 89,
+      "absolute": 1031
+    }
+  },
+  {
+    "scene": {
+      "season": 21,
+      "episode": 47,
+      "absolute": 1032
+    },
+    "tvdb": {
+      "season": 18,
+      "episode": 90,
+      "absolute": 1032
+    }
+  },
+  {
+    "scene": {
+      "season": 21,
+      "episode": 48,
+      "absolute": 1033
+    },
+    "tvdb": {
+      "season": 18,
+      "episode": 91,
+      "absolute": 1033
+    }
+  },
+  {
+    "scene": {
+      "season": 21,
+      "episode": 49,
+      "absolute": 1034
+    },
+    "tvdb": {
+      "season": 18,
+      "episode": 92,
+      "absolute": 1034
+    }
+  },
+  {
+    "scene": {
+      "season": 21,
+      "episode": 50,
+      "absolute": 1035
+    },
+    "tvdb": {
+      "season": 18,
+      "episode": 93,
+      "absolute": 1035
+    }
+  },
+  {
+    "scene": {
+      "season": 21,
+      "episode": 51,
+      "absolute": 1036
+    },
+    "tvdb": {
+      "season": 18,
+      "episode": 94,
+      "absolute": 1036
+    }
+  },
+  {
+    "scene": {
+      "season": 21,
+      "episode": 52,
+      "absolute": 1037
+    },
+    "tvdb": {
+      "season": 18,
+      "episode": 95,
+      "absolute": 1037
+    }
+  },
+  {
+    "scene": {
+      "season": 21,
+      "episode": 53,
+      "absolute": 1038
+    },
+    "tvdb": {
+      "season": 18,
+      "episode": 96,
+      "absolute": 1038
+    }
   }
 ]
