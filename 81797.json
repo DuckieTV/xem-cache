@@ -10402,5 +10402,17 @@
       "episode": 88,
       "absolute": 867
     }
+  },
+  {
+    "scene": {
+      "season": 1,
+      "episode": 868,
+      "absolute": 868
+    },
+    "tvdb": {
+      "season": 19,
+      "episode": 89,
+      "absolute": 868
+    }
   }
 ]
