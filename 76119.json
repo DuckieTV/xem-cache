@@ -934,5 +934,17 @@
       "episode": 16,
       "absolute": 78
     }
+  },
+  {
+    "scene": {
+      "season": 45,
+      "episode": 17,
+      "absolute": 79
+    },
+    "tvdb": {
+      "season": 45,
+      "episode": 17,
+      "absolute": 79
+    }
   }
 ]
