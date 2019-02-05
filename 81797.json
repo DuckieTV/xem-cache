@@ -10450,5 +10450,41 @@
       "episode": 92,
       "absolute": 871
     }
+  },
+  {
+    "scene": {
+      "season": 1,
+      "episode": 872,
+      "absolute": 872
+    },
+    "tvdb": {
+      "season": 19,
+      "episode": 93,
+      "absolute": 872
+    }
+  },
+  {
+    "scene": {
+      "season": 1,
+      "episode": 873,
+      "absolute": 873
+    },
+    "tvdb": {
+      "season": 19,
+      "episode": 94,
+      "absolute": 873
+    }
+  },
+  {
+    "scene": {
+      "season": 1,
+      "episode": 874,
+      "absolute": 874
+    },
+    "tvdb": {
+      "season": 19,
+      "episode": 95,
+      "absolute": 874
+    }
   }
 ]
