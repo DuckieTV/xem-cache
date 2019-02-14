@@ -1846,5 +1846,17 @@
       "episode": 18,
       "absolute": 160
     }
+  },
+  {
+    "scene": {
+      "season": 6,
+      "episode": 23,
+      "absolute": 165
+    },
+    "tvdb": {
+      "season": 6,
+      "episode": 19,
+      "absolute": 161
+    }
   }
 ]
