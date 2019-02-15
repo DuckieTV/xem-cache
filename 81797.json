@@ -10486,5 +10486,65 @@
       "episode": 95,
       "absolute": 874
     }
+  },
+  {
+    "scene": {
+      "season": 1,
+      "episode": 875,
+      "absolute": 875
+    },
+    "tvdb": {
+      "season": 19,
+      "episode": 96,
+      "absolute": 875
+    }
+  },
+  {
+    "scene": {
+      "season": 0,
+      "episode": 0,
+      "absolute": 876
+    },
+    "tvdb": {
+      "season": 19,
+      "episode": 97,
+      "absolute": 876
+    }
+  },
+  {
+    "scene": {
+      "season": 0,
+      "episode": 0,
+      "absolute": 877
+    },
+    "tvdb": {
+      "season": 19,
+      "episode": 98,
+      "absolute": 877
+    }
+  },
+  {
+    "scene": {
+      "season": 0,
+      "episode": 0,
+      "absolute": 878
+    },
+    "tvdb": {
+      "season": 19,
+      "episode": 99,
+      "absolute": 878
+    }
+  },
+  {
+    "scene": {
+      "season": 0,
+      "episode": 0,
+      "absolute": 879
+    },
+    "tvdb": {
+      "season": 19,
+      "episode": 100,
+      "absolute": 879
+    }
   }
 ]
