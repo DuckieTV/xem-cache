@@ -250,5 +250,41 @@
       "episode": 21,
       "absolute": 21
     }
+  },
+  {
+    "scene": {
+      "season": 37,
+      "episode": 7,
+      "absolute": 26
+    },
+    "tvdb": {
+      "season": 2019,
+      "episode": 1,
+      "absolute": 22
+    }
+  },
+  {
+    "scene": {
+      "season": 37,
+      "episode": 8,
+      "absolute": 27
+    },
+    "tvdb": {
+      "season": 2019,
+      "episode": 2,
+      "absolute": 23
+    }
+  },
+  {
+    "scene": {
+      "season": 37,
+      "episode": 9,
+      "absolute": 28
+    },
+    "tvdb": {
+      "season": 2019,
+      "episode": 3,
+      "absolute": 24
+    }
   }
 ]
