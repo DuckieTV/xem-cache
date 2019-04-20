@@ -1906,5 +1906,53 @@
       "episode": 23,
       "absolute": 165
     }
+  },
+  {
+    "scene": {
+      "season": 6,
+      "episode": 29,
+      "absolute": 171
+    },
+    "tvdb": {
+      "season": 6,
+      "episode": 24,
+      "absolute": 166
+    }
+  },
+  {
+    "scene": {
+      "season": 6,
+      "episode": 30,
+      "absolute": 172
+    },
+    "tvdb": {
+      "season": 6,
+      "episode": 25,
+      "absolute": 167
+    }
+  },
+  {
+    "scene": {
+      "season": 6,
+      "episode": 31,
+      "absolute": 173
+    },
+    "tvdb": {
+      "season": 6,
+      "episode": 26,
+      "absolute": 168
+    }
+  },
+  {
+    "scene": {
+      "season": 6,
+      "episode": 32,
+      "absolute": 174
+    },
+    "tvdb": {
+      "season": 6,
+      "episode": 27,
+      "absolute": 169
+    }
   }
 ]
