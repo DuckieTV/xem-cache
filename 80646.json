@@ -286,5 +286,41 @@
       "episode": 3,
       "absolute": 24
     }
+  },
+  {
+    "scene": {
+      "season": 2019,
+      "episode": 4,
+      "absolute": 0
+    },
+    "tvdb": {
+      "season": 2019,
+      "episode": 4,
+      "absolute": 25
+    }
+  },
+  {
+    "scene": {
+      "season": 37,
+      "episode": 10,
+      "absolute": 29
+    },
+    "tvdb": {
+      "season": 2019,
+      "episode": 5,
+      "absolute": 26
+    }
+  },
+  {
+    "scene": {
+      "season": 37,
+      "episode": 11,
+      "absolute": 30
+    },
+    "tvdb": {
+      "season": 2019,
+      "episode": 6,
+      "absolute": 27
+    }
   }
 ]
