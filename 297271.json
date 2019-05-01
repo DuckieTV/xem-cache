@@ -562,5 +562,41 @@
       "episode": 47,
       "absolute": 47
     }
+  },
+  {
+    "scene": {
+      "season": 4,
+      "episode": 48,
+      "absolute": 48
+    },
+    "tvdb": {
+      "season": 4,
+      "episode": 48,
+      "absolute": 48
+    }
+  },
+  {
+    "scene": {
+      "season": 4,
+      "episode": 49,
+      "absolute": 49
+    },
+    "tvdb": {
+      "season": 4,
+      "episode": 49,
+      "absolute": 49
+    }
+  },
+  {
+    "scene": {
+      "season": 4,
+      "episode": 50,
+      "absolute": 50
+    },
+    "tvdb": {
+      "season": 4,
+      "episode": 50,
+      "absolute": 50
+    }
   }
 ]
