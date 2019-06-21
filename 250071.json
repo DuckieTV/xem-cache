@@ -1990,5 +1990,29 @@
       "episode": 30,
       "absolute": 172
     }
+  },
+  {
+    "scene": {
+      "season": 6,
+      "episode": 36,
+      "absolute": 178
+    },
+    "tvdb": {
+      "season": 6,
+      "episode": 31,
+      "absolute": 173
+    }
+  },
+  {
+    "scene": {
+      "season": 6,
+      "episode": 37,
+      "absolute": 179
+    },
+    "tvdb": {
+      "season": 6,
+      "episode": 32,
+      "absolute": 174
+    }
   }
 ]
