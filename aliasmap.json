@@ -1240,7 +1240,8 @@
     "Senki Zesshou Symphogear",
     "Senki Zesshou Symphogear G",
     "Senki Zesshou Symphogear GX",
-    "Senki Zesshou Symphogear AXZ"
+    "Senki Zesshou Symphogear AXZ",
+    "Senki Zesshou Symphogear XV"
   ],
   "254738": [
     "Alaska The Last Frontier",
@@ -2284,11 +2285,11 @@
     "12-Sai Chicchana Mune no Tokimeki"
   ],
   "289882": [
-    "Dungeon ni Deai o Motomeru no wa Machigatte Iru Darouka",
-    "Dungeon ni Deai o Motomeru no wa Machigatteiru no Darou ka",
     "DanMachi S2",
+    "DanMachi",
     "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka",
-    "DanMachi"
+    "Dungeon ni Deai o Motomeru no wa Machigatte Iru Darouka",
+    "Dungeon ni Deai o Motomeru no wa Machigatteiru no Darou ka"
   ],
   "289884": [
     "Hibike! Euphonium S2",
@@ -3496,6 +3497,9 @@
   "353296": [
     "Kitsune no Koe"
   ],
+  "353297": [
+    "Gakuen Basara"
+  ],
   "353579": [
     "Ken En Ken: Aoki Kagayaki"
   ],
@@ -3634,6 +3638,9 @@
   ],
   "361707": [
     "Tejina Senpai"
+  ],
+  "361709": [
+    "Maou-sama, Retry!"
   ],
   "361713": [
     "Naka no Hito Genome [Jikkyouchuu]"
