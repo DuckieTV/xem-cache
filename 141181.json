@@ -3394,5 +3394,53 @@
       "episode": 16,
       "absolute": 282
     }
+  },
+  {
+    "scene": {
+      "season": 20,
+      "episode": 17,
+      "absolute": 283
+    },
+    "tvdb": {
+      "season": 2019,
+      "episode": 17,
+      "absolute": 283
+    }
+  },
+  {
+    "scene": {
+      "season": 20,
+      "episode": 18,
+      "absolute": 284
+    },
+    "tvdb": {
+      "season": 2019,
+      "episode": 18,
+      "absolute": 284
+    }
+  },
+  {
+    "scene": {
+      "season": 20,
+      "episode": 19,
+      "absolute": 285
+    },
+    "tvdb": {
+      "season": 2019,
+      "episode": 19,
+      "absolute": 285
+    }
+  },
+  {
+    "scene": {
+      "season": 20,
+      "episode": 20,
+      "absolute": 286
+    },
+    "tvdb": {
+      "season": 2019,
+      "episode": 20,
+      "absolute": 286
+    }
   }
 ]

@@ -2014,5 +2014,65 @@
       "episode": 32,
       "absolute": 174
     }
+  },
+  {
+    "scene": {
+      "season": 6,
+      "episode": 38,
+      "absolute": 180
+    },
+    "tvdb": {
+      "season": 6,
+      "episode": 33,
+      "absolute": 175
+    }
+  },
+  {
+    "scene": {
+      "season": 6,
+      "episode": 39,
+      "absolute": 181
+    },
+    "tvdb": {
+      "season": 6,
+      "episode": 34,
+      "absolute": 176
+    }
+  },
+  {
+    "scene": {
+      "season": 6,
+      "episode": 40,
+      "absolute": 182
+    },
+    "tvdb": {
+      "season": 6,
+      "episode": 35,
+      "absolute": 177
+    }
+  },
+  {
+    "scene": {
+      "season": 6,
+      "episode": 41,
+      "absolute": 183
+    },
+    "tvdb": {
+      "season": 6,
+      "episode": 36,
+      "absolute": 178
+    }
+  },
+  {
+    "scene": {
+      "season": 6,
+      "episode": 42,
+      "absolute": 184
+    },
+    "tvdb": {
+      "season": 6,
+      "episode": 37,
+      "absolute": 179
+    }
   }
 ]
