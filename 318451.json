@@ -310,5 +310,53 @@
       "episode": 86,
       "absolute": 26
     }
+  },
+  {
+    "scene": {
+      "season": 3,
+      "episode": 90,
+      "absolute": 27
+    },
+    "tvdb": {
+      "season": 3,
+      "episode": 87,
+      "absolute": 27
+    }
+  },
+  {
+    "scene": {
+      "season": 3,
+      "episode": 91,
+      "absolute": 28
+    },
+    "tvdb": {
+      "season": 3,
+      "episode": 88,
+      "absolute": 28
+    }
+  },
+  {
+    "scene": {
+      "season": 3,
+      "episode": 92,
+      "absolute": 29
+    },
+    "tvdb": {
+      "season": 3,
+      "episode": 89,
+      "absolute": 29
+    }
+  },
+  {
+    "scene": {
+      "season": 3,
+      "episode": 93,
+      "absolute": 30
+    },
+    "tvdb": {
+      "season": 3,
+      "episode": 90,
+      "absolute": 30
+    }
   }
 ]
