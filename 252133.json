@@ -2166,9 +2166,9 @@
   },
   {
     "scene": {
-      "season": 11,
+      "season": 13,
       "episode": 1,
-      "absolute": 135
+      "absolute": 181
     },
     "tvdb": {
       "season": 11,
@@ -2178,9 +2178,9 @@
   },
   {
     "scene": {
-      "season": 11,
+      "season": 13,
       "episode": 2,
-      "absolute": 136
+      "absolute": 182
     },
     "tvdb": {
       "season": 11,
@@ -2190,9 +2190,9 @@
   },
   {
     "scene": {
-      "season": 11,
+      "season": 13,
       "episode": 3,
-      "absolute": 137
+      "absolute": 183
     },
     "tvdb": {
       "season": 11,
@@ -2202,14 +2202,50 @@
   },
   {
     "scene": {
-      "season": 11,
+      "season": 13,
       "episode": 4,
-      "absolute": 138
+      "absolute": 184
     },
     "tvdb": {
       "season": 11,
       "episode": 4,
       "absolute": 184
+    }
+  },
+  {
+    "scene": {
+      "season": 13,
+      "episode": 5,
+      "absolute": 185
+    },
+    "tvdb": {
+      "season": 11,
+      "episode": 5,
+      "absolute": 185
+    }
+  },
+  {
+    "scene": {
+      "season": 13,
+      "episode": 6,
+      "absolute": 186
+    },
+    "tvdb": {
+      "season": 11,
+      "episode": 6,
+      "absolute": 186
+    }
+  },
+  {
+    "scene": {
+      "season": 13,
+      "episode": 7,
+      "absolute": 187
+    },
+    "tvdb": {
+      "season": 11,
+      "episode": 7,
+      "absolute": 187
     }
   }
 ]
