@@ -3202,5 +3202,77 @@
       "episode": 28,
       "absolute": 267
     }
+  },
+  {
+    "scene": {
+      "season": 6,
+      "episode": 16,
+      "absolute": 144
+    },
+    "tvdb": {
+      "season": 6,
+      "episode": 29,
+      "absolute": 268
+    }
+  },
+  {
+    "scene": {
+      "season": 6,
+      "episode": 16,
+      "absolute": 144
+    },
+    "tvdb": {
+      "season": 6,
+      "episode": 30,
+      "absolute": 269
+    }
+  },
+  {
+    "scene": {
+      "season": 6,
+      "episode": 17,
+      "absolute": 145
+    },
+    "tvdb": {
+      "season": 6,
+      "episode": 31,
+      "absolute": 270
+    }
+  },
+  {
+    "scene": {
+      "season": 6,
+      "episode": 17,
+      "absolute": 145
+    },
+    "tvdb": {
+      "season": 6,
+      "episode": 32,
+      "absolute": 271
+    }
+  },
+  {
+    "scene": {
+      "season": 6,
+      "episode": 18,
+      "absolute": 146
+    },
+    "tvdb": {
+      "season": 6,
+      "episode": 33,
+      "absolute": 272
+    }
+  },
+  {
+    "scene": {
+      "season": 6,
+      "episode": 18,
+      "absolute": 146
+    },
+    "tvdb": {
+      "season": 6,
+      "episode": 34,
+      "absolute": 273
+    }
   }
 ]
