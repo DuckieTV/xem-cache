@@ -854,7 +854,9 @@
     "とある科学の超電磁砲(レールガン)",
     "A Certain Scientific Railgun S",
     "Toaru Kagaku no Railgun S",
-    "とある科学の超電磁砲[レールガン]S"
+    "とある科学の超電磁砲[レールガン]S",
+    "A Certain Scientific Railgun T",
+    "Toaru Kagaku no Railgun T"
   ],
   "116001": [
     "Seitokai no Ichizon",
@@ -3638,6 +3640,10 @@
   "357277": [
     "Virtual-san wa Miteiru"
   ],
+  "357471": [
+    "Isekai Quartet S2",
+    "Isekai Quartet 2"
+  ],
   "357492": [
     "Lord El-Melloi II Case Files",
     "Lord El-Melloi II Sei no Jikenbo - Rail Zeppelin Grace Note",
@@ -3768,8 +3774,18 @@
   "367513": [
     "Rifle is Beautiful"
   ],
+  "368358": [
+    "Rikei ga Koi ni Ochita no de Shoumei Shite Mita"
+  ],
+  "368364": [
+    "Jibaku Shounen Hanako-kun"
+  ],
   "368366": [
     "Chuubyou Gekihatsu Boy"
+  ],
+  "368565": [
+    "Kyokou Suiri",
+    "Kyoukou Suiri"
   ],
   "368757": [
     "Keishichou Tokuhanka 007",
@@ -3814,6 +3830,33 @@
   ],
   "369749": [
     "Tenka Hyakken: Meiji-kan e Youkoso!"
+  ],
+  "370769": [
+    "Eizouken ni wa Te o Dasu na!",
+    "Eizouken ni wa Te wo Dasu na!"
+  ],
+  "370931": [
+    "Magia Record",
+    "Magia Record - Mahou Shoujo Madoka"
+  ],
+  "371444": [
+    "Koisuru Asteroid"
+  ],
+  "371662": [
+    "Ishuzoku Reviewers"
+  ],
+  "372340": [
+    "Boku no Tonari ni Ankoku Hakaishin ga Imasu"
+  ],
+  "372921": [
+    "Somali to Mori no Kamisama"
+  ],
+  "373679": [
+    "`Itai no wa Iya nano de Bougyoryoku ni Kyokufuri Shitai to Omoimasu"
+  ],
+  "373680": [
+    "Murenase! Seton Gakuen",
+    "Murenase! Shiiton Gakuen"
   ],
   "737567": [
     "Itsudatte Bokura no Koi wa 10 Centi Datta"
