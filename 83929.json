@@ -550,5 +550,77 @@
       "episode": 13,
       "absolute": 40
     }
+  },
+  {
+    "scene": {
+      "season": 20,
+      "episode": 1,
+      "absolute": 47
+    },
+    "tvdb": {
+      "season": 19,
+      "episode": 1,
+      "absolute": 41
+    }
+  },
+  {
+    "scene": {
+      "season": 20,
+      "episode": 2,
+      "absolute": 48
+    },
+    "tvdb": {
+      "season": 19,
+      "episode": 2,
+      "absolute": 42
+    }
+  },
+  {
+    "scene": {
+      "season": 20,
+      "episode": 3,
+      "absolute": 49
+    },
+    "tvdb": {
+      "season": 19,
+      "episode": 3,
+      "absolute": 43
+    }
+  },
+  {
+    "scene": {
+      "season": 20,
+      "episode": 4,
+      "absolute": 50
+    },
+    "tvdb": {
+      "season": 19,
+      "episode": 4,
+      "absolute": 44
+    }
+  },
+  {
+    "scene": {
+      "season": 20,
+      "episode": 5,
+      "absolute": 51
+    },
+    "tvdb": {
+      "season": 19,
+      "episode": 5,
+      "absolute": 45
+    }
+  },
+  {
+    "scene": {
+      "season": 20,
+      "episode": 6,
+      "absolute": 52
+    },
+    "tvdb": {
+      "season": 19,
+      "episode": 6,
+      "absolute": 46
+    }
   }
 ]

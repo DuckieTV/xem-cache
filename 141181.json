@@ -3565,14 +3565,62 @@
   },
   {
     "scene": {
-      "season": 0,
-      "episode": 0,
-      "absolute": 0
+      "season": 21,
+      "episode": 7,
+      "absolute": 297
     },
     "tvdb": {
       "season": 2019,
       "episode": 31,
       "absolute": 297
+    }
+  },
+  {
+    "scene": {
+      "season": 21,
+      "episode": 8,
+      "absolute": 298
+    },
+    "tvdb": {
+      "season": 2020,
+      "episode": 1,
+      "absolute": 298
+    }
+  },
+  {
+    "scene": {
+      "season": 21,
+      "episode": 9,
+      "absolute": 299
+    },
+    "tvdb": {
+      "season": 2020,
+      "episode": 2,
+      "absolute": 299
+    }
+  },
+  {
+    "scene": {
+      "season": 21,
+      "episode": 10,
+      "absolute": 300
+    },
+    "tvdb": {
+      "season": 2020,
+      "episode": 3,
+      "absolute": 300
+    }
+  },
+  {
+    "scene": {
+      "season": 21,
+      "episode": 11,
+      "absolute": 301
+    },
+    "tvdb": {
+      "season": 2020,
+      "episode": 4,
+      "absolute": 301
     }
   }
 ]
