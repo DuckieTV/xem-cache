@@ -1371,7 +1371,10 @@
     "キングダム",
     "Kingdom S2",
     "Kingdom 2",
-    "Kingdom (2013)"
+    "Kingdom (2013)",
+    "Kingdom S3",
+    "Kingdom 3",
+    "Kingdom (2020)"
   ],
   "259636": [
     "Muv-Luv Alternative - Total Eclipse"
@@ -1631,7 +1634,9 @@
     "Yahari Ore no Seishun Love Come wa Machigatteiru Zoku",
     "Yahari Ore no Seishun Love Comedy wa Machigatteiru Zoku",
     "My Teen Romantic Comedy SNAFU Zoku",
-    "Yahari Ore no Seishun Love Comedy wa Machigatteiru. Zoku - My Teenage RomCom SNAFU TOO!"
+    "Yahari Ore no Seishun Love Comedy wa Machigatteiru. Zoku - My Teenage RomCom SNAFU TOO!",
+    "Yahari Ore no Seishun Love Come wa Machigatteiru Kan",
+    "Yahari Ore no Seishun Love Comedy wa Machigatteiru Kan"
   ],
   "267436": [
     "Photokano",
@@ -2364,7 +2369,10 @@
     "Shokugeki no Souma",
     "Shokugeki no Soma S4",
     "Shokugeki no Souma: Shin no Sara",
-    "Shokugeki no Souma S4"
+    "Shokugeki no Souma S4",
+    "Shokugeki no Soma S5",
+    "Shokugeki no Souma: Go no Sara",
+    "Shokugeki no Souma S5"
   ],
   "290122": [
     "Sengoku Musou"
@@ -2980,6 +2988,10 @@
     "Spiritpact S2",
     "Spiritpact 2"
   ],
+  "321532": [
+    "Tsugu Tsugumomo",
+    "Tsugumomo S2"
+  ],
   "321535": [
     "Seikaisuru Kado"
   ],
@@ -3445,7 +3457,9 @@
     "Back Street Girls ~Goku Dolls~"
   ],
   "347215": [
-    "Jashin-chan Dropkick"
+    "Jashin-chan Dropkick",
+    "Jashin-chan Dropkick S2",
+    "Jashin-chan Dropkick'"
   ],
   "347226": [
     "Himote House"
@@ -3793,7 +3807,8 @@
   ],
   "366460": [
     "Brand New Animal (BNA)",
-    "Brand New Animal"
+    "Brand New Animal",
+    "BNA"
   ],
   "366702": [
     "Houkago Saikoro Club"
@@ -3871,8 +3886,16 @@
     "Magia Record - Mahou Shoujo Madoka",
     "Magia Record - Mahou Shoujo Madoka Magica Gaiden"
   ],
+  "371040": [
+    "Nami yo Kiitekure",
+    "Nami yo Kiite kure"
+  ],
   "371193": [
     "Oshi ga Budoukan Ittekuretara Shinu"
+  ],
+  "371437": [
+    "Hamefura",
+    "Otome Game no Hametsu Flag shika Nai Akuyaku Reijou ni Tensei shiteshimatta…"
   ],
   "371444": [
     "Koisuru Asteroid"
@@ -3886,6 +3909,13 @@
   ],
   "372340": [
     "Boku no Tonari ni Ankoku Hakaishin ga Imasu"
+  ],
+  "372361": [
+    "Houkago Teibou Nisshi"
+  ],
+  "372534": [
+    "Yesterday o Utatte",
+    "Yesterday wo Utatte"
   ],
   "372921": [
     "Somali to Mori no Kamisama"
@@ -3909,6 +3939,19 @@
   ],
   "374787": [
     "Hachi-nan tte, Sore wa Nai deshou!"
+  ],
+  "376211": [
+    "Fugou Keiji - Balance:Unlimited"
+  ],
+  "376729": [
+    "Kami no Tou"
+  ],
+  "377679": [
+    "Shachibato",
+    "Shachou, Battle no Jikan Desu!"
+  ],
+  "378809": [
+    "Gal to Kyouryuu"
   ],
   "737567": [
     "Itsudatte Bokura no Koi wa 10 Centi Datta"
