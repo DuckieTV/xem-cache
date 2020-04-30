@@ -802,5 +802,29 @@
       "episode": 29,
       "absolute": 67
     }
+  },
+  {
+    "scene": {
+      "season": 7,
+      "episode": 30,
+      "absolute": 68
+    },
+    "tvdb": {
+      "season": 8,
+      "episode": 30,
+      "absolute": 68
+    }
+  },
+  {
+    "scene": {
+      "season": 7,
+      "episode": 31,
+      "absolute": 69
+    },
+    "tvdb": {
+      "season": 8,
+      "episode": 31,
+      "absolute": 69
+    }
   }
 ]
