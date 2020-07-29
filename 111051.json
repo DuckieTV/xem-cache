@@ -7107,5 +7107,29 @@
       "episode": 19,
       "absolute": 554
     }
+  },
+  {
+    "scene": {
+      "season": 17,
+      "episode": 27,
+      "absolute": 563
+    },
+    "tvdb": {
+      "season": 2020,
+      "episode": 20,
+      "absolute": 555
+    }
+  },
+  {
+    "scene": {
+      "season": 17,
+      "episode": 28,
+      "absolute": 564
+    },
+    "tvdb": {
+      "season": 2020,
+      "episode": 21,
+      "absolute": 556
+    }
   }
 ]
