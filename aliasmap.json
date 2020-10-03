@@ -2036,7 +2036,8 @@
     "Haikyuu!! Karasuno Koukou vs Shiratorizawa Gakuen Koukou",
     "Haikyuu!! Karasuno High School vs. Shiratorizawa Academy",
     "Haikyuu!! S4",
-    "Haikyuu! To the Top"
+    "Haikyuu! To the Top",
+    "Haikyuu!!: To the Top 2nd Season"
   ],
   "278196": [
     "Bokura wa Minna Kawaisou"
@@ -2073,7 +2074,10 @@
     "Gochuumon wa Usagi Desu ka?",
     "Gochuumon wa Usagi Desu ka S2",
     "Gochuumon wa Usagi Desu ka??",
-    "Is the Order a Rabbit??"
+    "Gochuumon wa Usagi Desu ka? BLOOM",
+    "Is the Order a Rabbit??",
+    "Gochuumon wa Usagi Desu ka? S3",
+    "Is the Order a Rabbit? BLOOM"
   ],
   "278819": [
     "Isshuukan Friends"
@@ -2354,7 +2358,6 @@
     "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka II",
     "Is It Wrong to Try to Pick Up Girls in a Dungeon? II",
     "Is It Wrong to Try to Pick Up Girls in a Dungeon II (DanMachi S02)",
-    "DanMachi S2",
     "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka III",
     "Is It Wrong to Try to Pick Up Girls in a Dungeon? III"
   ],
@@ -3002,7 +3005,10 @@
     "Minami Kamakura Koukou Joshi Jitensha-bu"
   ],
   "319995": [
-    "One Room S2"
+    "One Room S2",
+    "One Room 2nd Season",
+    "One Room 3rd Season",
+    "One Room S3"
   ],
   "319997": [
     "Kemono Friends S2"
@@ -3956,8 +3962,15 @@
     "Nami yo Kiitekure",
     "Nami yo Kiite kure"
   ],
+  "371108": [
+    "Adachi to Shimamura"
+  ],
   "371193": [
     "Oshi ga Budoukan Ittekuretara Shinu"
+  ],
+  "371436": [
+    "Majo no Tabitabi",
+    "Majo no Tabitabi ~The Journey of Elaina~"
   ],
   "371437": [
     "Hamefura",
@@ -3992,6 +4005,9 @@
   "372939": [
     "Majutsushi Orphen Hagure tabi"
   ],
+  "373275": [
+    "Hypnosis Mic - Division Rap Battle - Rhyme Anima"
+  ],
   "373276": [
     "Housekishou Richard-shi no Nazo Kantei"
   ],
@@ -4001,6 +4017,9 @@
   "373680": [
     "Murenase! Seton Gakuen",
     "Murenase! Shiiton Gakuen"
+  ],
+  "374191": [
+    "Dragon Quest - Dai no Daibouken (2020)"
   ],
   "374491": [
     "Uchi Tama - Uchi no Tama Shirimasen ka",
@@ -4056,10 +4075,33 @@
   "382868": [
     "Lapis ReLiGHTs"
   ],
+  "383518": [
+    "100-man no Inochi no Ue ni Ore wa Tatte Iru"
+  ],
   "383989": [
     "Chou Futsuu Toshi Kashiwa Densetsu R"
   ],
   "384017": [
     "Koi to Producer - Evol x Love"
+  ],
+  "384485": [
+    "Hanyou no Yashahime: Sengoku Otogizoushi",
+    "Hanyou no Yashahime",
+    "Han`you no Yashahime: Sengoku Otogizoushi"
+  ],
+  "384757": [
+    "Kamisama ni Natta hi"
+  ],
+  "385002": [
+    "Higurashi no Naku Koro ni (2020)"
+  ],
+  "385077": [
+    "Tonikaku Kawaii"
+  ],
+  "385542": [
+    "Yuukoku no Moriarty"
+  ],
+  "387027": [
+    "Kimi to Boku no Saigo no Senjou, Aruiwa Sekai ga Hajimaru Seisen"
   ]
 }
