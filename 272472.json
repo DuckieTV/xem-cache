@@ -3646,5 +3646,161 @@
       "episode": 16,
       "absolute": 304
     }
+  },
+  {
+    "scene": {
+      "season": 7,
+      "episode": 12,
+      "absolute": 166
+    },
+    "tvdb": {
+      "season": 7,
+      "episode": 17,
+      "absolute": 305
+    }
+  },
+  {
+    "scene": {
+      "season": 7,
+      "episode": 12,
+      "absolute": 166
+    },
+    "tvdb": {
+      "season": 7,
+      "episode": 18,
+      "absolute": 306
+    }
+  },
+  {
+    "scene": {
+      "season": 7,
+      "episode": 13,
+      "absolute": 167
+    },
+    "tvdb": {
+      "season": 7,
+      "episode": 19,
+      "absolute": 307
+    }
+  },
+  {
+    "scene": {
+      "season": 7,
+      "episode": 13,
+      "absolute": 167
+    },
+    "tvdb": {
+      "season": 7,
+      "episode": 20,
+      "absolute": 308
+    }
+  },
+  {
+    "scene": {
+      "season": 7,
+      "episode": 14,
+      "absolute": 168
+    },
+    "tvdb": {
+      "season": 7,
+      "episode": 21,
+      "absolute": 309
+    }
+  },
+  {
+    "scene": {
+      "season": 7,
+      "episode": 14,
+      "absolute": 168
+    },
+    "tvdb": {
+      "season": 7,
+      "episode": 22,
+      "absolute": 310
+    }
+  },
+  {
+    "scene": {
+      "season": 7,
+      "episode": 15,
+      "absolute": 169
+    },
+    "tvdb": {
+      "season": 7,
+      "episode": 23,
+      "absolute": 311
+    }
+  },
+  {
+    "scene": {
+      "season": 7,
+      "episode": 15,
+      "absolute": 169
+    },
+    "tvdb": {
+      "season": 7,
+      "episode": 24,
+      "absolute": 312
+    }
+  },
+  {
+    "scene": {
+      "season": 7,
+      "episode": 16,
+      "absolute": 170
+    },
+    "tvdb": {
+      "season": 7,
+      "episode": 25,
+      "absolute": 313
+    }
+  },
+  {
+    "scene": {
+      "season": 7,
+      "episode": 16,
+      "absolute": 170
+    },
+    "tvdb": {
+      "season": 7,
+      "episode": 26,
+      "absolute": 314
+    }
+  },
+  {
+    "scene": {
+      "season": 7,
+      "episode": 17,
+      "absolute": 171
+    },
+    "tvdb": {
+      "season": 7,
+      "episode": 27,
+      "absolute": 315
+    }
+  },
+  {
+    "scene": {
+      "season": 7,
+      "episode": 18,
+      "absolute": 172
+    },
+    "tvdb": {
+      "season": 7,
+      "episode": 28,
+      "absolute": 316
+    }
+  },
+  {
+    "scene": {
+      "season": 7,
+      "episode": 18,
+      "absolute": 172
+    },
+    "tvdb": {
+      "season": 7,
+      "episode": 29,
+      "absolute": 317
+    }
   }
 ]
