@@ -882,8 +882,8 @@
       "absolute": 74
     },
     "tvdb": {
-      "season": 2,
-      "episode": 26,
+      "season": 3,
+      "episode": 1,
       "absolute": 74
     }
   },
@@ -894,9 +894,129 @@
       "absolute": 75
     },
     "tvdb": {
-      "season": 2,
-      "episode": 27,
+      "season": 3,
+      "episode": 2,
       "absolute": 75
+    }
+  },
+  {
+    "scene": {
+      "season": 1,
+      "episode": 76,
+      "absolute": 76
+    },
+    "tvdb": {
+      "season": 3,
+      "episode": 3,
+      "absolute": 76
+    }
+  },
+  {
+    "scene": {
+      "season": 1,
+      "episode": 77,
+      "absolute": 77
+    },
+    "tvdb": {
+      "season": 3,
+      "episode": 4,
+      "absolute": 77
+    }
+  },
+  {
+    "scene": {
+      "season": 1,
+      "episode": 78,
+      "absolute": 78
+    },
+    "tvdb": {
+      "season": 3,
+      "episode": 5,
+      "absolute": 78
+    }
+  },
+  {
+    "scene": {
+      "season": 1,
+      "episode": 79,
+      "absolute": 79
+    },
+    "tvdb": {
+      "season": 3,
+      "episode": 6,
+      "absolute": 79
+    }
+  },
+  {
+    "scene": {
+      "season": 1,
+      "episode": 80,
+      "absolute": 80
+    },
+    "tvdb": {
+      "season": 3,
+      "episode": 7,
+      "absolute": 80
+    }
+  },
+  {
+    "scene": {
+      "season": 1,
+      "episode": 81,
+      "absolute": 81
+    },
+    "tvdb": {
+      "season": 3,
+      "episode": 8,
+      "absolute": 81
+    }
+  },
+  {
+    "scene": {
+      "season": 1,
+      "episode": 82,
+      "absolute": 82
+    },
+    "tvdb": {
+      "season": 3,
+      "episode": 9,
+      "absolute": 82
+    }
+  },
+  {
+    "scene": {
+      "season": 1,
+      "episode": 83,
+      "absolute": 83
+    },
+    "tvdb": {
+      "season": 3,
+      "episode": 10,
+      "absolute": 83
+    }
+  },
+  {
+    "scene": {
+      "season": 1,
+      "episode": 84,
+      "absolute": 84
+    },
+    "tvdb": {
+      "season": 3,
+      "episode": 11,
+      "absolute": 84
+    }
+  },
+  {
+    "scene": {
+      "season": 1,
+      "episode": 85,
+      "absolute": 85
+    },
+    "tvdb": {
+      "season": 3,
+      "episode": 12,
+      "absolute": 85
     }
   }
 ]
