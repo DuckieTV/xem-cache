@@ -1818,7 +1818,10 @@
     "Log Horizon 2",
     "Log Horizon 2nd Season",
     "Log Horizon II",
-    "Log Horizon: Entaku Houkai"
+    "Log Horizon: Entaku Houkai",
+    "Log Horizon 3",
+    "Log Horizon 3rd Season",
+    "Log Horizon III"
   ],
   "272129": [
     "Strike the Blood OVA - Valkyria no Oukoku-hen",
@@ -1866,7 +1869,8 @@
     "俺の脳内選択肢が, 学園ラブコメを全力で邪魔している"
   ],
   "272316": [
-    "Non Non Biyori Repeat"
+    "Non Non Biyori Repeat",
+    "Non Non Biyori Nonstop"
   ],
   "272317": [
     "Aoki Hagane no Arpeggio: Ars Nova",
@@ -2271,7 +2275,8 @@
     "Nanatsu no Taizai - Kamigami no Gekirin",
     "Nanatsu no Taizai: Wrath Of The Gods",
     "The Seven Deadly Sins Die Rückkehr der Gebote",
-    "The Seven Deadly Sins Kaiserlicher Zorn der Götter"
+    "The Seven Deadly Sins Kaiserlicher Zorn der Götter",
+    "Nanatsu no Taizai: Fundo no Shinpan"
   ],
   "284132": [
     "Madan no Ou to Vanadis"
@@ -3244,7 +3249,9 @@
     "Yuru Camp",
     "Yuru Camp△",
     "Room Camp",
-    "Heya Camp"
+    "Heya Camp",
+    "Yuru Camp S2",
+    "Yuru Camp△ S2"
   ],
   "331787": [
     "Houseki no Kuni"
@@ -3520,7 +3527,9 @@
   ],
   "346931": [
     "Hataraku Saibou",
-    "Hataraku Saibou (Cells at Work!)"
+    "Hataraku Saibou (Cells at Work!)",
+    "Hataraku Saibou S2",
+    "Hataraku Saibou!!"
   ],
   "346943": [
     "Ongaku Shoujo"
@@ -3561,12 +3570,11 @@
   ],
   "347734": [
     "Super Dragon Ball Heroes - Big Bang Mission",
-    "Super Dragon Ball Heroes Big Bang Mission",
-    "Super Dragon Ball Heroes - Space Time War",
-    "Super Dragon Ball Heroes Space Time War"
+    "Super Dragon Ball Heroes Big Bang Mission"
   ],
   "348002": [
-    "Yakusoku no Neverland"
+    "Yakusoku no Neverland",
+    "Yakusoku no Neverland S2"
   ],
   "348065": [
     "Yagate Kimi ni Naru"
@@ -3622,7 +3630,8 @@
     "Tonari no Kyuuketsuki-san"
   ],
   "352408": [
-    "Tensei Shitara Slime Datta Ken"
+    "Tensei Shitara Slime Datta Ken",
+    "Tensei Shitara Slime Datta Ken S2"
   ],
   "352564": [
     "Ore ga Suki na no wa Imouto Dakedo Imouto ja Nai",
@@ -3736,9 +3745,16 @@
     "Boogiepop wa Warawanai",
     "Boogiepop and Others"
   ],
+  "355774": [
+    "Dr. Stone S2",
+    "Dr. Stone: Stone Wars"
+  ],
   "355966": [
     "Go-Toubun no Hanayome",
-    "5-toubun no Hanayome"
+    "5-toubun no Hanayome",
+    "Go-Toubun no Hanayome S2",
+    "Go-Toubun no Hanayome ∬",
+    "5-toubun no Hanayome ∬"
   ],
   "355968": [
     "Doukyonin wa Hiza, Tokidoki, Atama no Ue"
@@ -3839,6 +3855,9 @@
   "360761": [
     "Mix - Meisei Story",
     "Mix"
+  ],
+  "361013": [
+    "Beastars 2"
   ],
   "361017": [
     "Kuutei Dragons"
@@ -4003,6 +4022,9 @@
   "371193": [
     "Oshi ga Budoukan Ittekuretara Shinu"
   ],
+  "371310": [
+    "Mushoku Tensei: Isekai Ittara Honki Dasu"
+  ],
   "371436": [
     "Majo no Tabitabi",
     "Majo no Tabitabi ~The Journey of Elaina~"
@@ -4088,6 +4110,10 @@
     "Shachibato",
     "Shachou, Battle no Jikan Desu!"
   ],
+  "377902": [
+    "Kumo desu ga, Nani ka?",
+    "Kumo Desu ga, Nanika?"
+  ],
   "378034": [
     "Bungo to Alchemist - Shinpan no Haguruma -",
     "Bungou to Alchemist - Shinpan no Haguruma"
@@ -4108,6 +4134,9 @@
   ],
   "379923": [
     "Peter Grill to Kenja no Jikan"
+  ],
+  "380402": [
+    "Hataraku Saibou BLACK"
   ],
   "380477": [
     "Kami-tachi ni Hirowareta Otoko"
@@ -4169,6 +4198,9 @@
   "386818": [
     "Noblesse"
   ],
+  "386933": [
+    "Tatoeba Last Dungeon Mae no Mura no Shounen ga Joban no Machi de Kurasu Youna Monogatari"
+  ],
   "386981": [
     "Taisou Zamurai"
   ],
@@ -4184,8 +4216,14 @@
     "Maou-jou de Oyasumi",
     "Maoujou de Oyasum"
   ],
+  "388006": [
+    "Ore dake Haireru Kakushi Dungeon"
+  ],
   "388317": [
     "Love Live! Nijigasaki Gakuen School Idol Doukoukai"
+  ],
+  "388381": [
+    "Ura Sekai Picnic"
   ],
   "388485": [
     "Inu to Neko Docchi mo Katteru to Mainichi Tanoshii"
@@ -4193,13 +4231,32 @@
   "388536": [
     "Dogeza de Tanondemita"
   ],
+  "388575": [
+    "Kaifuku Jutsushi no Yarinaoshi"
+  ],
   "388672": [
     "Tian Guan Ci Fu"
+  ],
+  "388737": [
+    "Jaku-Chara Tomozaki-kun"
   ],
   "389234": [
     "Guraburu!"
   ],
   "389235": [
     "Sore dake ga Neck"
+  ],
+  "390382": [
+    "Kemono Jihen"
+  ],
+  "391365": [
+    "Kai Byoui Ramune"
+  ],
+  "392196": [
+    "Project Scard: Praeter no Kizu",
+    "Praeter no Kizu"
+  ],
+  "392212": [
+    "Tenchi Souzou Design-bu"
   ]
 }
