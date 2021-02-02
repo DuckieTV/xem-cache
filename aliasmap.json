@@ -120,8 +120,6 @@
     "Ghost in the Shell: Stand Alone Complex 2nd GIG",
     "Koukaku Kidoutai S.A.C. 2nd GIG",
     "攻殻機動隊 S.A.C. 2nd GIG",
-    "Koukaku Kidoutai",
-    "攻殻機動隊",
     "Ghost in the Shell: S.A.C. 1st GIG",
     "Ghost in the Shell: S.A.C. 2nd GIG",
     "Ghost in the Shell",
@@ -765,8 +763,7 @@
     "Souten no Ken: Regenesis"
   ],
   "85455": [
-    "Chuuka Ichiban!",
-    "Shin Chuuka Ichiban!"
+    "Chuuka Ichiban!"
   ],
   "87491": [
     "Queen's Blade",
@@ -4034,6 +4031,10 @@
     "Eizouken ni wa Te o Dasu na!",
     "Eizouken ni wa Te wo Dasu na!",
     "Eizouken ni wa Te wo Dasu na! (Keep Your Hands Off Eizouken!)"
+  ],
+  "370891": [
+    "Shin Chuuka Ichiban! 2nd Season",
+    "Shin Chuuka Ichiban!"
   ],
   "370931": [
     "Magia Record",
