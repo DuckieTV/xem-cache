@@ -3574,7 +3574,9 @@
     "Tsukumogami Kashimasu"
   ],
   "347425": [
-    "Isekai Maou to Shoukan Shoujo no Dorei Majutsu"
+    "Isekai Maou to Shoukan Shoujo no Dorei Majutsu",
+    "Isekai Maou to Shoukan Shoujo no Dorei Majutsu S2",
+    "Isekai Maou to Shoukan Shoujo no Dorei Majutsu Ω"
   ],
   "347467": [
     "Muhyo to Rouji no Mahouritsu Soudan Jimusho"
@@ -3643,7 +3645,10 @@
     "Irozuku Sekai no Ashita kara"
   ],
   "351953": [
-    "Zombieland Saga"
+    "Zombieland Saga",
+    "Zombieland Saga Revenge",
+    "Zombie Land Saga Revenge",
+    "Zombieland Saga S2"
   ],
   "352212": [
     "Tonari no Kyuuketsuki-san"
@@ -4008,7 +4013,8 @@
   ],
   "369144": [
     "Mairimashita! Iruma-kun",
-    "Welcome to Demon School"
+    "Welcome to Demon School",
+    "Mairimashita! Iruma-kun S2"
   ],
   "369145": [
     "Null Peta"
@@ -4125,6 +4131,9 @@
   "374787": [
     "Hachi-nan tte, Sore wa Nai deshou!"
   ],
+  "375271": [
+    "Fumetsu no Anata e"
+  ],
   "375927": [
     "Maou Gakuin no Futekigousha"
   ],
@@ -4229,6 +4238,12 @@
   "385077": [
     "Tonikaku Kawaii"
   ],
+  "385278": [
+    "Ijiranaide, Nagatoro-san"
+  ],
+  "385374": [
+    "Tensura Nikki: Tensei Shitara Slime Datta Ken"
+  ],
   "385542": [
     "Yuukoku no Moriarty"
   ],
@@ -4295,8 +4310,15 @@
     "2.43 - Seiin Koukou Danshi Volley-bu",
     "Seiin Koukou Danshi Volley-bu"
   ],
+  "389377": [
+    "Slime Taoshite 300-nen, Shiranai Uchi ni Level Max ni Nattemashita"
+  ],
   "390277": [
     "Anime Kapibara-san"
+  ],
+  "390306": [
+    "Hige o Soru. Soshite Joshikousei o Hirou.",
+    "Hige wo Soru. Soshite Joshikousei wo Hirou."
   ],
   "390382": [
     "Kemono Jihen"
@@ -4326,6 +4348,9 @@
   "392491": [
     "Azur Lane - Bisoku Zenshin!"
   ],
+  "392668": [
+    "Subarashiki Kono Sekai: The Animation"
+  ],
   "392988": [
     "Toutotsu ni Egypt Kami"
   ],
@@ -4333,7 +4358,28 @@
     "Wave!! Surfing Yappe!! (TV)",
     "Wave!! Surfing Yappe!!"
   ],
+  "394340": [
+    "Sentouin, Hakenshimasu!"
+  ],
   "395022": [
     "World Witches Hasshin Shimasu!"
+  ],
+  "395156": [
+    "Kyuukyoku Shinka Shita Full Dive RPG ga Genjitsu yori mo Kusogee Dattara"
+  ],
+  "396052": [
+    "Osananajimi ga Zettai ni Makenai LoveCome"
+  ],
+  "397831": [
+    "Seijo no Maryoku wa Bannou Desu"
+  ],
+  "397860": [
+    "Koi to Yobu ni wa Kimochi Warui"
+  ],
+  "397965": [
+    "Mashiro no Oto"
+  ],
+  "398083": [
+    "Dragon, Ie wo Kau."
   ]
 }
