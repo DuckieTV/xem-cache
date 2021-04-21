@@ -7223,8 +7223,8 @@
       "absolute": 572
     },
     "tvdb": {
-      "season": 2021,
-      "episode": 1,
+      "season": 2020,
+      "episode": 29,
       "absolute": 564
     }
   },
@@ -7236,7 +7236,7 @@
     },
     "tvdb": {
       "season": 2021,
-      "episode": 2,
+      "episode": 1,
       "absolute": 565
     }
   },
@@ -7248,7 +7248,7 @@
     },
     "tvdb": {
       "season": 2021,
-      "episode": 3,
+      "episode": 2,
       "absolute": 566
     }
   },
@@ -7260,7 +7260,7 @@
     },
     "tvdb": {
       "season": 2021,
-      "episode": 4,
+      "episode": 3,
       "absolute": 567
     }
   },
@@ -7272,7 +7272,7 @@
     },
     "tvdb": {
       "season": 2021,
-      "episode": 5,
+      "episode": 4,
       "absolute": 568
     }
   },
@@ -7284,7 +7284,7 @@
     },
     "tvdb": {
       "season": 2021,
-      "episode": 6,
+      "episode": 5,
       "absolute": 569
     }
   },
@@ -7296,7 +7296,7 @@
     },
     "tvdb": {
       "season": 2021,
-      "episode": 7,
+      "episode": 6,
       "absolute": 570
     }
   },
@@ -7308,7 +7308,7 @@
     },
     "tvdb": {
       "season": 2021,
-      "episode": 8,
+      "episode": 7,
       "absolute": 571
     }
   },
@@ -7320,7 +7320,7 @@
     },
     "tvdb": {
       "season": 2021,
-      "episode": 9,
+      "episode": 8,
       "absolute": 572
     }
   },
@@ -7332,7 +7332,7 @@
     },
     "tvdb": {
       "season": 2021,
-      "episode": 10,
+      "episode": 9,
       "absolute": 573
     }
   },
@@ -7344,32 +7344,8 @@
     },
     "tvdb": {
       "season": 2021,
-      "episode": 11,
+      "episode": 10,
       "absolute": 574
-    }
-  },
-  {
-    "scene": {
-      "season": 18,
-      "episode": 19,
-      "absolute": 583
-    },
-    "tvdb": {
-      "season": 2021,
-      "episode": 12,
-      "absolute": 575
-    }
-  },
-  {
-    "scene": {
-      "season": 18,
-      "episode": 20,
-      "absolute": 584
-    },
-    "tvdb": {
-      "season": 2021,
-      "episode": 13,
-      "absolute": 576
     }
   }
 ]
