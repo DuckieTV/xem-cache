@@ -3027,7 +3027,10 @@
   ],
   "318893": [
     "Kobayashi-san Chi no Maid Dragon",
-    "Kobayashi-san Chi no Maidragon"
+    "Kobayashi-san Chi no Maidragon",
+    "Kobayashi-san Chi no Maid Dragon S",
+    "Kobayashi-san Chi no Maidragon S",
+    "Kobayashi-san Chi no Maid Dragon S2"
   ],
   "318895": [
     "Kuzu no Honkai"
@@ -4102,7 +4105,9 @@
   ],
   "371437": [
     "Hamefura",
-    "Otome Game no Hametsu Flag shika Nai Akuyaku Reijou ni Tensei shiteshimatta..."
+    "Otome Game no Hametsu Flag shika Nai Akuyaku Reijou ni Tensei shiteshimatta...",
+    "Hamefura S2",
+    "Otome Game no Hametsu Flag shika Nai Akuyaku Reijou ni Tensei shiteshimatta… X"
   ],
   "371444": [
     "Koisuru Asteroid"
@@ -4252,7 +4257,7 @@
   ],
   "383518": [
     "100-man no Inochi no Ue ni Ore wa Tatte Iru",
-    "I'm Standing on a Million Lives"
+    "100-man no Inochi no Ue ni Ore wa Tatte Iru S2"
   ],
   "383686": [
     "Wu Shan Wu Xing - Fog Hill of Five Elements"
@@ -4299,6 +4304,9 @@
     "Yuukoku no Moriarty Part 2",
     "Yukoku no Moriarty"
   ],
+  "386570": [
+    "Kaizoku Oujo"
+  ],
   "386714": [
     "Munou na Nana",
     "Munou na Nana (Talentless Nana)"
@@ -4340,8 +4348,14 @@
   "388536": [
     "Dogeza de Tanondemita"
   ],
+  "388574": [
+    "Meikyuu Black Company"
+  ],
   "388575": [
     "Kaifuku Jutsushi no Yarinaoshi"
+  ],
+  "388643": [
+    "Bokutachi no Remake"
   ],
   "388672": [
     "Tian Guan Ci Fu"
@@ -4365,6 +4379,10 @@
   "389377": [
     "Slime Taoshite 300-nen, Shiranai Uchi ni Level Max ni Nattemashita",
     "Slime Taoshite 300-nen Shiranai Uchi ni Level Max ni Nattemashita"
+  ],
+  "389422": [
+    "Genjitsu Shugi Yuusha no Oukoku Saikenki",
+    "Genkoku"
   ],
   "390277": [
     "Anime Kapibara-san"
@@ -4418,6 +4436,9 @@
     "Wave!! Surfing Yappe!! (TV)",
     "Wave!! Surfing Yappe!!"
   ],
+  "394013": [
+    "Mahouka Koukou no Yuutousei"
+  ],
   "394143": [
     "Sayonara Watashi no Cramer"
   ],
@@ -4435,6 +4456,12 @@
     "Kyuukyoku Shinka shita Full Dive RPG ga Genjitsu yori mo Kusoge Dattara",
     "Kyuukyoku Shinka Shita Full Dive RPG ga Genjitsu yori mo Kusogee Dattara"
   ],
+  "395198": [
+    "Shiroi Suna no Aquatope"
+  ],
+  "395486": [
+    "Kanojo mo Kanojo"
+  ],
   "395746": [
     "Bakuten!!"
   ],
@@ -4444,6 +4471,9 @@
   ],
   "396903": [
     "Shakunetsu Kabaddi"
+  ],
+  "397197": [
+    "Tantei wa mou, Shindeiru."
   ],
   "397208": [
     "Odd Taxi"
@@ -4480,5 +4510,22 @@
   ],
   "399147": [
     "Bishounen Tanteidan"
+  ],
+  "400133": [
+    "Vanitas no Karte",
+    "Vanitas no Carte"
+  ],
+  "400642": [
+    "Megami-ryou no Ryoubo-kun."
+  ],
+  "401234": [
+    "Uramichi Onii-san",
+    "Uramichi Oniisan"
+  ],
+  "401911": [
+    "Jahy-sama wa Kujikenai!"
+  ],
+  "402094": [
+    "Cheat Kusushi no Slow Life: Isekai ni Tsukurou Drugstore"
   ]
 }
