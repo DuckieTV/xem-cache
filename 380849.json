@@ -1414,5 +1414,29 @@
       "episode": 27,
       "absolute": 118
     }
+  },
+  {
+    "scene": {
+      "season": 2,
+      "episode": 11,
+      "absolute": 42
+    },
+    "tvdb": {
+      "season": 2,
+      "episode": 28,
+      "absolute": 119
+    }
+  },
+  {
+    "scene": {
+      "season": 2,
+      "episode": 11,
+      "absolute": 42
+    },
+    "tvdb": {
+      "season": 2,
+      "episode": 29,
+      "absolute": 120
+    }
   }
 ]
