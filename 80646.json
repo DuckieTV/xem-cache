@@ -1294,5 +1294,29 @@
       "episode": 17,
       "absolute": 81
     }
+  },
+  {
+    "scene": {
+      "season": 40,
+      "episode": 2,
+      "absolute": 85
+    },
+    "tvdb": {
+      "season": 2021,
+      "episode": 18,
+      "absolute": 82
+    }
+  },
+  {
+    "scene": {
+      "season": 40,
+      "episode": 3,
+      "absolute": 86
+    },
+    "tvdb": {
+      "season": 2021,
+      "episode": 19,
+      "absolute": 83
+    }
   }
 ]
