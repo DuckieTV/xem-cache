@@ -7431,5 +7431,17 @@
       "episode": 17,
       "absolute": 581
     }
+  },
+  {
+    "scene": {
+      "season": 18,
+      "episode": 26,
+      "absolute": 590
+    },
+    "tvdb": {
+      "season": 2021,
+      "episode": 18,
+      "absolute": 582
+    }
   }
 ]
