@@ -7434,14 +7434,98 @@
   },
   {
     "scene": {
-      "season": 18,
-      "episode": 26,
+      "season": 19,
+      "episode": 1,
       "absolute": 590
     },
     "tvdb": {
       "season": 2021,
       "episode": 18,
       "absolute": 582
+    }
+  },
+  {
+    "scene": {
+      "season": 19,
+      "episode": 2,
+      "absolute": 591
+    },
+    "tvdb": {
+      "season": 2021,
+      "episode": 19,
+      "absolute": 583
+    }
+  },
+  {
+    "scene": {
+      "season": 19,
+      "episode": 3,
+      "absolute": 592
+    },
+    "tvdb": {
+      "season": 2021,
+      "episode": 20,
+      "absolute": 584
+    }
+  },
+  {
+    "scene": {
+      "season": 19,
+      "episode": 4,
+      "absolute": 593
+    },
+    "tvdb": {
+      "season": 2021,
+      "episode": 21,
+      "absolute": 585
+    }
+  },
+  {
+    "scene": {
+      "season": 19,
+      "episode": 5,
+      "absolute": 594
+    },
+    "tvdb": {
+      "season": 2021,
+      "episode": 22,
+      "absolute": 586
+    }
+  },
+  {
+    "scene": {
+      "season": 19,
+      "episode": 6,
+      "absolute": 595
+    },
+    "tvdb": {
+      "season": 2021,
+      "episode": 23,
+      "absolute": 587
+    }
+  },
+  {
+    "scene": {
+      "season": 19,
+      "episode": 7,
+      "absolute": 596
+    },
+    "tvdb": {
+      "season": 2021,
+      "episode": 24,
+      "absolute": 588
+    }
+  },
+  {
+    "scene": {
+      "season": 19,
+      "episode": 8,
+      "absolute": 597
+    },
+    "tvdb": {
+      "season": 2021,
+      "episode": 25,
+      "absolute": 589
     }
   }
 ]
