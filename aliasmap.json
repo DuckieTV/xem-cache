@@ -442,6 +442,10 @@
     "Burakku Ragūn",
     "Black Lagoon: The Second Barrage"
   ],
+  "79635": [
+    "D Gray-Man",
+    "D-Grayman"
+  ],
   "79682": [
     "Higurashi no Naku Koro ni",
     "Higurashi no Naku Koro ni Kai",
@@ -3431,7 +3435,10 @@
     "Teasing Master Takagi-san S2",
     "Karakai Jouzu no Takagi-san",
     "Karakai Jouzu no Takagi-san 2",
-    "Karakai Jouzu no Takagi-san S2"
+    "Karakai Jouzu no Takagi-san S2",
+    "Teasing Master Takagi-san S3",
+    "Karakai Jouzu no Takagi-san 3",
+    "Karakai Jouzu no Takagi-san S3"
   ],
   "338455": [
     "Golden Kamuy 3rd Season",
@@ -3883,7 +3890,9 @@
   ],
   "357019": [
     "Arifureta Shokugyou de Sekai Saikyou",
-    "Arifureta"
+    "Arifureta",
+    "Arifureta Shokugyou de Sekai Saikyou S2",
+    "Arifureta S2"
   ],
   "357277": [
     "Virtual-san wa Miteiru"
@@ -4606,6 +4615,11 @@
   "398555": [
     "Shinigami Bocchan to Kuro Maid"
   ],
+  "399117": [
+    "Bara Ou no Souretsu",
+    "Baraou no Souretsu",
+    "The Rose King's Funeral Procession"
+  ],
   "399147": [
     "Bishounen Tanteidan"
   ],
@@ -4615,9 +4629,16 @@
   "400015": [
     "Kyuuketsuki Sugu Shinu"
   ],
+  "400090": [
+    "Akebi-chan no Sailor Fuku"
+  ],
   "400133": [
     "Vanitas no Karte",
     "Vanitas no Carte"
+  ],
+  "400134": [
+    "Kenja no Deshi o Nanoru Kenja",
+    "Kenja no Deshi wo Nanoru Kenja"
   ],
   "400573": [
     "Shin no Nakama",
@@ -4625,6 +4646,16 @@
   ],
   "400642": [
     "Megami-ryou no Ryoubo-kun."
+  ],
+  "400961": [
+    "Tensai Ouji no Akaji Kokka Saisei Jutsu"
+  ],
+  "401231": [
+    "Dolls' Frontline"
+  ],
+  "401233": [
+    "Sono Bisque Doll wa Koi wo Suru",
+    "Sono Bisque Doll wa Koi o Suru"
   ],
   "401234": [
     "Uramichi Onii-san",
@@ -4670,6 +4701,10 @@
   "402227": [
     "Kyoukai Senki"
   ],
+  "402374": [
+    "Shikkaku Mon no Saikyou Kenja",
+    "Shikkakumon no Saikyou Kenja"
+  ],
   "402412": [
     "Komi-san wa, Komyushou desu",
     "Komi-san wa, Comyushou desu"
@@ -4678,13 +4713,34 @@
     "Shinka no Mi: Shiranai Uchi ni Kachigumi Jinsei",
     "Shinka no Mi"
   ],
+  "402831": [
+    "Leadale no Daichi nite"
+  ],
+  "405227": [
+    "Fantasy Bishoujo Juniku Ojisan to",
+    "Fabiniku"
+  ],
   "405661": [
     "takt op Destiny"
+  ],
+  "406168": [
+    "Koroshi Ai"
   ],
   "407852": [
     "Sankaku Mado no Sotogawa wa Yoru"
   ],
+  "407862": [
+    "Hakozume: Koban Joshi no Gyakushuu",
+    "Hakozume"
+  ],
   "409529": [
     "Heike Monogatari"
+  ],
+  "411002": [
+    "Kaijin Kaihatsubu no Kuroitsu-san",
+    "Kaijin Kaihatsu-bu no Kuroitsu-san"
+  ],
+  "411770": [
+    "Tokyo 24-ku"
   ]
 }
