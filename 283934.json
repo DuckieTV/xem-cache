@@ -1162,5 +1162,29 @@
       "episode": 12,
       "absolute": 97
     }
+  },
+  {
+    "scene": {
+      "season": 3,
+      "episode": 13,
+      "absolute": 13
+    },
+    "tvdb": {
+      "season": 3,
+      "episode": 13,
+      "absolute": 98
+    }
+  },
+  {
+    "scene": {
+      "season": 3,
+      "episode": 14,
+      "absolute": 14
+    },
+    "tvdb": {
+      "season": 3,
+      "episode": 14,
+      "absolute": 99
+    }
   }
 ]
