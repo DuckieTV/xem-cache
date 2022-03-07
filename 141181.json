@@ -4102,5 +4102,29 @@
       "episode": 7,
       "absolute": 341
     }
+  },
+  {
+    "scene": {
+      "season": 23,
+      "episode": 8,
+      "absolute": 342
+    },
+    "tvdb": {
+      "season": 2022,
+      "episode": 8,
+      "absolute": 342
+    }
+  },
+  {
+    "scene": {
+      "season": 23,
+      "episode": 9,
+      "absolute": 343
+    },
+    "tvdb": {
+      "season": 2022,
+      "episode": 9,
+      "absolute": 343
+    }
   }
 ]
