@@ -202,5 +202,29 @@
       "episode": 15,
       "absolute": 15
     }
+  },
+  {
+    "scene": {
+      "season": 9,
+      "episode": 18,
+      "absolute": 18
+    },
+    "tvdb": {
+      "season": 9,
+      "episode": 16,
+      "absolute": 16
+    }
+  },
+  {
+    "scene": {
+      "season": 9,
+      "episode": 19,
+      "absolute": 19
+    },
+    "tvdb": {
+      "season": 9,
+      "episode": 17,
+      "absolute": 17
+    }
   }
 ]
