@@ -1108,6 +1108,10 @@
     "Cardfight!! Vanguard overDress",
     "Cardfight!! Vanguard: overDress"
   ],
+  "246381": [
+    "Tiger & Bunny 2",
+    "Tiger & Bunny S2"
+  ],
   "246521": [
     "花咲くいろは",
     "Hanasaku Iroha"
@@ -1426,7 +1430,11 @@
     "Kingdom S3",
     "Kingdom 3",
     "Kingdom (2020)",
-    "Kingdom 3rd Season"
+    "Kingdom 3rd Season",
+    "Kingdom S4",
+    "Kingdom 4",
+    "Kingdom (2022)",
+    "Kingdom 4th Season"
   ],
   "259636": [
     "Muv-Luv Alternative - Total Eclipse"
@@ -4101,7 +4109,8 @@
     "Rikei ga Koi ni Ochita no de Shoumei shitemita",
     "Rikei ga Koi ni Ochita no de Shoumei Shite Mita S2",
     "Rikei ga Koi ni Ochita no de Shoumei shitemita S2",
-    "Rikei ga Koi ni Ochita no de Shoumei shitemita. Heart"
+    "Rikei ga Koi ni Ochita no de Shoumei shitemita. Heart",
+    "Rikei ga Koi ni Ochita no de Shoumei shitemita Season 2"
   ],
   "368364": [
     "Jibaku Shounen Hanako-kun"
@@ -4181,7 +4190,9 @@
     "Magia Record S2",
     "Magia Record",
     "Magia Record - Mahou Shoujo Madoka",
-    "Magia Record - Mahou Shoujo Madoka Magica Gaiden"
+    "Magia Record - Mahou Shoujo Madoka Magica Gaiden",
+    "Magia Record S3",
+    "Magia Record - Mahou Shoujo Madoka Magica Gaiden Final Season"
   ],
   "371040": [
     "Nami yo Kiitekure",
@@ -4717,6 +4728,9 @@
   "401258": [
     "Kageki Shoujo!!"
   ],
+  "401279": [
+    "Gaikotsu Kishi-sama, Tadaima Isekai e Odekake-chuu"
+  ],
   "401855": [
     "Tsuki to Laika to Nosferatu"
   ],
@@ -4729,6 +4743,9 @@
   "401899": [
     "Taishou Otome Otogibanashi"
   ],
+  "401902": [
+    "Koi wa Sekai Seifuku no Ato de"
+  ],
   "401906": [
     "Gyakuten Sekai no Denchi Shoujo"
   ],
@@ -4739,7 +4756,15 @@
     "Saihate no Paladin"
   ],
   "401918": [
-    "Build Divide - Code Black"
+    "Build Divide - Code Black",
+    "Build Divide - Code White"
+  ],
+  "401920": [
+    "Mahou Tsukai Reimeiki",
+    "Mahoutsukai Reimeiki"
+  ],
+  "401935": [
+    "Kono Healer, Mendokusai"
   ],
   "402094": [
     "Cheat Kusushi no Slow Life - Isekai ni Tsukurou Drugstore"
@@ -4755,7 +4780,9 @@
     "Megaton-kyuu Musashi"
   ],
   "402227": [
-    "Kyoukai Senki"
+    "Kyoukai Senki",
+    "Kyoukai Senki S2",
+    "Kyoukai Senki (2022)"
   ],
   "402374": [
     "Shikkaku Mon no Saikyou Kenja",
@@ -4770,6 +4797,12 @@
   "402636": [
     "Shinka no Mi: Shiranai Uchi ni Kachigumi Jinsei",
     "Shinka no Mi"
+  ],
+  "402640": [
+    "Shokei Shoujo no Virgin Road"
+  ],
+  "402652": [
+    "Shijou Saikyou no Daimaou, Murabito A ni Tensei Suru"
   ],
   "402831": [
     "Leadale no Daichi nite"
@@ -4790,6 +4823,9 @@
   "407306": [
     "Summer Time Render"
   ],
+  "407519": [
+    "RPG Fudousan"
+  ],
   "407694": [
     "Gensou Sangokushi - Tengen Reishinki"
   ],
@@ -4806,6 +4842,10 @@
   "408700": [
     "Sabiiro no Armor - Reimei"
   ],
+  "409264": [
+    "Heroine Tarumono! Kiraware Heroine to Naisho no Oshigoto",
+    "Heroine Taru Mono! Kiraware Heroine to Naisho no Oshigoto"
+  ],
   "409307": [
     "Saiyuuki Reload - Zeroin"
   ],
@@ -4816,11 +4856,25 @@
     "Kaijin Kaihatsubu no Kuroitsu-san",
     "Kaijin Kaihatsu-bu no Kuroitsu-san"
   ],
+  "411625": [
+    "Yuusha, Yamemasu",
+    "I'm Quitting Heroing"
+  ],
   "411665": [
     "Ryman's Club"
   ],
   "411770": [
     "Tokyo 24-ku"
+  ],
+  "412312": [
+    "Kunoichi Tsubaki no Mune no Uchi"
+  ],
+  "412391": [
+    "Shachiku-san wa Youjo Yuurei ni Iyasaretai",
+    "Shachisaretai"
+  ],
+  "412826": [
+    "Otomege Sekai wa Mob ni Kibishii Sekai Desu"
   ],
   "414107": [
     "Delicious Party Precure",
