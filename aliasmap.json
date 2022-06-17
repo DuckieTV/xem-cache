@@ -1736,8 +1736,8 @@
   ],
   "267441": [
     "Hataraku Maou-sama!",
-    "The Devil Is a Part-Timer!",
-    "Hataraku Maou-sama!"
+    "Hataraku Maou-sama!!",
+    "The Devil Is a Part-Timer!"
   ],
   "267649": [
     "Dansai Bunri no Crime Edge"
@@ -2454,7 +2454,11 @@
     "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka III",
     "Is It Wrong to Try to Pick Up Girls in a Dungeon? III",
     "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka S3",
-    "DanMachi S3"
+    "DanMachi S3",
+    "DanMachi S4",
+    "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka IV",
+    "Is It Wrong to Try to Pick Up Girls in a Dungeon? IV",
+    "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka S4"
   ],
   "289884": [
     "Hibike! Euphonium S2",
@@ -2588,7 +2592,10 @@
     "Overlord 2",
     "Overlord III",
     "Overlord S3",
-    "Overlord 3"
+    "Overlord 3",
+    "Overlord IV",
+    "Overlord S4",
+    "Overlord 4"
   ],
   "295204": [
     "Aoharu x Machine Gun",
@@ -3199,6 +3206,10 @@
   "325375": [
     "Souryo to Majiwaru Shikiyoku no Yoru ni..."
   ],
+  "326109": [
+    "Made in Abyss S2",
+    "Made in Abyss: Retsujitsu no Ougonkyou"
+  ],
   "326270": [
     "Quan Zhi Gao Shou",
     "Quanzhi Gaoshou 2"
@@ -3293,7 +3304,8 @@
     "Restaurant to Another World 2"
   ],
   "329822": [
-    "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e"
+    "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e",
+    "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e S2"
   ],
   "329823": [
     "Vatican Kiseki Chousakan"
@@ -3678,7 +3690,9 @@
   "347215": [
     "Jashin-chan Dropkick",
     "Jashin-chan Dropkick S2",
-    "Jashin-chan Dropkick'"
+    "Jashin-chan Dropkick'",
+    "Jashin-chan Dropkick S3",
+    "Jashin-chan Dropkick X"
   ],
   "347226": [
     "Himote House"
@@ -4389,7 +4403,10 @@
   ],
   "380654": [
     "Kanojo, Okarishimasu",
-    "KanoKari"
+    "KanoKari",
+    "Kanojo, Okarishimasu S2",
+    "Kanojo, Okarishimasu Season 2",
+    "Kanojo, Okarishimasu (2022)"
   ],
   "380655": [
     "Monster Musume no Oisha-san"
@@ -4605,6 +4622,10 @@
     "Wave!! Surfing Yappe!! (TV)",
     "Wave!! Surfing Yappe!!"
   ],
+  "393301": [
+    "Isekai Meikyuu de Harem o",
+    "Isekai Meikyuu de Harem wo"
+  ],
   "394013": [
     "Mahouka Koukou no Yuutousei"
   ],
@@ -4637,6 +4658,10 @@
   "396052": [
     "Osananajimi ga Zettai ni Makenai LoveCome",
     "Osananajimi ga Zettai ni Makenai Love Comedy"
+  ],
+  "396876": [
+    "Shadows House S2",
+    "Shadows House 2nd Season"
   ],
   "396903": [
     "Shakunetsu Kabaddi"
@@ -4723,6 +4748,9 @@
     "Kenja no Deshi o Nanoru Kenja",
     "Kenja no Deshi wo Nanoru Kenja"
   ],
+  "400512": [
+    "Love Live! Superstar!! S2"
+  ],
   "400573": [
     "Shin no Nakama",
     "Shin no Nakama ja Nai to Yuusha no Party o Oidasareta node, Henkyou de Slow Life Suru Koto ni Shimashita"
@@ -4804,10 +4832,18 @@
   "402182": [
     "Megaton-kyuu Musashi"
   ],
+  "402223": [
+    "Renmei Kuugun Koukuu Mahou Ongakutai: Luminous Witches",
+    "Ongakutai Witches"
+  ],
   "402227": [
     "Kyoukai Senki",
     "Kyoukai Senki S2",
     "Kyoukai Senki (2022)"
+  ],
+  "402337": [
+    "Soredemo Ayumu wa Yosetekuru",
+    "SoreAyu"
   ],
   "402374": [
     "Shikkaku Mon no Saikyou Kenja",
@@ -4825,6 +4861,9 @@
     "Shinka no Mi: Shiranai Uchi ni Kachigumi Jinsei",
     "Shinka no Mi"
   ],
+  "402637": [
+    "Tensei Kenja no Isekai Life: Daini no Shokugyou o Ete, Sekai Saikyou ni Narimashita"
+  ],
   "402640": [
     "Shokei Shoujo no Virgin Road"
   ],
@@ -4836,6 +4875,10 @@
   ],
   "404886": [
     "Sasaki to Miyano"
+  ],
+  "405214": [
+    "Isekai Ojisan",
+    "Isekai Uncle"
   ],
   "405227": [
     "Fantasy Bishoujo Juniku Ojisan to",
@@ -4850,6 +4893,10 @@
   ],
   "406168": [
     "Koroshi Ai"
+  ],
+  "406592": [
+    "Isekai Yakkyoku",
+    "Parallel World Pharmacy"
   ],
   "407306": [
     "Summer Time Render",
@@ -4895,6 +4942,9 @@
   "409529": [
     "Heike Monogatari"
   ],
+  "409723": [
+    "Kumichou Musume to Sewagakari"
+  ],
   "411002": [
     "Kaijin Kaihatsubu no Kuroitsu-san",
     "Kaijin Kaihatsu-bu no Kuroitsu-san"
@@ -4916,6 +4966,9 @@
   "412312": [
     "Kunoichi Tsubaki no Mune no Uchi"
   ],
+  "412374": [
+    "Yofukashi no Uta"
+  ],
   "412391": [
     "Shachiku-san wa Youjo Yuurei ni Iyasaretai",
     "Shachisaretai"
@@ -4928,6 +4981,10 @@
     "Otome Game Sekai wa Mob ni Kibishii Sekai desu",
     "Otomege Sekai wa Mob ni Kibishii Sekai Desu"
   ],
+  "412857": [
+    "Kami Kuzu Idol",
+    "Kami Kuzu☆Idol"
+  ],
   "414107": [
     "Delicious Party Precure",
     "Delicious Party♡Precure"
@@ -4935,7 +4992,35 @@
   "414669": [
     "Atasha Kawajiri Kodama Da yo"
   ],
+  "415061": [
+    "Hoshi no Samidare"
+  ],
+  "415240": [
+    "Mamahaha no Tsurego ga Motokano Datta",
+    "Tsurekano",
+    "My Stepsister is my Ex-girlfriend"
+  ],
+  "416588": [
+    "Kuro no Shoukanshi"
+  ],
+  "416684": [
+    "Teppen!!!!!!!!!!!!!!!"
+  ],
+  "417658": [
+    "Vermeil in Gold",
+    "Kinsou no Vermeil: Gakeppuchi Majutsushi wa Saikyou no Yakusai to Mahou Sekai o Tsukisusumu",
+    "Kinsou no Vermeil"
+  ],
+  "418183": [
+    "Bucchigire!"
+  ],
   "419444": [
     "Zuihou De Zhaohuan Shi"
+  ],
+  "420225": [
+    "Saikin Yatotta Maid ga Ayashii"
+  ],
+  "420549": [
+    "Warau Arsnotoria Sun!"
   ]
 }
