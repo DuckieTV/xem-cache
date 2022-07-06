@@ -145,6 +145,30 @@
   },
   {
     "scene": {
+      "season": 13,
+      "episode": 3,
+      "absolute": 15
+    },
+    "tvdb": {
+      "season": 0,
+      "episode": 13,
+      "absolute": 0
+    }
+  },
+  {
+    "scene": {
+      "season": 13,
+      "episode": 4,
+      "absolute": 16
+    },
+    "tvdb": {
+      "season": 0,
+      "episode": 14,
+      "absolute": 0
+    }
+  },
+  {
+    "scene": {
       "season": 12,
       "episode": 1,
       "absolute": 7
