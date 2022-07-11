@@ -274,5 +274,41 @@
       "episode": 21,
       "absolute": 21
     }
+  },
+  {
+    "scene": {
+      "season": 9,
+      "episode": 23,
+      "absolute": 23
+    },
+    "tvdb": {
+      "season": 9,
+      "episode": 22,
+      "absolute": 22
+    }
+  },
+  {
+    "scene": {
+      "season": 9,
+      "episode": 24,
+      "absolute": 24
+    },
+    "tvdb": {
+      "season": 9,
+      "episode": 23,
+      "absolute": 23
+    }
+  },
+  {
+    "scene": {
+      "season": 9,
+      "episode": 25,
+      "absolute": 25
+    },
+    "tvdb": {
+      "season": 9,
+      "episode": 24,
+      "absolute": 24
+    }
   }
 ]
