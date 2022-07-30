@@ -3994,5 +3994,29 @@
       "episode": 8,
       "absolute": 333
     }
+  },
+  {
+    "scene": {
+      "season": 18,
+      "episode": 9,
+      "absolute": 334
+    },
+    "tvdb": {
+      "season": 19,
+      "episode": 9,
+      "absolute": 334
+    }
+  },
+  {
+    "scene": {
+      "season": 18,
+      "episode": 10,
+      "absolute": 335
+    },
+    "tvdb": {
+      "season": 19,
+      "episode": 10,
+      "absolute": 335
+    }
   }
 ]
