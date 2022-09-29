@@ -186,6 +186,9 @@
     "Dr. Slump: Arale-chan",
     "Dr. Slump & Arale-chan"
   ],
+  "75113": [
+    "Urusei Yatsura"
+  ],
   "75205": [
     "Beet the Vandel Buster Excellion"
   ],
@@ -1656,7 +1659,10 @@
     "Yama no Susume S2",
     "Yama no Susume Second Season",
     "Yama no Susume S3",
-    "Yama no Susume - Third Season"
+    "Yama no Susume - Third Season",
+    "Yama no Susume S4",
+    "Yama no Susume - Fourth Season",
+    "Yama no Susume: Next Summit"
   ],
   "264527": [
     "Hakkenden: Eight Dogs of the East",
@@ -2205,7 +2211,9 @@
   ],
   "279533": [
     "KanColle",
-    "Kantai Collection"
+    "Kantai Collection",
+    "KanColle S2",
+    "Kantai Collection S2"
   ],
   "279804": [
     "Gekkan Shoujo Nozaki-kun"
@@ -2928,7 +2936,9 @@
   ],
   "307375": [
     "Mob Psycho 100 S2",
-    "Mob Psycho 100 II"
+    "Mob Psycho 100 II",
+    "Mob Psycho 100 S3",
+    "Mob Psycho 100 III"
   ],
   "307868": [
     "Orange"
@@ -3510,7 +3520,9 @@
     "Golden Kamuy 3rd Season",
     "Golden Kamuy 2nd Season",
     "Golden Kamuy S3",
-    "Golden Kamuy S2"
+    "Golden Kamuy S2",
+    "Golden Kamuy 4th Season",
+    "Golden Kamuy S4"
   ],
   "339268": [
     "Steins;Gate Zero"
@@ -4227,7 +4239,10 @@
     "Welcome to Demon School",
     "Mairimashita! Iruma-kun S2",
     "Mairimashita! Iruma-kun 2nd Season",
-    "welcome to demon school! iruma-kun s2"
+    "Welcome to Demon School! Iruma-kun S2",
+    "Mairimashita! Iruma-kun S3",
+    "Mairimashita! Iruma-kun 3rd Season",
+    "Welcome to Demon School! Iruma-kun S3"
   ],
   "369145": [
     "Null Peta"
@@ -4359,7 +4374,10 @@
     "Hachi-nan tte, Sore wa Nai deshou!"
   ],
   "375271": [
-    "Fumetsu no Anata e"
+    "Fumetsu no Anata e",
+    "Fumetsu no Anata e S2",
+    "Fumetsu no Anata e Season 2",
+    "Fumetsu no Anata e 2"
   ],
   "375927": [
     "Maou Gakuin no Futekigousha"
@@ -4434,7 +4452,8 @@
     "Bessatsu Olympia Kyklos"
   ],
   "379923": [
-    "Peter Grill to Kenja no Jikan"
+    "Peter Grill to Kenja no Jikan",
+    "Peter Grill to Kenja no Jikan S2"
   ],
   "380402": [
     "Hataraku Saibou BLACK"
@@ -4460,7 +4479,8 @@
   "381406": [
     "Uzaki-chan wa Asobitai!",
     "Uzaki-chan wa Asobitai! S2",
-    "Uzaki-chan wa Asobitai! Double"
+    "Uzaki-chan wa Asobitai! Double",
+    "Uzaki-chan wa Asobitai! ω"
   ],
   "381536": [
     "Bai Yao Pu Di Yi Ce",
@@ -4910,6 +4930,10 @@
     "Kyoukai Senki (2022)",
     "AMAIM Warrior at the Borderline Part 2"
   ],
+  "402231": [
+    "Muv-Luv Alternative S2",
+    "Muv-Luv Alternative 2"
+  ],
   "402337": [
     "Soredemo Ayumu wa Yosetekuru",
     "SoreAyu"
@@ -4977,6 +5001,9 @@
   "407519": [
     "RPG Fudousan"
   ],
+  "407520": [
+    "Kage no Jitsuryokusha ni Naritakute!"
+  ],
   "407694": [
     "Gensou Sangokushi - Tengen Reishinki"
   ],
@@ -4992,6 +5019,9 @@
   "407862": [
     "Hakozume: Kouban Joshi no Gyakushuu",
     "Hakozume - Kouban Joshi no Gyakushuu"
+  ],
+  "407998": [
+    "Uchi no Shishou wa Shippo ga Nai"
   ],
   "408348": [
     "Love All Play"
@@ -5022,6 +5052,12 @@
   "409723": [
     "Kumichou Musume to Sewagakari"
   ],
+  "410147": [
+    "Shinmai Renkinjutsushi no Tenpo Keiei"
+  ],
+  "410378": [
+    "Tensei Shitara Ken Deshita"
+  ],
   "411002": [
     "Kaijin Kaihatsubu no Kuroitsu-san",
     "Kaijin Kaihatsu-bu no Kuroitsu-san"
@@ -5040,6 +5076,11 @@
   "411770": [
     "Tokyo 24-ku"
   ],
+  "411821": [
+    "Akuyaku Reijou nanode Last Boss wo Kattemimashita",
+    "Akuyaku Reijou nano de Last Boss o Katte Mimashita",
+    "Akuyaku Reijou nano de Last Boss wo Kattemimashita"
+  ],
   "412312": [
     "Kunoichi Tsubaki no Mune no Uchi"
   ],
@@ -5054,6 +5095,10 @@
     "Paripi Koumei",
     "Paripi Koumei – Ya Boy Kongming!"
   ],
+  "412806": [
+    "Fuufu Ijou, Koibito Miman",
+    "FuuKoi"
+  ],
   "412826": [
     "Otome Game Sekai wa Mob ni Kibishii Sekai desu",
     "Otomege Sekai wa Mob ni Kibishii Sekai Desu"
@@ -5067,6 +5112,12 @@
   "412857": [
     "Kami Kuzu Idol",
     "Kami Kuzu☆Idol"
+  ],
+  "413515": [
+    "Koukyuu no Karasu"
+  ],
+  "414096": [
+    "Urusei Yatsura (2022)"
   ],
   "414107": [
     "Delicious Party Precure",
@@ -5090,16 +5141,34 @@
     "Teppen!!!!!!!!!!!!!!!",
     "Teppen"
   ],
+  "416902": [
+    "Shinobi no Ittoki"
+  ],
+  "417165": [
+    "Noumin Kanren no Skill Bakka Agetetara Naze ka Tsuyoku Natta"
+  ],
   "417658": [
     "Vermeil in Gold",
     "Kinsou no Vermeil: Gakeppuchi Majutsushi wa Saikyou no Yakusai to Mahou Sekai o Tsukisusumu",
     "Kinsou no Vermeil"
+  ],
+  "417674": [
+    "Futoku no Guild"
   ],
   "418183": [
     "Bucchigire!"
   ],
   "418203": [
     "RWBY - Hyousetsu Teikoku"
+  ],
+  "418218": [
+    "Renai Flops"
+  ],
+  "418364": [
+    "Kidou Senshi Gundam: Suisei no Majo"
+  ],
+  "418376": [
+    "4-nin wa Sorezore Uso o Tsuku"
   ],
   "418740": [
     "Hanabi-chan wa Okuregachi",
@@ -5116,5 +5185,21 @@
   ],
   "420549": [
     "Warau Arsnotoria Sun!"
+  ],
+  "420753": [
+    "C Danchi"
+  ],
+  "421092": [
+    "Yuusha Party wo Tsuihou Sareta Beast Tamer, Saikyoushu no Nekomimi Shoujo to Deau"
+  ],
+  "421676": [
+    "Akiba Maid Sensou"
+  ],
+  "422345": [
+    "Aru Asa Dummy Head Mike ni Natte Ita Ore-kun no Jinsei",
+    "My Life After I Became a Dummy Head Mic One Morning"
+  ],
+  "423154": [
+    "Human Bug Daigaku"
   ]
 }
