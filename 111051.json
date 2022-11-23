@@ -7719,5 +7719,41 @@
       "episode": 10,
       "absolute": 605
     }
+  },
+  {
+    "scene": {
+      "season": 20,
+      "episode": 11,
+      "absolute": 614
+    },
+    "tvdb": {
+      "season": 2022,
+      "episode": 11,
+      "absolute": 606
+    }
+  },
+  {
+    "scene": {
+      "season": 20,
+      "episode": 12,
+      "absolute": 615
+    },
+    "tvdb": {
+      "season": 2022,
+      "episode": 12,
+      "absolute": 607
+    }
+  },
+  {
+    "scene": {
+      "season": 20,
+      "episode": 13,
+      "absolute": 616
+    },
+    "tvdb": {
+      "season": 2022,
+      "episode": 13,
+      "absolute": 608
+    }
   }
 ]
