@@ -4238,7 +4238,9 @@
   ],
   "368565": [
     "Kyokou Suiri",
-    "Kyoukou Suiri"
+    "Kyoukou Suiri",
+    "Kyokou Suiri S2",
+    "Kyoukou Suiri S2"
   ],
   "368757": [
     "Keishichou Tokuhanka 007",
@@ -4505,7 +4507,9 @@
     "Hataraku Saibou BLACK"
   ],
   "380477": [
-    "Kami-tachi ni Hirowareta Otoko"
+    "Kami-tachi ni Hirowareta Otoko",
+    "Kami-tachi ni Hirowareta Otoko S2",
+    "Kami-tachi ni Hirowareta Otoko 2"
   ],
   "380654": [
     "Kanojo, Okarishimasu",
@@ -5027,7 +5031,10 @@
   ],
   "402636": [
     "Shinka no Mi: Shiranai Uchi ni Kachigumi Jinsei",
-    "Shinka no Mi"
+    "Shinka no Mi",
+    "Shinka no Mi S2",
+    "Shin Shinka no Mi",
+    "Shin Shinka no Mi: Shiranai Uchi ni Kachigumi Jinsei"
   ],
   "402637": [
     "Tensei Kenja no Isekai Life",
@@ -5198,6 +5205,12 @@
     "Kami Kuzu Idol",
     "Kami Kuzu☆Idol"
   ],
+  "412957": [
+    "Eiyuu Ou, Bu o Kiwameru Tame Tenseisu: Soshite, Sekai Saikyou no Minarai Kishi",
+    "Eiyuu Ou, Bu wo Kiwameru Tame Tenseisu",
+    "Eiyuuou, Bu o Kiwameru Tame Tenseisu: Soshite, Sekai Saikyou no Minarai Kishi",
+    "Eiyuuou, Bu wo Kiwameru Tame Tenseisu"
+  ],
   "413515": [
     "Koukyuu no Karasu"
   ],
@@ -5209,11 +5222,19 @@
     "Delicious Party Precure",
     "Delicious Party♡Precure"
   ],
+  "414221": [
+    "Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken"
+  ],
   "414669": [
     "Atasha Kawajiri Kodama Da yo"
   ],
   "415061": [
     "Hoshi no Samidare"
+  ],
+  "415188": [
+    "Ningen Fushin",
+    "Ningen Fushin no Boukensha-tachi ga Sekai o Sukuu You Desu",
+    "Ningen Fushin Adventurers Who Don't Believe in Humanity Will Save the World"
   ],
   "415240": [
     "Mamahaha no Tsurego ga Motokano Datta",
@@ -5223,8 +5244,14 @@
   "415310": [
     "Mushikaburi Hime"
   ],
+  "415378": [
+    "Saikyou Onmyouji no Isekai Tenseiki"
+  ],
   "415509": [
     "Chiikawa"
+  ],
+  "415821": [
+    "Spy Kyoushitsu"
   ],
   "416588": [
     "Kuro no Shoukanshi"
@@ -5256,6 +5283,9 @@
   "418183": [
     "Bucchigire!"
   ],
+  "418185": [
+    "Inu ni Nattara Suki na Hito ni Hirowareta"
+  ],
   "418203": [
     "RWBY - Hyousetsu Teikoku"
   ],
@@ -5272,6 +5302,9 @@
     "Kidou Senshi Gundam - Suisei no Majo",
     "Mobile Suit Gundam - The Witch from Mercury"
   ],
+  "418367": [
+    "Isekai Nonbiri Nouka"
+  ],
   "418376": [
     "4-nin wa Sorezore Uso wo Tsuku",
     "4-nin wa Sorezore Uso o Tsuku"
@@ -5279,6 +5312,10 @@
   "418740": [
     "Hanabi-chan wa Okuregachi",
     "Hanabi-chan wa Okure-gachi"
+  ],
+  "419278": [
+    "Onii-chan wa Oshimai!",
+    "Onimai"
   ],
   "419283": [
     "Cool Doji Danshi"
@@ -5288,6 +5325,14 @@
   ],
   "419448": [
     "Yoru wa Neko to Issho"
+  ],
+  "419502": [
+    "Hyouken no Majutsushi ga Sekai o Suberu",
+    "Hyouken no Majutsushi ga Sekai wo Suberu"
+  ],
+  "420084": [
+    "Kubo-san wa Boku o Yurusanai",
+    "Kubo-san wa Mob wo Yurusanai"
   ],
   "420225": [
     "Saikin Yatotta Maid ga Ayashii"
@@ -5302,15 +5347,36 @@
     "Yuusha Party o Tsuihou Sareta Beast Tamer, Saikyoushu no Nekomimi Shoujo to Deau",
     "Yuusha Party wo Tsuihou Sareta Beast Tamer, Saikyoushu no Nekomimi Shoujo to Deau"
   ],
+  "421514": [
+    "Koori Zokusei Danshi to Cool na Douryou Joshi"
+  ],
   "421676": [
     "Akiba Maid Sensou"
+  ],
+  "421994": [
+    "Tomo-chan wa Onnanoko!"
   ],
   "422345": [
     "Aru Asa Dummy Head Mike ni Natte Ita Ore-kun no Jinsei",
     "My Life After I Became a Dummy Head Mic One Morning"
   ],
+  "422405": [
+    "Tsundere Akuyaku Reijou Liselotte to Jikkyou no Endou-kun to Kaisetsu no Kobayashi-san",
+    "Tsunlise"
+  ],
+  "422564": [
+    "Kaiko sareta Ankoku Heishi (30-dai) no Slow na Second Life"
+  ],
+  "422675": [
+    "Rougo ni Sonaete Isekai de 8-manmai no Kinka o Tamemasu",
+    "Rougo ni Sonaete Isekai de 8-manmai no Kinka wo Tamemasu"
+  ],
   "423154": [
     "Human Bug Daigaku"
+  ],
+  "423362": [
+    "Tensei Oujo to Tensai Reijou no Mahou Kakumei",
+    "Tenten Kakumei"
   ],
   "425148": [
     "Berserk - The Golden Age Arc Memorial Edition",
