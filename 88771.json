@@ -550,5 +550,137 @@
       "episode": 12,
       "absolute": 46
     }
+  },
+  {
+    "scene": {
+      "season": 17,
+      "episode": 1,
+      "absolute": 47
+    },
+    "tvdb": {
+      "season": 16,
+      "episode": 1,
+      "absolute": 47
+    }
+  },
+  {
+    "scene": {
+      "season": 17,
+      "episode": 2,
+      "absolute": 48
+    },
+    "tvdb": {
+      "season": 16,
+      "episode": 2,
+      "absolute": 48
+    }
+  },
+  {
+    "scene": {
+      "season": 17,
+      "episode": 3,
+      "absolute": 49
+    },
+    "tvdb": {
+      "season": 16,
+      "episode": 3,
+      "absolute": 49
+    }
+  },
+  {
+    "scene": {
+      "season": 17,
+      "episode": 4,
+      "absolute": 50
+    },
+    "tvdb": {
+      "season": 16,
+      "episode": 4,
+      "absolute": 50
+    }
+  },
+  {
+    "scene": {
+      "season": 17,
+      "episode": 5,
+      "absolute": 51
+    },
+    "tvdb": {
+      "season": 16,
+      "episode": 5,
+      "absolute": 51
+    }
+  },
+  {
+    "scene": {
+      "season": 17,
+      "episode": 6,
+      "absolute": 52
+    },
+    "tvdb": {
+      "season": 16,
+      "episode": 6,
+      "absolute": 52
+    }
+  },
+  {
+    "scene": {
+      "season": 17,
+      "episode": 7,
+      "absolute": 53
+    },
+    "tvdb": {
+      "season": 16,
+      "episode": 7,
+      "absolute": 53
+    }
+  },
+  {
+    "scene": {
+      "season": 17,
+      "episode": 8,
+      "absolute": 54
+    },
+    "tvdb": {
+      "season": 16,
+      "episode": 8,
+      "absolute": 54
+    }
+  },
+  {
+    "scene": {
+      "season": 17,
+      "episode": 9,
+      "absolute": 55
+    },
+    "tvdb": {
+      "season": 16,
+      "episode": 9,
+      "absolute": 55
+    }
+  },
+  {
+    "scene": {
+      "season": 17,
+      "episode": 10,
+      "absolute": 56
+    },
+    "tvdb": {
+      "season": 16,
+      "episode": 10,
+      "absolute": 56
+    }
+  },
+  {
+    "scene": {
+      "season": 17,
+      "episode": 11,
+      "absolute": 57
+    },
+    "tvdb": {
+      "season": 16,
+      "episode": 11,
+      "absolute": 57
+    }
   }
 ]
