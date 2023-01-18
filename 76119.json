@@ -1894,5 +1894,17 @@
       "episode": 18,
       "absolute": 161
     }
+  },
+  {
+    "scene": {
+      "season": 49,
+      "episode": 19,
+      "absolute": 162
+    },
+    "tvdb": {
+      "season": 49,
+      "episode": 19,
+      "absolute": 162
+    }
   }
 ]
