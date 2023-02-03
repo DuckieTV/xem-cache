@@ -1534,5 +1534,41 @@
       "episode": 16,
       "absolute": 101
     }
+  },
+  {
+    "scene": {
+      "season": 41,
+      "episode": 3,
+      "absolute": 105
+    },
+    "tvdb": {
+      "season": 2023,
+      "episode": 1,
+      "absolute": 102
+    }
+  },
+  {
+    "scene": {
+      "season": 41,
+      "episode": 4,
+      "absolute": 106
+    },
+    "tvdb": {
+      "season": 2023,
+      "episode": 2,
+      "absolute": 103
+    }
+  },
+  {
+    "scene": {
+      "season": 41,
+      "episode": 5,
+      "absolute": 107
+    },
+    "tvdb": {
+      "season": 2023,
+      "episode": 3,
+      "absolute": 104
+    }
   }
 ]
