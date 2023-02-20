@@ -4263,7 +4263,7 @@
     "scene": {
       "season": 24,
       "episode": 1,
-      "absolute": 355
+      "absolute": 353
     },
     "tvdb": {
       "season": 2023,
@@ -4275,7 +4275,7 @@
     "scene": {
       "season": 24,
       "episode": 2,
-      "absolute": 356
+      "absolute": 354
     },
     "tvdb": {
       "season": 2023,
@@ -4287,7 +4287,7 @@
     "scene": {
       "season": 24,
       "episode": 3,
-      "absolute": 357
+      "absolute": 355
     },
     "tvdb": {
       "season": 2023,
@@ -4299,12 +4299,60 @@
     "scene": {
       "season": 24,
       "episode": 4,
-      "absolute": 358
+      "absolute": 356
     },
     "tvdb": {
       "season": 2023,
       "episode": 4,
       "absolute": 358
+    }
+  },
+  {
+    "scene": {
+      "season": 24,
+      "episode": 5,
+      "absolute": 357
+    },
+    "tvdb": {
+      "season": 2023,
+      "episode": 5,
+      "absolute": 359
+    }
+  },
+  {
+    "scene": {
+      "season": 24,
+      "episode": 6,
+      "absolute": 358
+    },
+    "tvdb": {
+      "season": 2023,
+      "episode": 6,
+      "absolute": 360
+    }
+  },
+  {
+    "scene": {
+      "season": 24,
+      "episode": 7,
+      "absolute": 359
+    },
+    "tvdb": {
+      "season": 2023,
+      "episode": 7,
+      "absolute": 361
+    }
+  },
+  {
+    "scene": {
+      "season": 24,
+      "episode": 8,
+      "absolute": 360
+    },
+    "tvdb": {
+      "season": 2023,
+      "episode": 8,
+      "absolute": 362
     }
   }
 ]
