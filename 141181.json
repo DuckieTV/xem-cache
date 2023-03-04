@@ -4354,5 +4354,29 @@
       "episode": 8,
       "absolute": 362
     }
+  },
+  {
+    "scene": {
+      "season": 24,
+      "episode": 9,
+      "absolute": 361
+    },
+    "tvdb": {
+      "season": 2023,
+      "episode": 9,
+      "absolute": 363
+    }
+  },
+  {
+    "scene": {
+      "season": 24,
+      "episode": 10,
+      "absolute": 362
+    },
+    "tvdb": {
+      "season": 2023,
+      "episode": 10,
+      "absolute": 364
+    }
   }
 ]
