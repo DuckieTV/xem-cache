@@ -1138,5 +1138,29 @@
       "episode": 47,
       "absolute": 95
     }
+  },
+  {
+    "scene": {
+      "season": 2,
+      "episode": 48,
+      "absolute": 48
+    },
+    "tvdb": {
+      "season": 2,
+      "episode": 48,
+      "absolute": 96
+    }
+  },
+  {
+    "scene": {
+      "season": 2,
+      "episode": 49,
+      "absolute": 49
+    },
+    "tvdb": {
+      "season": 2,
+      "episode": 49,
+      "absolute": 97
+    }
   }
 ]
