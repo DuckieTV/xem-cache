@@ -276,9 +276,6 @@
     "Ranma 1/2",
     "Ranma"
   ],
-  "77106": [
-    "Lets Make A Deal 2009"
-  ],
   "77435": [
     "Courage der feige Hund"
   ],
@@ -3091,7 +3088,9 @@
   ],
   "316842": [
     "Mahou Tsukai no Yome",
-    "Mahoutsukai no Yome"
+    "Mahoutsukai no Yome",
+    "Mahoutsukai no Yome S2",
+    "Mahou Tsukai no Yome S2"
   ],
   "316844": [
     "Shakunetsu no Takkyuu Musume"
@@ -3388,7 +3387,9 @@
     "Hina Logi - From Luck Logic"
   ],
   "329992": [
-    "Isekai wa Smartphone to Tomo ni"
+    "Isekai wa Smartphone to Tomo ni",
+    "Isekai wa Smartphone to Tomo ni S2",
+    "Isekai wa Smartphone to Tomo ni 2"
   ],
   "329993": [
     "Konbini Kareshi"
@@ -3812,7 +3813,10 @@
     "Kimetsu no Yaiba S3",
     "Kimetsu no Yaiba: Yuukaku Hen",
     "Demon Slayer - Infinity Train arc",
-    "Demon Slayer - Kimetsu no Yaiba Entertainment District Arc"
+    "Demon Slayer - Kimetsu no Yaiba Entertainment District Arc",
+    "Kimetsu no Yaiba S4",
+    "Kimetsu no Yaiba: Katanakaji no Sato Hen",
+    "Demon Slayer - Kimetsu no Yaiba Swordsmith Village Arc"
   ],
   "348601": [
     "Kyoto Teramachi Sanjou no Holmes",
@@ -3972,7 +3976,8 @@
     "Kaguya-sama: Love is War S3",
     "Kaguya-sama wa Kokurasetai S3",
     "Kaguya-sama wa Kokurasetai: Ultra Romantic",
-    "Kaguya-sama - Love Is War -Ultra Romantic-"
+    "Kaguya-sama - Love Is War -Ultra Romantic-",
+    "Kaguya-sama wa Kokurasetai - First Kiss wa Owaranai"
   ],
   "354199": [
     "Kemurikusa (TV)"
@@ -4004,7 +4009,9 @@
   ],
   "355774": [
     "Dr. Stone S2",
-    "Dr. Stone: Stone Wars"
+    "Dr. Stone: Stone Wars",
+    "Dr. Stone S3",
+    "Dr. Stone: New World"
   ],
   "355966": [
     "Go-Toubun no Hanayome",
@@ -4141,7 +4148,8 @@
   ],
   "360761": [
     "Mix - Meisei Story",
-    "Mix"
+    "Mix",
+    "Mix - Meisei Story S2"
   ],
   "361013": [
     "Beastars 2",
@@ -4615,7 +4623,8 @@
     "Higurashi - When They Cry - SOTSU"
   ],
   "385077": [
-    "Tonikaku Kawaii"
+    "Tonikaku Kawaii",
+    "Tonikaku Kawaii S2"
   ],
   "385278": [
     "Ijiranaide, Nagatoro-san",
@@ -4635,6 +4644,10 @@
   ],
   "386570": [
     "Kaizoku Oujo"
+  ],
+  "386572": [
+    "Kuma Kuma Kuma Bear S2",
+    "Kuma Kuma Kuma Bear Punch!"
   ],
   "386713": [
     "D4DJ All Mix",
@@ -5060,6 +5073,9 @@
     "Komi-san wa, Comyushou desu. 2nd Season",
     "Komi-san wa, Comyushou desu. (Season 2)"
   ],
+  "402474": [
+    "Jigokuraku"
+  ],
   "402607": [
     "Hikari no Ou"
   ],
@@ -5078,11 +5094,17 @@
   "402640": [
     "Shokei Shoujo no Virgin Road"
   ],
+  "402644": [
+    "Niehime to Kemono no Ou"
+  ],
   "402652": [
     "Shijou Saikyou no Daimaou, Murabito A ni Tensei Suru"
   ],
   "402831": [
     "Leadale no Daichi nite"
+  ],
+  "402893": [
+    "Mahou Shoujo Magical Destroyers"
   ],
   "404886": [
     "Sasaki to Miyano"
@@ -5208,6 +5230,12 @@
     "Akuyaku Reijou nano de Last Boss o Katte Mimashita",
     "Akuyaku Reijou nano de Last Boss wo Kattemimashita"
   ],
+  "411893": [
+    "Isekai Shoukan wa Nidome Desu"
+  ],
+  "411914": [
+    "Birdie Wing - Golf Girls' Story S2"
+  ],
   "412312": [
     "Kunoichi Tsubaki no Mune no Uchi"
   ],
@@ -5227,6 +5255,9 @@
   ],
   "412626": [
     "Mononogatari"
+  ],
+  "412696": [
+    "Skip to Loafer"
   ],
   "412806": [
     "Fuufu Ijou, Koibito Miman",
@@ -5266,6 +5297,10 @@
   "414221": [
     "Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken",
     "Otonari no Tenshi-sama"
+  ],
+  "414562": [
+    "Kimi wa Houkago Insomnia",
+    "Kimisomu"
   ],
   "414669": [
     "Atasha Kawajiri Kodama Da yo"
@@ -5337,6 +5372,10 @@
     "Futoku no Guild",
     "Guild of Depravity"
   ],
+  "417675": [
+    "Isekai One Turn Kill Nee-san: Ane Douhan no Isekai Seikatsu Hajimemashita",
+    "Isekai One Turn Kill Nee-san"
+  ],
   "418183": [
     "Bucchigire!"
   ],
@@ -5370,6 +5409,14 @@
     "Hanabi-chan wa Okuregachi",
     "Hanabi-chan wa Okure-gachi"
   ],
+  "418904": [
+    "Ao no Orchestra"
+  ],
+  "419126": [
+    "Kaminaki Sekai no Kamisama Katsudou",
+    "KamiKatsu",
+    "KamiKatsu Meine Arbeit als Missionar in einer gottlosen Welt"
+  ],
   "419278": [
     "Oniichan wa Oshimai!",
     "Onii-chan wa Oshimai!",
@@ -5386,6 +5433,12 @@
   "419448": [
     "Yoru wa Neko to Issho"
   ],
+  "419490": [
+    "Otonari ni Ginga"
+  ],
+  "419500": [
+    "Yuusha ga Shinda!"
+  ],
   "419502": [
     "Hyouken no Majutsushi ga Sekai o Suberu",
     "Hyouken no Majutsushi ga Sekai wo Suberu"
@@ -5394,11 +5447,19 @@
     "Kubo-san wa Boku o Yurusanai",
     "Kubo-san wa Mob wo Yurusanai"
   ],
+  "420120": [
+    "Watashi no Yuri wa Oshigoto desu!",
+    "Cafe Liebe"
+  ],
   "420225": [
     "Saikin Yatotta Maid ga Ayashii"
   ],
   "420549": [
     "Warau Arsnotoria Sun!"
+  ],
+  "420657": [
+    "Kono Subarashii Sekai ni Bakuen o!",
+    "Kono Subarashii Sekai ni Bakuen wo!"
   ],
   "420753": [
     "C Danchi"
@@ -5407,6 +5468,9 @@
     "Yuusha Party o Tsuihou Sareta Beast Tamer, Saikyoushu no Nekomimi Shoujo to Deau",
     "Yuusha Party wo Tsuihou Sareta Beast Tamer, Saikyoushu no Nekomimi Shoujo to Deau"
   ],
+  "421273": [
+    "Edomae Elf"
+  ],
   "421514": [
     "Koori Zokusei Danshi to Cool na Douryou Joshi"
   ],
@@ -5414,11 +5478,17 @@
     "Akiba Maid Sensou",
     "Akiba Meido Sensou"
   ],
+  "421737": [
+    "Mashle"
+  ],
   "421893": [
     "Nokemono-tachi no Yoru"
   ],
   "421994": [
     "Tomo-chan wa Onnanoko!"
+  ],
+  "422039": [
+    "Kanojo ga Koushaku-tei ni Itta Riyuu"
   ],
   "422345": [
     "Aru Asa Dummy Head Mike ni Natte Ita Ore-kun no Jinsei",
@@ -5437,6 +5507,14 @@
     "Rougo ni Sonaete Isekai de 8-manmai no Kinka o Tamemasu",
     "Rougo ni Sonaete Isekai de 8-manmai no Kinka wo Tamemasu"
   ],
+  "422981": [
+    "Boku no Kokoro no Yabai Yatsu"
+  ],
+  "423094": [
+    "Tensei Kizoku no Isekai Boukenroku",
+    "Chronicles of an Aristocrat Reborn in Another World",
+    "Die Parallelwelt Chroniken des Aristokraten"
+  ],
   "423154": [
     "Human Bug Daigaku"
   ],
@@ -5445,6 +5523,17 @@
     "Tenten Kakumei",
     "转生王女与天才千金的魔法革命"
   ],
+  "423413": [
+    "Yamada-kun to Lv999 no Koi wo Suru",
+    "Yamada-kun to Lv999 no Koi o Suru"
+  ],
+  "423653": [
+    "Isekai de Cheat Skill o Te ni Shita Ore wa, Genjitsu Sekai o mo Musou Suru: Level Up wa Jinsei o Kaeta",
+    "Iseleve"
+  ],
+  "424435": [
+    "Megami no Cafe Terrace"
+  ],
   "425148": [
     "Berserk - The Golden Age Arc Memorial Edition",
     "Berserk Golden Age Memorial Edition"
@@ -5452,8 +5541,15 @@
   "425285": [
     "Lookism"
   ],
+  "425341": [
+    "Kawaisugi Crisis"
+  ],
   "425368": [
     "Ars no Kyojuu"
+  ],
+  "426165": [
+    "Heavenly Delusion",
+    "Tengoku Daimakyou"
   ],
   "426572": [
     "Tondemo Skill de Isekai Hourou Meshi",
@@ -5464,7 +5560,14 @@
     "The Three-Body Problem",
     "Santi - The Three-Body Problem"
   ],
+  "427276": [
+    "Jijou o Shiranai Tenkousei ga Guigui Kuru",
+    "Jijou wo Shiranai Tenkousei ga Guigui Kuru"
+  ],
   "428456": [
     "Pocket Monsters - Aim to be a Pokémon Master"
+  ],
+  "429895": [
+    "Rokudou no Onna-tachi"
   ]
 }

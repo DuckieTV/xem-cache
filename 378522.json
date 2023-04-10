@@ -1162,5 +1162,17 @@
       "episode": 49,
       "absolute": 97
     }
+  },
+  {
+    "scene": {
+      "season": 2,
+      "episode": 50,
+      "absolute": 50
+    },
+    "tvdb": {
+      "season": 2,
+      "episode": 50,
+      "absolute": 98
+    }
   }
 ]
