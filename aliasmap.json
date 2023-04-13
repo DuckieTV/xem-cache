@@ -226,30 +226,31 @@
     "Tsubasa Reservoir Chronicle Shunraiki"
   ],
   "76703": [
-    "Indigo League",
-    "Adventures on the Orange Islands",
-    "The Johto Journeys",
-    "Johto League Champions",
-    "Master Quest",
-    "Advanced",
-    "Advanced Challenge",
-    "Advanced Battle",
-    "Battle Frontier",
-    "Diamond and Pearl",
-    "Diamond and Pearl: Battle Dimension",
-    "Diamond and Pearl: Galactic Battles",
-    "Diamond and Pearl: Sinnoh League Victors",
-    "Black & White",
-    "Black & White: Rival Destinies",
-    "Black & White: Adventures in Unova",
-    "XY",
-    "XY: Kalos Quest",
-    "XY&Z",
-    "Sun & Moon",
-    "Sun & Moon: Ultra Adventures",
-    "Sun & Moon: Ultra Legends",
+    "Pokemon Indigo League",
+    "Pokemon Adventures on the Orange Islands",
+    "Pokemon The Johto Journeys",
+    "Pokemon Johto League Champions",
+    "Pokemon Master Quest",
+    "Pokemon Advanced",
+    "Pokemon Advanced Challenge",
+    "Pokemon Advanced Battle",
+    "Pokemon Battle Frontier",
+    "Pokemon Diamond and Pearl",
+    "Pokemon Diamond and Pearl Battle Dimension",
+    "Pokemon Diamond and Pearl Galactic Battles",
+    "Pokemon Sinnoh League Victors",
+    "Pokemon Black and White",
+    "Pokemon BW: Rival Destinies",
+    "Pokemon BW: Adventures in Unova",
+    "Pokemon XY",
+    "Pokemon XY: Kalos Quest",
+    "Pokemon XYZ",
+    "Pokemon Sun and Moon",
+    "Pokemon Sun & Moon: Ultra Adventures",
+    "Pokemon Sun & Moon: Ultra Legends",
     "Pokémon Journeys: The Series",
-    "Pokemon Master Journeys The Series"
+    "Pokemon Master Journeys The Series",
+    "Pokemon BW"
   ],
   "76705": [
     "Rocky and Bullwinkle and Friends",
@@ -4398,7 +4399,9 @@
     "Majutsushi Orphen Hagure Tabi - Kimluck-hen",
     "Sorcerous Stabber Orphen - Battle of Kimluck",
     "Majutsushi Orphen Hagure Tabi S3",
-    "Majutsushi Orphen Hagure Tabi - Urbanrama Hen"
+    "Majutsushi Orphen Hagure Tabi - Urbanrama Hen",
+    "Majutsushi Orphen Hagure Tabi S4",
+    "Majutsushi Orphen Hagure Tabi - Seiiki Hen"
   ],
   "372959": [
     "Ochikobore Fruit Tart"
@@ -5574,5 +5577,10 @@
   ],
   "429895": [
     "Rokudou no Onna-tachi"
+  ],
+  "432849": [
+    "X and Y",
+    "Aiyou de Mishi",
+    "X Y Ai You De Mishi"
   ]
 }
