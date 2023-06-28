@@ -2887,7 +2887,8 @@
     "Bungou Stray Dogs",
     "Bungou Stray Dogs 3rd Season",
     "Bungou Stray Dogs 4th Season",
-    "Bungou Stray Dogs S4 -"
+    "Bungou Stray Dogs S4 -",
+    "Bungou Stray Dogs 5th Season"
   ],
   "305077": [
     "Ace Attorney S2",
@@ -4363,7 +4364,8 @@
   ],
   "371310": [
     "Mushoku Tensei: Isekai Ittara Honki Dasu",
-    "Mushoku Tensei"
+    "Mushoku Tensei",
+    "Mushoku Tensei II: Isekai Ittara Honki Dasu"
   ],
   "371436": [
     "Majo no Tabitabi",
@@ -4501,7 +4503,8 @@
     "Princess Connect! ReDive Season 2"
   ],
   "377543": [
-    "Jujutsu Kaisen (TV)"
+    "Jujutsu Kaisen (TV)",
+    "Jujutsu Kaisen 2nd Season"
   ],
   "377679": [
     "Shachibato",
@@ -4566,7 +4569,8 @@
     "Kanojo Okarishimasu",
     "Kanojo Okarishimasu 2",
     "Rental Girlfriend",
-    "Rent a Girlfriend"
+    "Rent a Girlfriend",
+    "Kanojo, Okarishimasu 3rd Season"
   ],
   "380655": [
     "Monster Musume no Oisha-san"
@@ -5218,6 +5222,9 @@
   "410378": [
     "Tensei Shitara Ken Deshita"
   ],
+  "410425": [
+    "Eiyuu Kyoushitsu"
+  ],
   "411002": [
     "Kaijin Kaihatsubu no Kuroitsu-san",
     "Kaijin Kaihatsu-bu no Kuroitsu-san"
@@ -5270,7 +5277,8 @@
     "Paripi Koumei – Ya Boy Kongming!"
   ],
   "412626": [
-    "Mononogatari"
+    "Mononogatari",
+    "Mononogatari 2nd Season"
   ],
   "412696": [
     "Skip to Loafer"
@@ -5298,6 +5306,9 @@
     "Eiyuu Ou, Bu wo Kiwameru Tame Tenseisu",
     "Eiyuuou, Bu o Kiwameru Tame Tenseisu: Soshite, Sekai Saikyou no Minarai Kishi",
     "Eiyuuou, Bu wo Kiwameru Tame Tenseisu"
+  ],
+  "413333": [
+    "Nanatsu no Maken ga Shihai Suru"
   ],
   "413515": [
     "Koukyuu no Karasu"
@@ -5410,6 +5421,9 @@
     "Seiken Densetsu - Legend of Mana - The Teardrop Crystal",
     "Seiken Densetsu Legend of Mana - The Teardrop Crystal"
   ],
+  "418340": [
+    "Lv1 Maou to One Room Yuusha"
+  ],
   "418364": [
     "Kidou Senshi Gundam: Suisei no Majo",
     "Kidou Senshi Gundam - Suisei no Majo",
@@ -5421,6 +5435,9 @@
   "418376": [
     "4-nin wa Sorezore Uso wo Tsuku",
     "4-nin wa Sorezore Uso o Tsuku"
+  ],
+  "418665": [
+    "Watashi no Shiawase na Kekkon"
   ],
   "418740": [
     "Hanabi-chan wa Okuregachi",
@@ -5462,6 +5479,9 @@
     "Hyouken no Majutsushi ga Sekai o Suberu",
     "Hyouken no Majutsushi ga Sekai wo Suberu"
   ],
+  "419854": [
+    "Level 1 Dakedo Unique Skill de Saikyou Desu"
+  ],
   "420084": [
     "Kubo-san wa Boku o Yurusanai",
     "Kubo-san wa Mob wo Yurusanai"
@@ -5475,6 +5495,9 @@
   ],
   "420549": [
     "Warau Arsnotoria Sun!"
+  ],
+  "420550": [
+    "Dekiru Neko wa Kyou mo Yuuutsu"
   ],
   "420657": [
     "Kono Subarashii Sekai ni Bakuen o!",
@@ -5494,6 +5517,9 @@
   "421273": [
     "Edomae Elf"
   ],
+  "421283": [
+    "Shiro Seijo to Kuro Bokushi"
+  ],
   "421514": [
     "Koori Zokusei Danshi to Cool na Douryou Joshi"
   ],
@@ -5503,6 +5529,9 @@
   ],
   "421737": [
     "Mashle"
+  ],
+  "421776": [
+    "Genjitsu no Yohane - Sunshine in the Mirror"
   ],
   "421893": [
     "Nokemono-tachi no Yoru"
@@ -5539,6 +5568,9 @@
     "Chronicles of an Aristocrat Reborn in Another World",
     "Die Parallelwelt Chroniken des Aristokraten"
   ],
+  "423096": [
+    "Okashi na Tensei"
+  ],
   "423154": [
     "Human Bug Daigaku"
   ],
@@ -5561,6 +5593,9 @@
     "The IDOLM@STER Cinderella Girls - U149",
     "The IDOLMASTER Cinderella Girls U149"
   ],
+  "424414": [
+    "Jitsu wa Ore, Saikyou deshita?"
+  ],
   "424435": [
     "Megami no Cafe Terrace"
   ],
@@ -5577,10 +5612,19 @@
   "425368": [
     "Ars no Kyojuu"
   ],
+  "425756": [
+    "Seija Musou: Salaryman, Isekai de Ikinokoru Tame ni Ayumu Michi"
+  ],
+  "426080": [
+    "Uchi no Kaisha no Chiisai Senpai no Hanashi"
+  ],
   "426165": [
     "Heavenly Delusion",
     "Tengoku Daimakyou",
     "Tengoku Daimakyo"
+  ],
+  "426528": [
+    "Higeki no Genkyou to Naru Saikyou Gedou Last Boss Joou wa Tami no Tame ni Tsukushimasu."
   ],
   "426572": [
     "Tondemo Skill de Isekai Hourou Meshi",
@@ -5595,17 +5639,34 @@
     "Jijou o Shiranai Tenkousei ga Guigui Kuru",
     "Jijou wo Shiranai Tenkousei ga Guigui Kuru"
   ],
+  "427358": [
+    "The Dreaming Boy Is a Realist",
+    "Yumemiru Danshi wa Genjitsushugisha"
+  ],
   "427708": [
     "Stella of the Theater: World Dai Star"
   ],
+  "428108": [
+    "AI no Idenshi"
+  ],
   "428456": [
     "Pocket Monsters - Aim to be a Pokémon Master"
+  ],
+  "429310": [
+    "Zom 100: Zombie ni Naru made ni Shitai 100 no Koto"
+  ],
+  "429634": [
+    "Suki na Ko ga Megane wo Wasureta",
+    "Suki na Ko ga Megane o Wasureta"
   ],
   "429895": [
     "Rokudou no Onna-tachi"
   ],
   "432080": [
     "Ousama Ranking - Yuuki no Takarabako"
+  ],
+  "432613": [
+    "Ryza no Atelier: Tokoyami no Joou to Himitsu no Kakurega"
   ],
   "432849": [
     "X and Y",
