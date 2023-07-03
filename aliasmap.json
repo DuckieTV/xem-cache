@@ -1596,7 +1596,6 @@
     "Teekyuu 7",
     "Teekyu S8",
     "Teekyuu 8",
-    "Teekyu",
     "Teekyu S9",
     "Teekyuu 9"
   ],
@@ -1767,7 +1766,10 @@
     "The Devil Is a Part-Timer!",
     "Hataraku Maou-sama!!",
     "Hataraku Maou-sama!! (The Devil is a Part-Timer!!)",
-    "The Devil Is a Part-Timer! Season 2"
+    "The Devil Is a Part-Timer! Season 2",
+    "Hataraku Maou-sama S3",
+    "Hataraku Maou-sama!! 2nd Season",
+    "Hataraku Maou-sama!! (2023)"
   ],
   "267649": [
     "Dansai Bunri no Crime Edge"
@@ -3150,7 +3152,9 @@
     "3-Nen D-Gumi Glass no Kamen"
   ],
   "318860": [
-    "Masamune-kun no Revenge"
+    "Masamune-kun no Revenge",
+    "Masamune-kun no Revenge S2",
+    "Masamune-kun no Revenge R"
   ],
   "318893": [
     "Kobayashi-san Chi no Maid Dragon",
@@ -4365,7 +4369,9 @@
   "371310": [
     "Mushoku Tensei: Isekai Ittara Honki Dasu",
     "Mushoku Tensei",
-    "Mushoku Tensei II: Isekai Ittara Honki Dasu"
+    "Mushoku Tensei II: Isekai Ittara Honki Dasu",
+    "Mushoku Tensei S2",
+    "Mushoku Tensei II"
   ],
   "371436": [
     "Majo no Tabitabi",
@@ -4504,7 +4510,8 @@
   ],
   "377543": [
     "Jujutsu Kaisen (TV)",
-    "Jujutsu Kaisen 2nd Season"
+    "Jujutsu Kaisen 2nd Season",
+    "Jujutsu Kaisen S2"
   ],
   "377679": [
     "Shachibato",
@@ -4570,7 +4577,8 @@
     "Kanojo Okarishimasu 2",
     "Rental Girlfriend",
     "Rent a Girlfriend",
-    "Kanojo, Okarishimasu 3rd Season"
+    "Kanojo, Okarishimasu 3rd Season",
+    "Kanojo, Okarishimasu S3"
   ],
   "380655": [
     "Monster Musume no Oisha-san"
@@ -5659,6 +5667,10 @@
     "Suki na Ko ga Megane wo Wasureta",
     "Suki na Ko ga Megane o Wasureta"
   ],
+  "429673": [
+    "Tenchi Muyou! GXP Paradise Shidou Hen",
+    "Tenchi Muyo! GXP - Paradise Starting"
+  ],
   "429895": [
     "Rokudou no Onna-tachi"
   ],
@@ -5666,12 +5678,17 @@
     "Ousama Ranking - Yuuki no Takarabako"
   ],
   "432613": [
-    "Ryza no Atelier: Tokoyami no Joou to Himitsu no Kakurega"
+    "Ryza no Atelier: Tokoyami no Joou to Himitsu no Kakurega",
+    "Ryza no Atelier"
   ],
   "432849": [
     "X and Y",
     "Aiyou de Mishi",
     "X Y Ai You De Mishi",
     "Aiyou's Secret Room"
+  ],
+  "436124": [
+    "Horimiya: Piece",
+    "Horimiya - Piece"
   ]
 }
