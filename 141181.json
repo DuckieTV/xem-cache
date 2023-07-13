@@ -4378,5 +4378,53 @@
       "episode": 10,
       "absolute": 364
     }
+  },
+  {
+    "scene": {
+      "season": 24,
+      "episode": 11,
+      "absolute": 363
+    },
+    "tvdb": {
+      "season": 2023,
+      "episode": 11,
+      "absolute": 365
+    }
+  },
+  {
+    "scene": {
+      "season": 24,
+      "episode": 12,
+      "absolute": 364
+    },
+    "tvdb": {
+      "season": 2023,
+      "episode": 12,
+      "absolute": 366
+    }
+  },
+  {
+    "scene": {
+      "season": 24,
+      "episode": 13,
+      "absolute": 365
+    },
+    "tvdb": {
+      "season": 2023,
+      "episode": 13,
+      "absolute": 367
+    }
+  },
+  {
+    "scene": {
+      "season": 24,
+      "episode": 14,
+      "absolute": 366
+    },
+    "tvdb": {
+      "season": 2023,
+      "episode": 14,
+      "absolute": 368
+    }
   }
 ]
