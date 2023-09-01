@@ -1678,5 +1678,53 @@
       "episode": 12,
       "absolute": 113
     }
+  },
+  {
+    "scene": {
+      "season": 41,
+      "episode": 15,
+      "absolute": 117
+    },
+    "tvdb": {
+      "season": 2023,
+      "episode": 13,
+      "absolute": 114
+    }
+  },
+  {
+    "scene": {
+      "season": 41,
+      "episode": 16,
+      "absolute": 118
+    },
+    "tvdb": {
+      "season": 2023,
+      "episode": 14,
+      "absolute": 115
+    }
+  },
+  {
+    "scene": {
+      "season": 41,
+      "episode": 17,
+      "absolute": 119
+    },
+    "tvdb": {
+      "season": 2023,
+      "episode": 15,
+      "absolute": 116
+    }
+  },
+  {
+    "scene": {
+      "season": 41,
+      "episode": 18,
+      "absolute": 120
+    },
+    "tvdb": {
+      "season": 2023,
+      "episode": 16,
+      "absolute": 117
+    }
   }
 ]
