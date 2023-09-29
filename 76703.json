@@ -14950,5 +14950,29 @@
       "episode": 22,
       "absolute": 1246
     }
+  },
+  {
+    "scene": {
+      "season": 25,
+      "episode": 23,
+      "absolute": 1247
+    },
+    "tvdb": {
+      "season": 20,
+      "episode": 23,
+      "absolute": 1247
+    }
+  },
+  {
+    "scene": {
+      "season": 25,
+      "episode": 24,
+      "absolute": 1248
+    },
+    "tvdb": {
+      "season": 20,
+      "episode": 24,
+      "absolute": 1248
+    }
   }
 ]
