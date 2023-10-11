@@ -12934,5 +12934,53 @@
       "episode": 187,
       "absolute": 1078
     }
+  },
+  {
+    "scene": {
+      "season": 1,
+      "episode": 1079,
+      "absolute": 1079
+    },
+    "tvdb": {
+      "season": 21,
+      "episode": 188,
+      "absolute": 1079
+    }
+  },
+  {
+    "scene": {
+      "season": 1,
+      "episode": 1080,
+      "absolute": 1080
+    },
+    "tvdb": {
+      "season": 21,
+      "episode": 189,
+      "absolute": 1080
+    }
+  },
+  {
+    "scene": {
+      "season": 1,
+      "episode": 1081,
+      "absolute": 1081
+    },
+    "tvdb": {
+      "season": 21,
+      "episode": 190,
+      "absolute": 1081
+    }
+  },
+  {
+    "scene": {
+      "season": 1,
+      "episode": 1082,
+      "absolute": 1082
+    },
+    "tvdb": {
+      "season": 21,
+      "episode": 191,
+      "absolute": 1082
+    }
   }
 ]
