@@ -1726,5 +1726,17 @@
       "episode": 16,
       "absolute": 117
     }
+  },
+  {
+    "scene": {
+      "season": 41,
+      "episode": 19,
+      "absolute": 121
+    },
+    "tvdb": {
+      "season": 2023,
+      "episode": 17,
+      "absolute": 118
+    }
   }
 ]
