@@ -1738,5 +1738,29 @@
       "episode": 17,
       "absolute": 118
     }
+  },
+  {
+    "scene": {
+      "season": 41,
+      "episode": 20,
+      "absolute": 122
+    },
+    "tvdb": {
+      "season": 2023,
+      "episode": 18,
+      "absolute": 119
+    }
+  },
+  {
+    "scene": {
+      "season": 41,
+      "episode": 21,
+      "absolute": 123
+    },
+    "tvdb": {
+      "season": 2023,
+      "episode": 19,
+      "absolute": 120
+    }
   }
 ]
