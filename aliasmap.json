@@ -1190,7 +1190,8 @@
   ],
   "248035": [
     "Ao no Exorcist",
-    "Ao no Exorcist - Kyoto Fujouou-hen"
+    "Ao no Exorcist - Kyoto Fujouou-hen",
+    "Ao no Exorcist - Shimane Illuminati Hen"
   ],
   "248718": [
     "Amerika von oben"
@@ -1481,7 +1482,11 @@
     "Kingdom S4",
     "Kingdom 4",
     "Kingdom (2022)",
-    "Kingdom 4th Season"
+    "Kingdom 4th Season",
+    "Kingdom S5",
+    "Kingdom 5",
+    "Kingdom (2024)",
+    "Kingdom 5th Season"
   ],
   "259636": [
     "Muv-Luv Alternative - Total Eclipse"
@@ -3407,7 +3412,10 @@
     "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e",
     "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e S2",
     "Classroom of the Elite 2nd Season",
-    "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 2nd Season"
+    "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 2nd Season",
+    "Classroom of the Elite 3rd Season",
+    "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e S3",
+    "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 3rd Season"
   ],
   "329823": [
     "Vatican Kiseki Chousakan"
@@ -4677,7 +4685,10 @@
   ],
   "383837": [
     "Shaman King (2021)",
-    "Shaman King 2021"
+    "Shaman King 2021",
+    "Shaman King (2021) S2",
+    "Shaman King S2",
+    "Shaman King: Flowers"
   ],
   "383988": [
     "Ici tout commence"
@@ -4820,7 +4831,9 @@
     "Yi Nian Yong Heng 2nd Season"
   ],
   "388737": [
-    "Jaku-Chara Tomozaki-kun"
+    "Jaku-Chara Tomozaki-kun",
+    "Jaku Chara Tomozaki-kun S2",
+    "Jaku Chara Tomozaki-kun 2nd Stage"
   ],
   "388858": [
     "SK8"
@@ -4842,6 +4855,9 @@
   "389422": [
     "Genjitsu Shugi Yuusha no Oukoku Saikenki",
     "Genkoku"
+  ],
+  "389597": [
+    "Ore dake Level Up na Ken"
   ],
   "390277": [
     "Anime Kapibara-san"
@@ -5058,7 +5074,9 @@
   ],
   "400573": [
     "Shin no Nakama",
-    "Shin no Nakama ja Nai to Yuusha no Party o Oidasareta node, Henkyou de Slow Life Suru Koto ni Shimashita"
+    "Shin no Nakama ja Nai to Yuusha no Party o Oidasareta node, Henkyou de Slow Life Suru Koto ni Shimashita",
+    "Shin no Nakama S2",
+    "Shin no Nakama ja Nai to Yuusha no Party o Oidasareta node, Henkyou de Slow Life Suru Koto ni Shimashita 2nd"
   ],
   "400585": [
     "Kakkou no Iinazuke"
@@ -5430,7 +5448,10 @@
   ],
   "414096": [
     "Those Obnoxious Aliens (2022)",
-    "Urusei Yatsura (2022)"
+    "Urusei Yatsura (2022)",
+    "Urusei Yatsura (2022) S2",
+    "Urusei Yatsura (2022) 2nd Season",
+    "Urusei Yatsura (2024)"
   ],
   "414107": [
     "Delicious Party Precure",
@@ -5567,6 +5588,9 @@
     "Ao no Orchestra",
     "Blue Orchestra"
   ],
+  "419112": [
+    "Nozomanu Fushi no Boukensha"
+  ],
   "419126": [
     "Kaminaki Sekai no Kamisama Katsudou",
     "KamiKatsu",
@@ -5660,7 +5684,9 @@
     "Akiba Meido Sensou"
   ],
   "421737": [
-    "Mashle"
+    "Mashle",
+    "Mashle S2",
+    "Mashle (2024)"
   ],
   "421776": [
     "Genjitsu no Yohane - Sunshine in the Mirror"
@@ -5677,6 +5703,9 @@
   "422039": [
     "Kanojo ga Koushaku-tei ni Itta Riyuu",
     "Como Raeliana Foi Parar na Mansão do Duque"
+  ],
+  "422186": [
+    "Isekai de Mofumofu Nadenade suru Tame ni Ganbattemasu"
   ],
   "422345": [
     "Aru Asa Dummy Head Mike ni Natte Ita Ore-kun no Jinsei",
@@ -5695,8 +5724,14 @@
     "Rougo ni Sonaete Isekai de 8-manmai no Kinka o Tamemasu",
     "Rougo ni Sonaete Isekai de 8-manmai no Kinka wo Tamemasu"
   ],
+  "422728": [
+    "Sasaki to Pii-chan",
+    "Sasaki to Pi-chan"
+  ],
   "422981": [
-    "Boku no Kokoro no Yabai Yatsu"
+    "Boku no Kokoro no Yabai Yatsu",
+    "Boku no Kokoro no Yabai Yatsu S2",
+    "Boku no Kokoro no Yabai Yatsu (2024)"
   ],
   "423094": [
     "Tensei Kizoku no Isekai Boukenroku",
@@ -5713,6 +5748,9 @@
   ],
   "423154": [
     "Human Bug Daigaku"
+  ],
+  "423257": [
+    "Dungeon Meshi"
   ],
   "423362": [
     "Tensei Oujo to Tensai Reijou no Mahou Kakumei",
@@ -5791,6 +5829,10 @@
     "Tengoku Daimakyou",
     "Tengoku Daimakyo"
   ],
+  "426410": [
+    "Dosanko Gal wa Namara Menkoi",
+    "Dosanko Gal wa Namaramenkoi"
+  ],
   "426432": [
     "Hyakushou Kizoku",
     "Noble Farmer"
@@ -5814,6 +5856,10 @@
   "426703": [
     "S-Rank Musume"
   ],
+  "427066": [
+    "Saijaku Tamer wa Gomi Hiroi no Tabi wo Hajimemashita",
+    "Saijaku Tamer wa Gomi Hiroi no Tabi o Hajimemashita"
+  ],
   "427074": [
     "Kizuna no Allele 2nd Season"
   ],
@@ -5827,6 +5873,11 @@
   ],
   "427708": [
     "Stella of the Theater: World Dai Star"
+  ],
+  "427883": [
+    "Sokushi Cheat ga Saikyou Sugite, Isekai no Yatsura ga Marude Aite ni Naranaindesu ga",
+    "Sokushi Cheat ga Saikyou Sugite, Isekai no Yatsura ga Marude Aite ni Naranai n desu ga",
+    "My Instant Death Ability Is Overpowered"
   ],
   "427919": [
     "Kamonohashi Ron no Kindan Suiri"
@@ -5861,6 +5912,9 @@
     "Tenchi Muyou! GXP Paradise Shidou Hen",
     "Tenchi Muyo! GXP - Paradise Starting"
   ],
+  "429825": [
+    "Kekkon Yubiwa Monogatari"
+  ],
   "429895": [
     "Rokudou no Onna-tachi"
   ],
@@ -5881,6 +5935,13 @@
   "431495": [
     "Potion-danomi de Ikinobimasu!"
   ],
+  "431499": [
+    "Kyuujitsu no Warumono-san"
+  ],
+  "431705": [
+    "Doctor Elise",
+    "Gekai Elise"
+  ],
   "431804": [
     "Kawagoe Boys Sing"
   ],
@@ -5891,6 +5952,9 @@
   ],
   "432080": [
     "Ousama Ranking - Yuuki no Takarabako"
+  ],
+  "432449": [
+    "Mahou Shoujo ni Akogarete"
   ],
   "432613": [
     "Ryza no Atelier: Tokoyami no Joou to Himitsu no Kakurega",
@@ -5917,6 +5981,9 @@
     "X Y Ai You De Mishi",
     "Aiyou's Secret Room"
   ],
+  "433034": [
+    "Oroka na Tenshi wa Akuma to Odoru"
+  ],
   "434312": [
     "Yuzuki-san Chi no Yonkyoudai",
     "Yuzuki-san Chi no Yon Kyoudai"
@@ -5924,12 +5991,25 @@
   "434982": [
     "Atarashii Joushi wa Do Tennen"
   ],
+  "435005": [
+    "Loop 7-kaime no Akuyaku Reijou wa, Moto Tekikoku de Jiyuukimama na Hanayome Seikatsu o Mankitsu Suru",
+    "Loop 7-kaime"
+  ],
+  "435253": [
+    "Pon no Michi"
+  ],
   "435306": [
     "Odekake Kozame"
   ],
   "436124": [
     "Horimiya: Piece",
     "Horimiya - Piece"
+  ],
+  "436603": [
+    "Hime-sama, \"Goumon\" no Jikan desu"
+  ],
+  "436899": [
+    "Yubisaki to Renren"
   ],
   "437008": [
     "Bokura no Ameiro Protocol",
