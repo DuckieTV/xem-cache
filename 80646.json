@@ -1810,5 +1810,269 @@
       "episode": 23,
       "absolute": 124
     }
+  },
+  {
+    "scene": {
+      "season": 42,
+      "episode": 1,
+      "absolute": 128
+    },
+    "tvdb": {
+      "season": 2024,
+      "episode": 1,
+      "absolute": 125
+    }
+  },
+  {
+    "scene": {
+      "season": 42,
+      "episode": 2,
+      "absolute": 129
+    },
+    "tvdb": {
+      "season": 2024,
+      "episode": 2,
+      "absolute": 126
+    }
+  },
+  {
+    "scene": {
+      "season": 42,
+      "episode": 3,
+      "absolute": 130
+    },
+    "tvdb": {
+      "season": 2024,
+      "episode": 3,
+      "absolute": 127
+    }
+  },
+  {
+    "scene": {
+      "season": 42,
+      "episode": 4,
+      "absolute": 131
+    },
+    "tvdb": {
+      "season": 2024,
+      "episode": 4,
+      "absolute": 128
+    }
+  },
+  {
+    "scene": {
+      "season": 42,
+      "episode": 5,
+      "absolute": 132
+    },
+    "tvdb": {
+      "season": 2024,
+      "episode": 5,
+      "absolute": 129
+    }
+  },
+  {
+    "scene": {
+      "season": 42,
+      "episode": 6,
+      "absolute": 133
+    },
+    "tvdb": {
+      "season": 2024,
+      "episode": 6,
+      "absolute": 130
+    }
+  },
+  {
+    "scene": {
+      "season": 42,
+      "episode": 7,
+      "absolute": 134
+    },
+    "tvdb": {
+      "season": 2024,
+      "episode": 7,
+      "absolute": 131
+    }
+  },
+  {
+    "scene": {
+      "season": 42,
+      "episode": 8,
+      "absolute": 135
+    },
+    "tvdb": {
+      "season": 2024,
+      "episode": 8,
+      "absolute": 132
+    }
+  },
+  {
+    "scene": {
+      "season": 42,
+      "episode": 9,
+      "absolute": 136
+    },
+    "tvdb": {
+      "season": 2024,
+      "episode": 9,
+      "absolute": 133
+    }
+  },
+  {
+    "scene": {
+      "season": 42,
+      "episode": 10,
+      "absolute": 137
+    },
+    "tvdb": {
+      "season": 2024,
+      "episode": 10,
+      "absolute": 134
+    }
+  },
+  {
+    "scene": {
+      "season": 42,
+      "episode": 11,
+      "absolute": 138
+    },
+    "tvdb": {
+      "season": 2024,
+      "episode": 11,
+      "absolute": 135
+    }
+  },
+  {
+    "scene": {
+      "season": 42,
+      "episode": 12,
+      "absolute": 139
+    },
+    "tvdb": {
+      "season": 2024,
+      "episode": 12,
+      "absolute": 136
+    }
+  },
+  {
+    "scene": {
+      "season": 42,
+      "episode": 13,
+      "absolute": 140
+    },
+    "tvdb": {
+      "season": 2024,
+      "episode": 13,
+      "absolute": 137
+    }
+  },
+  {
+    "scene": {
+      "season": 42,
+      "episode": 14,
+      "absolute": 141
+    },
+    "tvdb": {
+      "season": 2024,
+      "episode": 14,
+      "absolute": 138
+    }
+  },
+  {
+    "scene": {
+      "season": 42,
+      "episode": 15,
+      "absolute": 142
+    },
+    "tvdb": {
+      "season": 2024,
+      "episode": 15,
+      "absolute": 139
+    }
+  },
+  {
+    "scene": {
+      "season": 42,
+      "episode": 16,
+      "absolute": 143
+    },
+    "tvdb": {
+      "season": 2024,
+      "episode": 16,
+      "absolute": 140
+    }
+  },
+  {
+    "scene": {
+      "season": 42,
+      "episode": 17,
+      "absolute": 144
+    },
+    "tvdb": {
+      "season": 2024,
+      "episode": 17,
+      "absolute": 141
+    }
+  },
+  {
+    "scene": {
+      "season": 42,
+      "episode": 18,
+      "absolute": 145
+    },
+    "tvdb": {
+      "season": 2024,
+      "episode": 18,
+      "absolute": 142
+    }
+  },
+  {
+    "scene": {
+      "season": 42,
+      "episode": 19,
+      "absolute": 146
+    },
+    "tvdb": {
+      "season": 2024,
+      "episode": 19,
+      "absolute": 143
+    }
+  },
+  {
+    "scene": {
+      "season": 42,
+      "episode": 20,
+      "absolute": 147
+    },
+    "tvdb": {
+      "season": 2024,
+      "episode": 20,
+      "absolute": 144
+    }
+  },
+  {
+    "scene": {
+      "season": 42,
+      "episode": 21,
+      "absolute": 148
+    },
+    "tvdb": {
+      "season": 2024,
+      "episode": 21,
+      "absolute": 145
+    }
+  },
+  {
+    "scene": {
+      "season": 42,
+      "episode": 22,
+      "absolute": 149
+    },
+    "tvdb": {
+      "season": 2024,
+      "episode": 22,
+      "absolute": 146
+    }
   }
 ]
