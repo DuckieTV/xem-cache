@@ -1746,7 +1746,9 @@
     "Date a Live S3",
     "Date a Live III",
     "Date a Live S4",
-    "Date a Live IV"
+    "Date a Live IV",
+    "Date a Live S5",
+    "Date a Live V"
   ],
   "264972": [
     "Boku no Imouto wa \"Osaka Okan\"",
@@ -2215,7 +2217,8 @@
     "Mahouka",
     "Mahouka Koukou no Rettousei",
     "Mahouka Koukou no Rettousei S2",
-    "Mahouka Koukou no Rettousei: Raihousha Hen"
+    "Mahouka Koukou no Rettousei: Raihousha Hen",
+    "Mahouka Koukou no Rettousei S3"
   ],
   "278330": [
     "Kanojo ga Flag wo Oraretara"
@@ -2553,7 +2556,8 @@
   ],
   "289884": [
     "Hibike! Euphonium S2",
-    "Hibike! Euphonium"
+    "Hibike! Euphonium",
+    "Hibike! Euphonium S3"
   ],
   "289885": [
     "Gunslinger Stratos"
@@ -2864,7 +2868,9 @@
   "303867": [
     "Kono Subarashii Sekai ni Shukufuku wo! 2",
     "Kono Subarashii Sekai ni Shukufuku wo! S2",
-    "Kono Subarashii Sekai ni Shukufuku wo!"
+    "Kono Subarashii Sekai ni Shukufuku wo!",
+    "Kono Subarashii Sekai ni Shukufuku wo! 3",
+    "Kono Subarashii Sekai ni Shukufuku wo! S3"
   ],
   "303868": [
     "Hai to Gensou no Grimgar"
@@ -2932,7 +2938,12 @@
     "Boku No Hero Academia (2022)",
     "My Hero Academia 6th Season",
     "Boku no Hero Academia S6",
-    "Boku no Hero Academia 6th Season"
+    "Boku no Hero Academia 6th Season",
+    "My Hero Academia S7",
+    "Boku No Hero Academia (2024)",
+    "My Hero Academia 7th Season",
+    "Boku no Hero Academia S7",
+    "Boku no Hero Academia 7th Season"
   ],
   "305075": [
     "Bungou Stray Dogs 2nd Season",
@@ -3903,7 +3914,9 @@
     "Demon Slayer - Kimetsu no Yaiba Entertainment District Arc",
     "Kimetsu no Yaiba S4",
     "Kimetsu no Yaiba: Katanakaji no Sato Hen",
-    "Demon Slayer - Kimetsu no Yaiba Swordsmith Village Arc"
+    "Demon Slayer - Kimetsu no Yaiba Swordsmith Village Arc",
+    "Kimetsu no Yaiba S5",
+    "Kimetsu no Yaiba: Hashira Geiko-hen"
   ],
   "348601": [
     "Kyoto Teramachi Sanjou no Holmes",
@@ -3967,7 +3980,10 @@
     "Tensei Shitara Slime Datta Ken S2",
     "Tensei shitara Slime Datta Ken 2nd Season",
     "Tensei Shitara Slime Datta Ken",
-    "That Time I Got Reincarnated as a Slime Season 2"
+    "That Time I Got Reincarnated as a Slime Season 2",
+    "Tensei Shitara Slime Datta Ken S3",
+    "Tensei shitara Slime Datta Ken 3rd Season",
+    "That Time I Got Reincarnated as a Slime Season 3"
   ],
   "352564": [
     "Ore ga Suki na no wa Imouto Dakedo Imouto ja Nai",
@@ -5512,6 +5528,9 @@
     "Ooyukiumi no Kaina",
     "Ooyuki Umi no Kaina"
   ],
+  "414947": [
+    "Kami wa Game ni Ueteiru"
+  ],
   "415061": [
     "Hoshi no Samidare"
   ],
@@ -5562,6 +5581,9 @@
   "416998": [
     "NieR Automata Ver1.1a",
     "NieR-Automata Ver1.1a"
+  ],
+  "417147": [
+    "Ookami to Koushinryou - Merchant Meets the Wise Wolf"
   ],
   "417165": [
     "Noumin Kanren no Skill Bakka Agetetara Naze ka Tsuyoku Natta",
@@ -5868,6 +5890,9 @@
   "425760": [
     "Hoshikuzu Telepath"
   ],
+  "426018": [
+    "Shuumatsu Train Doko e Iku"
+  ],
   "426080": [
     "Uchi no Kaisha no Chiisai Senpai no Hanashi"
   ],
@@ -5903,6 +5928,10 @@
   "426703": [
     "S-Rank Musume"
   ],
+  "426834": [
+    "Dainanaoji",
+    "Tensei shitara Dainana Ouji Datta node, Kimama ni Majutsu wo Kiwamemasu"
+  ],
   "427066": [
     "Saijaku Tamer wa Gomi Hiroi no Tabi wo Hajimemashita",
     "Saijaku Tamer wa Gomi Hiroi no Tabi o Hajimemashita"
@@ -5929,6 +5958,10 @@
   ],
   "427919": [
     "Kamonohashi Ron no Kindan Suiri"
+  ],
+  "428030": [
+    "Sentai Dai Shikkaku",
+    "Sentai Daishikkaku"
   ],
   "428108": [
     "AI no Idenshi"
@@ -6086,6 +6119,10 @@
   "438685": [
     "Houkago Shounen Hanako-kun"
   ],
+  "439755": [
+    "Re-Monster",
+    "Re Monster"
+  ],
   "439759": [
     "Gekkan Mousou Kagaku"
   ],
@@ -6099,6 +6136,9 @@
   ],
   "440642": [
     "Big Brother UK"
+  ],
+  "440897": [
+    "Lv2 Kara Cheat datta Moto Yuusha Kouho no Mattari Isekai Life"
   ],
   "441567": [
     "30-sai made Doutei dato Mahoutsukai ni Nareru Rashii",
