@@ -1414,5 +1414,41 @@
       "episode": 17,
       "absolute": 112
     }
+  },
+  {
+    "scene": {
+      "season": 28,
+      "episode": 1,
+      "absolute": 113
+    },
+    "tvdb": {
+      "season": 24,
+      "episode": 1,
+      "absolute": 113
+    }
+  },
+  {
+    "scene": {
+      "season": 28,
+      "episode": 2,
+      "absolute": 114
+    },
+    "tvdb": {
+      "season": 24,
+      "episode": 2,
+      "absolute": 114
+    }
+  },
+  {
+    "scene": {
+      "season": 28,
+      "episode": 3,
+      "absolute": 115
+    },
+    "tvdb": {
+      "season": 24,
+      "episode": 3,
+      "absolute": 115
+    }
   }
 ]
