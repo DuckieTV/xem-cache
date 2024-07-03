@@ -4606,7 +4606,10 @@
     "Fugou Keiji - Balance:Unlimited"
   ],
   "376729": [
-    "Kami no Tou"
+    "Kami no Tou",
+    "Kami no Tou: Ouji no Kikan",
+    "Kami no Tou S2",
+    "Tower of God S2"
   ],
   "376751": [
     "Xian Wang De Richang Shenghuo",
@@ -5817,6 +5820,9 @@
     "Rougo ni Sonaete Isekai de 8-manmai no Kinka o Tamemasu",
     "Rougo ni Sonaete Isekai de 8-manmai no Kinka wo Tamemasu"
   ],
+  "422721": [
+    "Gimai Seikatsu"
+  ],
   "422728": [
     "Sasaki to Pii-chan",
     "Sasaki to P-chan"
@@ -6024,6 +6030,9 @@
   "428108": [
     "AI no Idenshi"
   ],
+  "428168": [
+    "2.5 Jigen no Ririsa"
+  ],
   "428350": [
     "Watashi no Oshi wa Akuyaku Reijou"
   ],
@@ -6107,6 +6116,10 @@
     "Mahou Shoujo ni Akogarete",
     "Mahou Shoujo Akogarete (Gushing Over Magical Girls)"
   ],
+  "432531": [
+    "Roshidere",
+    "Tokidoki Bosotto Russia-go de Dereru Tonari no Alya-san"
+  ],
   "432613": [
     "Ryza no Atelier: Tokoyami no Joou to Himitsu no Kakurega",
     "Ryza no Atelier",
@@ -6135,6 +6148,9 @@
   "432815": [
     "Kikansha no Mahou wa Tokubetsu desu"
   ],
+  "432845": [
+    "Senpai wa Otokonoko"
+  ],
   "432849": [
     "X and Y",
     "Aiyou de Mishi",
@@ -6143,6 +6159,12 @@
   ],
   "433034": [
     "Oroka na Tenshi wa Akuma to Odoru"
+  ],
+  "433155": [
+    "Shinmai Ossan Boukensha"
+  ],
+  "433527": [
+    "Giji Harem"
   ],
   "434312": [
     "Yuzuki-san Chi no Yonkyoudai",
@@ -6205,12 +6227,19 @@
     "Our Rainy Protocol",
     "Bokura no Ame-iro Protocol"
   ],
+  "437209": [
+    "Koi wa Futago de Warikirenai"
+  ],
   "437236": [
     "Momochi-san Chi no Ayakashi Ouji",
     "Momochi-san Chi no Ayakashi Ōji"
   ],
   "437326": [
     "Survivor UK"
+  ],
+  "437517": [
+    "Naze Boku no Sekai o Dare mo Oboeteinai no ka?",
+    "Naze Boku no Sekai wo Daremo Oboeteinai no ka?"
   ],
   "437896": [
     "Boukyaku Battery (TV)",
@@ -6220,8 +6249,14 @@
     "Jiisan Baasan Wakagaeru",
     "Jii-san Baa-san Wakagaeru"
   ],
+  "438420": [
+    "Dungeon no Naka no Hito"
+  ],
   "438685": [
     "Houkago Shounen Hanako-kun"
+  ],
+  "438812": [
+    "Madougushi Dahlia wa Utsumukanai"
   ],
   "439755": [
     "Re-Monster",
@@ -6273,15 +6308,34 @@
   "444577": [
     "Shinkansen Henkei Robo Shinkalion Z"
   ],
+  "444609": [
+    "Shoushimin Series",
+    "Shoshimin Series",
+    "Shoushimin",
+    "Shoshimin"
+  ],
+  "444726": [
+    "Elf-san wa Yaserarenai"
+  ],
   "444916": [
     "Maou Gun Saikyou no Majutsushi wa Ningen datta",
     "Maougun Saikyou no Majutsushi wa Ningen datta"
+  ],
+  "445011": [
+    "Hazure Waku no \"Joutai Ijou Skill\" de Saikyou ni Natta Ore ga Subete o Juurin Suru made"
+  ],
+  "445253": [
+    "Tasuuketsu",
+    "Tasuu Ketsu"
   ],
   "445964": [
     "Kenka Dokugaku"
   ],
   "446876": [
     "Boku no Tsuma wa Kanjou ga Nai"
+  ],
+  "447450": [
+    "Shikanoko Nokonoko Koshitantan"
   ],
   "447850": [
     "Hazassag elso latasra"
