@@ -1906,53 +1906,5 @@
       "episode": 21,
       "absolute": 159
     }
-  },
-  {
-    "scene": {
-      "season": 7,
-      "episode": 22,
-      "absolute": 22
-    },
-    "tvdb": {
-      "season": 7,
-      "episode": 22,
-      "absolute": 160
-    }
-  },
-  {
-    "scene": {
-      "season": 7,
-      "episode": 23,
-      "absolute": 23
-    },
-    "tvdb": {
-      "season": 7,
-      "episode": 23,
-      "absolute": 161
-    }
-  },
-  {
-    "scene": {
-      "season": 7,
-      "episode": 24,
-      "absolute": 24
-    },
-    "tvdb": {
-      "season": 7,
-      "episode": 24,
-      "absolute": 162
-    }
-  },
-  {
-    "scene": {
-      "season": 7,
-      "episode": 25,
-      "absolute": 25
-    },
-    "tvdb": {
-      "season": 7,
-      "episode": 25,
-      "absolute": 163
-    }
   }
 ]
