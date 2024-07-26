@@ -11734,5 +11734,53 @@
       "episode": 240,
       "absolute": 978
     }
+  },
+  {
+    "scene": {
+      "season": 1,
+      "episode": 979,
+      "absolute": 979
+    },
+    "tvdb": {
+      "season": 4,
+      "episode": 241,
+      "absolute": 979
+    }
+  },
+  {
+    "scene": {
+      "season": 1,
+      "episode": 980,
+      "absolute": 980
+    },
+    "tvdb": {
+      "season": 4,
+      "episode": 242,
+      "absolute": 980
+    }
+  },
+  {
+    "scene": {
+      "season": 1,
+      "episode": 981,
+      "absolute": 981
+    },
+    "tvdb": {
+      "season": 4,
+      "episode": 243,
+      "absolute": 981
+    }
+  },
+  {
+    "scene": {
+      "season": 1,
+      "episode": 982,
+      "absolute": 982
+    },
+    "tvdb": {
+      "season": 4,
+      "episode": 244,
+      "absolute": 982
+    }
   }
 ]
