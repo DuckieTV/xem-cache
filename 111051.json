@@ -8007,5 +8007,17 @@
       "episode": 6,
       "absolute": 629
     }
+  },
+  {
+    "scene": {
+      "season": 22,
+      "episode": 7,
+      "absolute": 638
+    },
+    "tvdb": {
+      "season": 2024,
+      "episode": 7,
+      "absolute": 630
+    }
   }
 ]

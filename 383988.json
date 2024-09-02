@@ -11902,5 +11902,29 @@
       "episode": 254,
       "absolute": 992
     }
+  },
+  {
+    "scene": {
+      "season": 1,
+      "episode": 993,
+      "absolute": 993
+    },
+    "tvdb": {
+      "season": 4,
+      "episode": 255,
+      "absolute": 993
+    }
+  },
+  {
+    "scene": {
+      "season": 1,
+      "episode": 994,
+      "absolute": 994
+    },
+    "tvdb": {
+      "season": 4,
+      "episode": 256,
+      "absolute": 994
+    }
   }
 ]
