@@ -15442,5 +15442,41 @@
       "episode": 63,
       "absolute": 1287
     }
+  },
+  {
+    "scene": {
+      "season": 25,
+      "episode": 64,
+      "absolute": 1288
+    },
+    "tvdb": {
+      "season": 20,
+      "episode": 64,
+      "absolute": 1288
+    }
+  },
+  {
+    "scene": {
+      "season": 25,
+      "episode": 65,
+      "absolute": 1289
+    },
+    "tvdb": {
+      "season": 20,
+      "episode": 65,
+      "absolute": 1289
+    }
+  },
+  {
+    "scene": {
+      "season": 25,
+      "episode": 66,
+      "absolute": 1290
+    },
+    "tvdb": {
+      "season": 20,
+      "episode": 66,
+      "absolute": 1290
+    }
   }
 ]
