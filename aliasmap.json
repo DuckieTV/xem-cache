@@ -84,14 +84,7 @@
     "Weakest Link 2020"
   ],
   "73532": [
-    "Tennis no Ouji-sama",
-    "Shin Tennis no Ouji-sama",
-    "New Prince of Tennis",
-    "The Prince of Tennis II",
-    "Shin Tennis no Ouji-sama: U-17 World Cup",
-    "The Prince of Tennis II - U-17 World Cup",
-    "Shin Tennis no Ouji-sama - U-17 World Cup",
-    "Shin Tennis no Ouji-sama - U-17 World Cup - 12 | The Prince of Tennis II - U-17 World Cup"
+    "Tennis no Ouji-sama"
   ],
   "73567": [
     "Ultraman Z",
@@ -1224,7 +1217,8 @@
     "Ao no Exorcist",
     "Ao no Exorcist - Kyoto Fujouou-hen",
     "Ao no Exorcist - Shimane Illuminati Hen",
-    "Ao no Exorcist - Shimane Illuminati-hen"
+    "Ao no Exorcist - Shimane Illuminati-hen",
+    "Ao no Exorcist - Yuki no Hate-hen"
   ],
   "248718": [
     "Amerika von oben"
@@ -1401,6 +1395,17 @@
   ],
   "254798": [
     "Stella (UK)"
+  ],
+  "254899": [
+    "Shin Tennis no Ouji-sama",
+    "The Prince of Tennis II: U-17 World Cup",
+    "The Prince of Tennis II: U-17 WORLD CUP SEMIFINAL",
+    "Shin Tennis no Ouji-sama: U-17 World Cup",
+    "Shin Tennis no Ouji-sama - U-17 World Cup",
+    "The Prince of Tennis II - U-17 World Cup",
+    "The Prince of Tennis II - U-17 World Cup Semifinal",
+    "The Prince of Tennis II",
+    "Shin Tennis no Ouji-sama - U-17 World Cup Semifinal"
   ],
   "254931": [
     "Mobile Suit Gundam Seed Remaster",
@@ -3606,6 +3611,10 @@
   "335237": [
     "Ito Junji: Collection"
   ],
+  "335815": [
+    "Sword Art Online Alternative - Gun Gale Online S2",
+    "Sword Art Online Alternative - Gun Gale Online II"
+  ],
   "336385": [
     "いつだって僕らの恋は10センチだった。",
     "HoneyWorks: Itsudatte Bokura no Koi wa 10 cm Datta.",
@@ -5504,7 +5513,8 @@
     "Shachisaretai"
   ],
   "412566": [
-    "Mahou Tsukai ni Narenakatta Onnanoko no Hanashi"
+    "Mahou Tsukai ni Narenakatta Onnanoko no Hanashi",
+    "Mahoutsukai ni Narenakatta Onnanoko no Hanashi"
   ],
   "412573": [
     "The Legend of Heroes - Sen no Kiseki - Northern War"
@@ -5569,7 +5579,8 @@
   ],
   "413578": [
     "Rurouni Kenshin - Meiji Kenkaku Romantan (2023)",
-    "Rurouni Kenshin: Kyoto Disturbance"
+    "Rurouni Kenshin: Kyoto Disturbance",
+    "Rurouni Kenshin - Kyoto Douran"
   ],
   "414096": [
     "Those Obnoxious Aliens (2022)",
@@ -5831,7 +5842,8 @@
     "Koori Zokusei Danshi to Cool na Douryou Joshi"
   ],
   "421583": [
-    "Chi. Chikyuu no Undou ni Tsuite"
+    "Chi. Chikyuu no Undou ni Tsuite",
+    "Orb On the Movements of the Earth"
   ],
   "421676": [
     "Akiba Maid Sensou",
@@ -6198,6 +6210,9 @@
   "432455": [
     "Nige Jouzu no Wakagimi"
   ],
+  "432476": [
+    "Tsuma, Shougakusei ni Naru"
+  ],
   "432531": [
     "Roshidere",
     "Tokidoki Bosotto Russia-go de Dereru Tonari no Alya-san"
@@ -6267,7 +6282,8 @@
   "434358": [
     "Ooi Tonbo",
     "Ooi! Tonbo",
-    "Oi! Tonbo"
+    "Oi! Tonbo",
+    "Tonbo"
   ],
   "434704": [
     "Tensei Kizoku, Kantei Skill de Nariagaru",
@@ -6377,6 +6393,9 @@
     "T P Bon",
     "Time Patrol Bon"
   ],
+  "440461": [
+    "Goukon ni Ittara Onna ga Inakatta Hanashi"
+  ],
   "440481": [
     "Saikyou Tank no Meikyuu Kouryaku",
     "The Strongest Tank's Labyrinth Raids -A Tank With a Rare 9999 Resistance Skill Got Kicked From the Hero's Party-"
@@ -6472,6 +6491,9 @@
     "Hazure Waku no \"Joutai Ijou Skill\" de Saikyou ni Natta Ore ga Subete o Juurin Suru made",
     "Hazurewaku",
     "Failure Frame"
+  ],
+  "445252": [
+    "Party kara Tsuihou sareta Sono Chiyushi, Jitsu wa Saikyou ni Tsuki"
   ],
   "445253": [
     "Tasuuketsu",
