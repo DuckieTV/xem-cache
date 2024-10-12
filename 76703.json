@@ -15478,5 +15478,53 @@
       "episode": 66,
       "absolute": 1290
     }
+  },
+  {
+    "scene": {
+      "season": 25,
+      "episode": 67,
+      "absolute": 1291
+    },
+    "tvdb": {
+      "season": 20,
+      "episode": 67,
+      "absolute": 1291
+    }
+  },
+  {
+    "scene": {
+      "season": 25,
+      "episode": 68,
+      "absolute": 1292
+    },
+    "tvdb": {
+      "season": 20,
+      "episode": 68,
+      "absolute": 1292
+    }
+  },
+  {
+    "scene": {
+      "season": 25,
+      "episode": 69,
+      "absolute": 1293
+    },
+    "tvdb": {
+      "season": 20,
+      "episode": 69,
+      "absolute": 1293
+    }
+  },
+  {
+    "scene": {
+      "season": 25,
+      "episode": 70,
+      "absolute": 1294
+    },
+    "tvdb": {
+      "season": 20,
+      "episode": 70,
+      "absolute": 1294
+    }
   }
 ]

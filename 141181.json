@@ -4618,5 +4618,77 @@
       "episode": 12,
       "absolute": 384
     }
+  },
+  {
+    "scene": {
+      "season": 25,
+      "episode": 13,
+      "absolute": 383
+    },
+    "tvdb": {
+      "season": 2024,
+      "episode": 13,
+      "absolute": 385
+    }
+  },
+  {
+    "scene": {
+      "season": 25,
+      "episode": 14,
+      "absolute": 384
+    },
+    "tvdb": {
+      "season": 2024,
+      "episode": 14,
+      "absolute": 386
+    }
+  },
+  {
+    "scene": {
+      "season": 25,
+      "episode": 15,
+      "absolute": 385
+    },
+    "tvdb": {
+      "season": 2024,
+      "episode": 15,
+      "absolute": 387
+    }
+  },
+  {
+    "scene": {
+      "season": 26,
+      "episode": 1,
+      "absolute": 386
+    },
+    "tvdb": {
+      "season": 2024,
+      "episode": 16,
+      "absolute": 388
+    }
+  },
+  {
+    "scene": {
+      "season": 26,
+      "episode": 2,
+      "absolute": 387
+    },
+    "tvdb": {
+      "season": 2024,
+      "episode": 17,
+      "absolute": 389
+    }
+  },
+  {
+    "scene": {
+      "season": 26,
+      "episode": 3,
+      "absolute": 388
+    },
+    "tvdb": {
+      "season": 2024,
+      "episode": 18,
+      "absolute": 390
+    }
   }
 ]
