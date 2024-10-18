@@ -962,7 +962,7 @@
   {
     "scene": {
       "season": 15,
-      "episode": 2,
+      "episode": 1,
       "absolute": 80
     },
     "tvdb": {
@@ -974,7 +974,7 @@
   {
     "scene": {
       "season": 15,
-      "episode": 3,
+      "episode": 2,
       "absolute": 81
     },
     "tvdb": {
@@ -986,7 +986,7 @@
   {
     "scene": {
       "season": 15,
-      "episode": 4,
+      "episode": 3,
       "absolute": 82
     },
     "tvdb": {
@@ -997,7 +997,7 @@
   },
   {
     "scene": {
-      "season": 14,
+      "season": 15,
       "episode": 4,
       "absolute": 83
     },
