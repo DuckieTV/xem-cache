@@ -2221,50 +2221,14 @@
   },
   {
     "scene": {
-      "season": 0,
-      "episode": 46,
-      "absolute": 0
-    },
-    "tvdb": {
-      "season": 51,
-      "episode": 9,
-      "absolute": 189
-    }
-  },
-  {
-    "scene": {
-      "season": 0,
-      "episode": 47,
-      "absolute": 0
-    },
-    "tvdb": {
-      "season": 51,
-      "episode": 10,
-      "absolute": 190
-    }
-  },
-  {
-    "scene": {
-      "season": 0,
-      "episode": 48,
-      "absolute": 0
-    },
-    "tvdb": {
-      "season": 51,
-      "episode": 11,
-      "absolute": 191
-    }
-  },
-  {
-    "scene": {
       "season": 51,
       "episode": 9,
       "absolute": 189
     },
     "tvdb": {
       "season": 51,
-      "episode": 12,
-      "absolute": 192
+      "episode": 9,
+      "absolute": 189
     }
   },
   {
@@ -2275,8 +2239,8 @@
     },
     "tvdb": {
       "season": 51,
-      "episode": 13,
-      "absolute": 193
+      "episode": 10,
+      "absolute": 190
     }
   },
   {
@@ -2287,8 +2251,8 @@
     },
     "tvdb": {
       "season": 51,
-      "episode": 14,
-      "absolute": 194
+      "episode": 11,
+      "absolute": 191
     }
   },
   {
@@ -2299,8 +2263,8 @@
     },
     "tvdb": {
       "season": 51,
-      "episode": 15,
-      "absolute": 195
+      "episode": 12,
+      "absolute": 192
     }
   },
   {
@@ -2311,8 +2275,8 @@
     },
     "tvdb": {
       "season": 51,
-      "episode": 16,
-      "absolute": 196
+      "episode": 13,
+      "absolute": 193
     }
   },
   {
@@ -2323,8 +2287,8 @@
     },
     "tvdb": {
       "season": 51,
-      "episode": 17,
-      "absolute": 197
+      "episode": 14,
+      "absolute": 194
     }
   },
   {
@@ -2335,8 +2299,8 @@
     },
     "tvdb": {
       "season": 51,
-      "episode": 18,
-      "absolute": 198
+      "episode": 15,
+      "absolute": 195
     }
   },
   {
@@ -2347,8 +2311,8 @@
     },
     "tvdb": {
       "season": 51,
-      "episode": 19,
-      "absolute": 199
+      "episode": 16,
+      "absolute": 196
     }
   },
   {
@@ -2359,8 +2323,8 @@
     },
     "tvdb": {
       "season": 51,
-      "episode": 20,
-      "absolute": 200
+      "episode": 17,
+      "absolute": 197
     }
   },
   {
@@ -2371,8 +2335,8 @@
     },
     "tvdb": {
       "season": 51,
-      "episode": 21,
-      "absolute": 201
+      "episode": 18,
+      "absolute": 198
     }
   }
 ]
