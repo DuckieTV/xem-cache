@@ -15538,5 +15538,41 @@
       "episode": 75,
       "absolute": 1295
     }
+  },
+  {
+    "scene": {
+      "season": 25,
+      "episode": 76,
+      "absolute": 1296
+    },
+    "tvdb": {
+      "season": 20,
+      "episode": 76,
+      "absolute": 1296
+    }
+  },
+  {
+    "scene": {
+      "season": 25,
+      "episode": 77,
+      "absolute": 1297
+    },
+    "tvdb": {
+      "season": 20,
+      "episode": 77,
+      "absolute": 1297
+    }
+  },
+  {
+    "scene": {
+      "season": 25,
+      "episode": 78,
+      "absolute": 1298
+    },
+    "tvdb": {
+      "season": 20,
+      "episode": 78,
+      "absolute": 1298
+    }
   }
 ]
