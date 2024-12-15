@@ -778,5 +778,137 @@
       "episode": 65,
       "absolute": 65
     }
+  },
+  {
+    "scene": {
+      "season": 1,
+      "episode": 66,
+      "absolute": 66
+    },
+    "tvdb": {
+      "season": 1,
+      "episode": 66,
+      "absolute": 66
+    }
+  },
+  {
+    "scene": {
+      "season": 1,
+      "episode": 67,
+      "absolute": 67
+    },
+    "tvdb": {
+      "season": 1,
+      "episode": 67,
+      "absolute": 67
+    }
+  },
+  {
+    "scene": {
+      "season": 1,
+      "episode": 68,
+      "absolute": 68
+    },
+    "tvdb": {
+      "season": 1,
+      "episode": 68,
+      "absolute": 68
+    }
+  },
+  {
+    "scene": {
+      "season": 1,
+      "episode": 69,
+      "absolute": 69
+    },
+    "tvdb": {
+      "season": 1,
+      "episode": 69,
+      "absolute": 69
+    }
+  },
+  {
+    "scene": {
+      "season": 1,
+      "episode": 70,
+      "absolute": 70
+    },
+    "tvdb": {
+      "season": 1,
+      "episode": 70,
+      "absolute": 70
+    }
+  },
+  {
+    "scene": {
+      "season": 1,
+      "episode": 71,
+      "absolute": 71
+    },
+    "tvdb": {
+      "season": 1,
+      "episode": 71,
+      "absolute": 71
+    }
+  },
+  {
+    "scene": {
+      "season": 1,
+      "episode": 72,
+      "absolute": 72
+    },
+    "tvdb": {
+      "season": 1,
+      "episode": 72,
+      "absolute": 72
+    }
+  },
+  {
+    "scene": {
+      "season": 1,
+      "episode": 73,
+      "absolute": 73
+    },
+    "tvdb": {
+      "season": 1,
+      "episode": 73,
+      "absolute": 73
+    }
+  },
+  {
+    "scene": {
+      "season": 1,
+      "episode": 74,
+      "absolute": 74
+    },
+    "tvdb": {
+      "season": 1,
+      "episode": 74,
+      "absolute": 74
+    }
+  },
+  {
+    "scene": {
+      "season": 1,
+      "episode": 75,
+      "absolute": 75
+    },
+    "tvdb": {
+      "season": 1,
+      "episode": 75,
+      "absolute": 75
+    }
+  },
+  {
+    "scene": {
+      "season": 1,
+      "episode": 76,
+      "absolute": 76
+    },
+    "tvdb": {
+      "season": 1,
+      "episode": 76,
+      "absolute": 76
+    }
   }
 ]
