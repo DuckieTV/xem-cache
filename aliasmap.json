@@ -1,4 +1,8 @@
 {
+  "4283": [
+    "Unnamed Memory Act.2",
+    "Unnamed Memory S2"
+  ],
   "70668": [
     "Cardcaptor Sakura Clear Card",
     "Cardcaptor Sakura: Clear Card-hen",
@@ -4190,7 +4194,9 @@
     "Dr. Stone S2",
     "Dr. Stone: Stone Wars",
     "Dr. Stone S3",
-    "Dr. Stone: New World"
+    "Dr. Stone: New World",
+    "Dr. Stone S4",
+    "Dr. Stone: Science Future"
   ],
   "355966": [
     "Go-Toubun no Hanayome",
@@ -4437,7 +4443,9 @@
     "Science Fell in Love, So I Tried to Prove It r=1-sinθ"
   ],
   "368364": [
-    "Jibaku Shounen Hanako-kun"
+    "Jibaku Shounen Hanako-kun",
+    "Jibaku Shounen Hanako-kun S2",
+    "Jibaku Shounen Hanako-kun 2"
   ],
   "368366": [
     "Chuubyou Gekihatsu Boy"
@@ -4991,7 +4999,10 @@
   ],
   "389597": [
     "Ore dake Level Up na Ken",
-    "Ore dake Level Up na Ken Solo Levelin"
+    "Ore dake Level Up na Ken Solo Levelin",
+    "Solo Leveling S2",
+    "Ore dake Level Up na Ken: Arise from the Shadow",
+    "Ore dake Level Up na Ken S2"
   ],
   "390277": [
     "Anime Kapibara-san"
@@ -5778,7 +5789,8 @@
     "4-nin wa Sorezore Uso o Tsuku"
   ],
   "418665": [
-    "Watashi no Shiawase na Kekkon"
+    "Watashi no Shiawase na Kekkon",
+    "Watashi no Shiawase na Kekkon S2"
   ],
   "418740": [
     "Hanabi-chan wa Okuregachi",
@@ -6228,8 +6240,12 @@
     "Toaru Ossan no VRMMO Katsudou Ki",
     "Toaru Ossan no VRMMO Katsudouki"
   ],
+  "431014": [
+    "Ishura S2"
+  ],
   "431162": [
-    "Kusuriya no Hitorigoto"
+    "Kusuriya no Hitorigoto",
+    "Kusuriya no Hitorigoto S2"
   ],
   "431495": [
     "Potion-danomi de Ikinobimasu!"
@@ -6247,7 +6263,10 @@
   "432050": [
     "Kimi no Koto ga Dai Dai Dai Dai Daisuki na 100 Nin no Kanojo",
     "Kimi no Koto ga Daidaidaidaidaisuki na 100-nin no Kanojo",
-    "Hyakkano"
+    "Hyakkano",
+    "Hyakkano S2",
+    "Kimi no Koto ga Dai Dai Dai Dai Daisuki na 100-nin no Kanojo 2",
+    "Kimi no Koto ga Dai Dai Dai Dai Daisuki na 100-nin no Kanojo 2nd Season"
   ],
   "432080": [
     "Ousama Ranking - Yuuki no Takarabako"
@@ -6391,6 +6410,10 @@
   "436603": [
     "Hime-sama Goumon no Jikan desu"
   ],
+  "436827": [
+    "OKITSURA",
+    "Okinawa de Suki ni Natta Ko ga Hougen Sugite Tsura Sugiru"
+  ],
   "436836": [
     "Tasogare Out Focus"
   ],
@@ -6414,6 +6437,10 @@
   ],
   "437209": [
     "Koi wa Futago de Warikirenai"
+  ],
+  "437234": [
+    "Guild no Uketsukejou Desu ga, Zangyou wa Iya nano de Boss o Solo Toubatsu Shiyou to Omoimasu",
+    "Girumasu"
   ],
   "437236": [
     "Momochi-san Chi no Ayakashi Ouji",
@@ -6552,6 +6579,9 @@
   "443862": [
     "Mob kara Hajimaru Tansaku Eiyuutan"
   ],
+  "443904": [
+    "Nihon e Youkoso Elf-san"
+  ],
   "443905": [
     "Code Geass - Dakkan no Roze",
     "CODE GEASS - Roze of the Recapture"
@@ -6595,6 +6625,9 @@
   "445964": [
     "Kenka Dokugaku"
   ],
+  "445965": [
+    "NEET Kunoichi to Nazeka Dousei Hajimemashita"
+  ],
   "446389": [
     "Nageki no Bourei wa Intai Shitai"
   ],
@@ -6624,6 +6657,9 @@
   "447951": [
     "Grisaia - Phantom Trigger"
   ],
+  "447955": [
+    "Zenshuu"
+  ],
   "448477": [
     "Ameku Takao no Suiri Karte"
   ],
@@ -6638,22 +6674,46 @@
     "Izure Saikyou no Renkinjutsushi?",
     "Possibly the Greatest Alchemist of All Time"
   ],
+  "449988": [
+    "Kuroiwa Medaka ni Watashi no Kawaii ga Tsuujinai"
+  ],
   "449989": [
     "Kinoko Inu"
   ],
   "450933": [
-    "Kinomi Master"
+    "Kinomi Master",
+    "Hazure Skill \"Kinomi Master\": Skill no Mi (Tabetara Shinu) o Mugen ni Taberareru You ni Natta Ken ni Tsuite"
   ],
   "450947": [
     "Ayaka-chan wa Hiroko Senpai ni Koi Shiteru"
+  ],
+  "451128": [
+    "Hana wa Saku, Shura no Gotoku",
+    "Hanashura"
   ],
   "451479": [
     "Ranma 1-2 2024",
     "Ranma 1_2 (2024)",
     "Ranma1-2"
   ],
+  "451527": [
+    "Class no Daikirai na Joshi to Kekkon Suru Koto ni Natta"
+  ],
+  "451531": [
+    "Tasokare Hotel",
+    "Hotel Tasokare"
+  ],
+  "451596": [
+    "Fuguu-shoku \"Kanteishi\" ga Jitsu wa Saikyou Datta"
+  ],
+  "452091": [
+    "Magic Maker: Isekai Mahou no Tsukurikata"
+  ],
   "452426": [
     "Salaryman ga Isekai ni Ittara Shitennou ni Natta Hanashi"
+  ],
+  "452466": [
+    "Kono Kaisha ni Suki na Hito ga Imasu"
   ],
   "452741": [
     "NegaPosi Angler"
