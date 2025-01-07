@@ -4786,5 +4786,41 @@
       "episode": 24,
       "absolute": 398
     }
+  },
+  {
+    "scene": {
+      "season": 26,
+      "episode": 12,
+      "absolute": 397
+    },
+    "tvdb": {
+      "season": 2025,
+      "episode": 1,
+      "absolute": 399
+    }
+  },
+  {
+    "scene": {
+      "season": 26,
+      "episode": 13,
+      "absolute": 398
+    },
+    "tvdb": {
+      "season": 2025,
+      "episode": 2,
+      "absolute": 400
+    }
+  },
+  {
+    "scene": {
+      "season": 26,
+      "episode": 14,
+      "absolute": 399
+    },
+    "tvdb": {
+      "season": 2025,
+      "episode": 3,
+      "absolute": 401
+    }
   }
 ]
