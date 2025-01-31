@@ -2005,74 +2005,194 @@
   },
   {
     "scene": {
-      "season": 42,
-      "episode": 17,
+      "season": 2025,
+      "episode": 1,
       "absolute": 144
     },
     "tvdb": {
-      "season": 2024,
-      "episode": 17,
+      "season": 2025,
+      "episode": 1,
       "absolute": 141
     }
   },
   {
     "scene": {
-      "season": 42,
-      "episode": 18,
+      "season": 2025,
+      "episode": 2,
       "absolute": 145
     },
     "tvdb": {
-      "season": 2024,
-      "episode": 18,
+      "season": 2025,
+      "episode": 2,
       "absolute": 142
     }
   },
   {
     "scene": {
-      "season": 42,
-      "episode": 19,
+      "season": 2025,
+      "episode": 3,
       "absolute": 146
     },
     "tvdb": {
-      "season": 2024,
-      "episode": 19,
+      "season": 2025,
+      "episode": 3,
       "absolute": 143
     }
   },
   {
     "scene": {
-      "season": 42,
-      "episode": 20,
+      "season": 2025,
+      "episode": 4,
       "absolute": 147
     },
     "tvdb": {
-      "season": 2024,
-      "episode": 20,
+      "season": 2025,
+      "episode": 4,
       "absolute": 144
     }
   },
   {
     "scene": {
-      "season": 42,
-      "episode": 21,
+      "season": 2025,
+      "episode": 5,
       "absolute": 148
     },
     "tvdb": {
-      "season": 2024,
-      "episode": 21,
+      "season": 2025,
+      "episode": 5,
       "absolute": 145
     }
   },
   {
     "scene": {
-      "season": 42,
-      "episode": 22,
+      "season": 2025,
+      "episode": 6,
       "absolute": 149
     },
     "tvdb": {
-      "season": 2024,
-      "episode": 22,
+      "season": 2025,
+      "episode": 6,
       "absolute": 146
+    }
+  },
+  {
+    "scene": {
+      "season": 2025,
+      "episode": 7,
+      "absolute": 150
+    },
+    "tvdb": {
+      "season": 2025,
+      "episode": 7,
+      "absolute": 147
+    }
+  },
+  {
+    "scene": {
+      "season": 2025,
+      "episode": 8,
+      "absolute": 151
+    },
+    "tvdb": {
+      "season": 2025,
+      "episode": 8,
+      "absolute": 148
+    }
+  },
+  {
+    "scene": {
+      "season": 2025,
+      "episode": 9,
+      "absolute": 152
+    },
+    "tvdb": {
+      "season": 2025,
+      "episode": 9,
+      "absolute": 149
+    }
+  },
+  {
+    "scene": {
+      "season": 2025,
+      "episode": 10,
+      "absolute": 153
+    },
+    "tvdb": {
+      "season": 2025,
+      "episode": 10,
+      "absolute": 150
+    }
+  },
+  {
+    "scene": {
+      "season": 2025,
+      "episode": 11,
+      "absolute": 154
+    },
+    "tvdb": {
+      "season": 2025,
+      "episode": 11,
+      "absolute": 151
+    }
+  },
+  {
+    "scene": {
+      "season": 2025,
+      "episode": 12,
+      "absolute": 155
+    },
+    "tvdb": {
+      "season": 2025,
+      "episode": 12,
+      "absolute": 152
+    }
+  },
+  {
+    "scene": {
+      "season": 2025,
+      "episode": 13,
+      "absolute": 156
+    },
+    "tvdb": {
+      "season": 2025,
+      "episode": 13,
+      "absolute": 153
+    }
+  },
+  {
+    "scene": {
+      "season": 2025,
+      "episode": 14,
+      "absolute": 157
+    },
+    "tvdb": {
+      "season": 2025,
+      "episode": 14,
+      "absolute": 154
+    }
+  },
+  {
+    "scene": {
+      "season": 2025,
+      "episode": 15,
+      "absolute": 158
+    },
+    "tvdb": {
+      "season": 2025,
+      "episode": 15,
+      "absolute": 155
+    }
+  },
+  {
+    "scene": {
+      "season": 2025,
+      "episode": 16,
+      "absolute": 159
+    },
+    "tvdb": {
+      "season": 2025,
+      "episode": 16,
+      "absolute": 156
     }
   }
 ]

@@ -22378,5 +22378,125 @@
       "episode": 105,
       "absolute": 1865
     }
+  },
+  {
+    "scene": {
+      "season": 1,
+      "episode": 1866,
+      "absolute": 1866
+    },
+    "tvdb": {
+      "season": 8,
+      "episode": 106,
+      "absolute": 1866
+    }
+  },
+  {
+    "scene": {
+      "season": 1,
+      "episode": 1867,
+      "absolute": 1867
+    },
+    "tvdb": {
+      "season": 8,
+      "episode": 107,
+      "absolute": 1867
+    }
+  },
+  {
+    "scene": {
+      "season": 1,
+      "episode": 1868,
+      "absolute": 1868
+    },
+    "tvdb": {
+      "season": 8,
+      "episode": 108,
+      "absolute": 1868
+    }
+  },
+  {
+    "scene": {
+      "season": 1,
+      "episode": 1869,
+      "absolute": 1869
+    },
+    "tvdb": {
+      "season": 8,
+      "episode": 109,
+      "absolute": 1869
+    }
+  },
+  {
+    "scene": {
+      "season": 1,
+      "episode": 1870,
+      "absolute": 1870
+    },
+    "tvdb": {
+      "season": 8,
+      "episode": 110,
+      "absolute": 1870
+    }
+  },
+  {
+    "scene": {
+      "season": 1,
+      "episode": 1871,
+      "absolute": 1871
+    },
+    "tvdb": {
+      "season": 8,
+      "episode": 111,
+      "absolute": 1871
+    }
+  },
+  {
+    "scene": {
+      "season": 1,
+      "episode": 1872,
+      "absolute": 1872
+    },
+    "tvdb": {
+      "season": 8,
+      "episode": 112,
+      "absolute": 1872
+    }
+  },
+  {
+    "scene": {
+      "season": 1,
+      "episode": 1873,
+      "absolute": 1873
+    },
+    "tvdb": {
+      "season": 8,
+      "episode": 113,
+      "absolute": 1873
+    }
+  },
+  {
+    "scene": {
+      "season": 1,
+      "episode": 1874,
+      "absolute": 1874
+    },
+    "tvdb": {
+      "season": 8,
+      "episode": 114,
+      "absolute": 1874
+    }
+  },
+  {
+    "scene": {
+      "season": 1,
+      "episode": 1875,
+      "absolute": 1875
+    },
+    "tvdb": {
+      "season": 8,
+      "episode": 115,
+      "absolute": 1875
+    }
   }
 ]
