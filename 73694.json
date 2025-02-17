@@ -4630,29 +4630,5 @@
       "episode": 48,
       "absolute": 386
     }
-  },
-  {
-    "scene": {
-      "season": 48,
-      "episode": 49,
-      "absolute": 49
-    },
-    "tvdb": {
-      "season": 48,
-      "episode": 49,
-      "absolute": 387
-    }
-  },
-  {
-    "scene": {
-      "season": 48,
-      "episode": 50,
-      "absolute": 50
-    },
-    "tvdb": {
-      "season": 48,
-      "episode": 50,
-      "absolute": 388
-    }
   }
 ]
