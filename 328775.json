@@ -23698,5 +23698,245 @@
       "episode": 215,
       "absolute": 1975
     }
+  },
+  {
+    "scene": {
+      "season": 1,
+      "episode": 1976,
+      "absolute": 1976
+    },
+    "tvdb": {
+      "season": 8,
+      "episode": 216,
+      "absolute": 1976
+    }
+  },
+  {
+    "scene": {
+      "season": 1,
+      "episode": 1977,
+      "absolute": 1977
+    },
+    "tvdb": {
+      "season": 8,
+      "episode": 217,
+      "absolute": 1977
+    }
+  },
+  {
+    "scene": {
+      "season": 1,
+      "episode": 1978,
+      "absolute": 1978
+    },
+    "tvdb": {
+      "season": 8,
+      "episode": 218,
+      "absolute": 1978
+    }
+  },
+  {
+    "scene": {
+      "season": 1,
+      "episode": 1979,
+      "absolute": 1979
+    },
+    "tvdb": {
+      "season": 8,
+      "episode": 219,
+      "absolute": 1979
+    }
+  },
+  {
+    "scene": {
+      "season": 1,
+      "episode": 1980,
+      "absolute": 1980
+    },
+    "tvdb": {
+      "season": 8,
+      "episode": 220,
+      "absolute": 1980
+    }
+  },
+  {
+    "scene": {
+      "season": 1,
+      "episode": 1981,
+      "absolute": 1981
+    },
+    "tvdb": {
+      "season": 8,
+      "episode": 221,
+      "absolute": 1981
+    }
+  },
+  {
+    "scene": {
+      "season": 1,
+      "episode": 1982,
+      "absolute": 1982
+    },
+    "tvdb": {
+      "season": 8,
+      "episode": 222,
+      "absolute": 1982
+    }
+  },
+  {
+    "scene": {
+      "season": 1,
+      "episode": 1983,
+      "absolute": 1983
+    },
+    "tvdb": {
+      "season": 8,
+      "episode": 223,
+      "absolute": 1983
+    }
+  },
+  {
+    "scene": {
+      "season": 1,
+      "episode": 1984,
+      "absolute": 1984
+    },
+    "tvdb": {
+      "season": 8,
+      "episode": 224,
+      "absolute": 1984
+    }
+  },
+  {
+    "scene": {
+      "season": 1,
+      "episode": 1985,
+      "absolute": 1985
+    },
+    "tvdb": {
+      "season": 8,
+      "episode": 225,
+      "absolute": 1985
+    }
+  },
+  {
+    "scene": {
+      "season": 1,
+      "episode": 1986,
+      "absolute": 1986
+    },
+    "tvdb": {
+      "season": 8,
+      "episode": 226,
+      "absolute": 1986
+    }
+  },
+  {
+    "scene": {
+      "season": 1,
+      "episode": 1987,
+      "absolute": 1987
+    },
+    "tvdb": {
+      "season": 8,
+      "episode": 227,
+      "absolute": 1987
+    }
+  },
+  {
+    "scene": {
+      "season": 1,
+      "episode": 1988,
+      "absolute": 1988
+    },
+    "tvdb": {
+      "season": 8,
+      "episode": 228,
+      "absolute": 1988
+    }
+  },
+  {
+    "scene": {
+      "season": 1,
+      "episode": 1989,
+      "absolute": 1989
+    },
+    "tvdb": {
+      "season": 8,
+      "episode": 229,
+      "absolute": 1989
+    }
+  },
+  {
+    "scene": {
+      "season": 1,
+      "episode": 1990,
+      "absolute": 1990
+    },
+    "tvdb": {
+      "season": 8,
+      "episode": 230,
+      "absolute": 1990
+    }
+  },
+  {
+    "scene": {
+      "season": 1,
+      "episode": 1991,
+      "absolute": 1991
+    },
+    "tvdb": {
+      "season": 8,
+      "episode": 231,
+      "absolute": 1991
+    }
+  },
+  {
+    "scene": {
+      "season": 1,
+      "episode": 1992,
+      "absolute": 1992
+    },
+    "tvdb": {
+      "season": 8,
+      "episode": 232,
+      "absolute": 1992
+    }
+  },
+  {
+    "scene": {
+      "season": 1,
+      "episode": 1993,
+      "absolute": 1993
+    },
+    "tvdb": {
+      "season": 8,
+      "episode": 233,
+      "absolute": 1993
+    }
+  },
+  {
+    "scene": {
+      "season": 1,
+      "episode": 1994,
+      "absolute": 1994
+    },
+    "tvdb": {
+      "season": 8,
+      "episode": 234,
+      "absolute": 1994
+    }
+  },
+  {
+    "scene": {
+      "season": 1,
+      "episode": 1995,
+      "absolute": 1995
+    },
+    "tvdb": {
+      "season": 8,
+      "episode": 235,
+      "absolute": 1995
+    }
   }
 ]
