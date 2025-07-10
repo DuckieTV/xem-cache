@@ -4822,5 +4822,65 @@
       "episode": 3,
       "absolute": 401
     }
+  },
+  {
+    "scene": {
+      "season": 27,
+      "episode": 1,
+      "absolute": 400
+    },
+    "tvdb": {
+      "season": 2025,
+      "episode": 4,
+      "absolute": 402
+    }
+  },
+  {
+    "scene": {
+      "season": 27,
+      "episode": 2,
+      "absolute": 401
+    },
+    "tvdb": {
+      "season": 2025,
+      "episode": 5,
+      "absolute": 403
+    }
+  },
+  {
+    "scene": {
+      "season": 27,
+      "episode": 3,
+      "absolute": 402
+    },
+    "tvdb": {
+      "season": 2025,
+      "episode": 6,
+      "absolute": 404
+    }
+  },
+  {
+    "scene": {
+      "season": 27,
+      "episode": 4,
+      "absolute": 403
+    },
+    "tvdb": {
+      "season": 2025,
+      "episode": 7,
+      "absolute": 405
+    }
+  },
+  {
+    "scene": {
+      "season": 27,
+      "episode": 5,
+      "absolute": 404
+    },
+    "tvdb": {
+      "season": 2025,
+      "episode": 8,
+      "absolute": 406
+    }
   }
 ]
