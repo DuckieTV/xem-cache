@@ -1942,5 +1942,41 @@
       "episode": 30,
       "absolute": 162
     }
+  },
+  {
+    "scene": {
+      "season": 37,
+      "episode": 31,
+      "absolute": 163
+    },
+    "tvdb": {
+      "season": 38,
+      "episode": 31,
+      "absolute": 163
+    }
+  },
+  {
+    "scene": {
+      "season": 37,
+      "episode": 32,
+      "absolute": 164
+    },
+    "tvdb": {
+      "season": 38,
+      "episode": 32,
+      "absolute": 164
+    }
+  },
+  {
+    "scene": {
+      "season": 38,
+      "episode": 1,
+      "absolute": 165
+    },
+    "tvdb": {
+      "season": 39,
+      "episode": 1,
+      "absolute": 165
+    }
   }
 ]
