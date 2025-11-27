@@ -2038,5 +2038,137 @@
       "episode": 6,
       "absolute": 170
     }
+  },
+  {
+    "scene": {
+      "season": 38,
+      "episode": 7,
+      "absolute": 171
+    },
+    "tvdb": {
+      "season": 39,
+      "episode": 7,
+      "absolute": 171
+    }
+  },
+  {
+    "scene": {
+      "season": 38,
+      "episode": 8,
+      "absolute": 172
+    },
+    "tvdb": {
+      "season": 39,
+      "episode": 8,
+      "absolute": 172
+    }
+  },
+  {
+    "scene": {
+      "season": 38,
+      "episode": 9,
+      "absolute": 173
+    },
+    "tvdb": {
+      "season": 39,
+      "episode": 9,
+      "absolute": 173
+    }
+  },
+  {
+    "scene": {
+      "season": 38,
+      "episode": 10,
+      "absolute": 174
+    },
+    "tvdb": {
+      "season": 39,
+      "episode": 10,
+      "absolute": 174
+    }
+  },
+  {
+    "scene": {
+      "season": 38,
+      "episode": 11,
+      "absolute": 175
+    },
+    "tvdb": {
+      "season": 39,
+      "episode": 11,
+      "absolute": 175
+    }
+  },
+  {
+    "scene": {
+      "season": 38,
+      "episode": 12,
+      "absolute": 176
+    },
+    "tvdb": {
+      "season": 39,
+      "episode": 12,
+      "absolute": 176
+    }
+  },
+  {
+    "scene": {
+      "season": 38,
+      "episode": 13,
+      "absolute": 177
+    },
+    "tvdb": {
+      "season": 39,
+      "episode": 13,
+      "absolute": 177
+    }
+  },
+  {
+    "scene": {
+      "season": 38,
+      "episode": 14,
+      "absolute": 178
+    },
+    "tvdb": {
+      "season": 39,
+      "episode": 14,
+      "absolute": 178
+    }
+  },
+  {
+    "scene": {
+      "season": 38,
+      "episode": 15,
+      "absolute": 179
+    },
+    "tvdb": {
+      "season": 39,
+      "episode": 15,
+      "absolute": 179
+    }
+  },
+  {
+    "scene": {
+      "season": 38,
+      "episode": 16,
+      "absolute": 180
+    },
+    "tvdb": {
+      "season": 39,
+      "episode": 16,
+      "absolute": 180
+    }
+  },
+  {
+    "scene": {
+      "season": 38,
+      "episode": 17,
+      "absolute": 181
+    },
+    "tvdb": {
+      "season": 39,
+      "episode": 17,
+      "absolute": 181
+    }
   }
 ]
