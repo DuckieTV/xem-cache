@@ -2194,5 +2194,29 @@
       "episode": 15,
       "absolute": 156
     }
+  },
+  {
+    "scene": {
+      "season": 43,
+      "episode": 17,
+      "absolute": 160
+    },
+    "tvdb": {
+      "season": 2025,
+      "episode": 16,
+      "absolute": 157
+    }
+  },
+  {
+    "scene": {
+      "season": 43,
+      "episode": 18,
+      "absolute": 161
+    },
+    "tvdb": {
+      "season": 2025,
+      "episode": 17,
+      "absolute": 158
+    }
   }
 ]
