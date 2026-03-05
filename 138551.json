@@ -2170,5 +2170,17 @@
       "episode": 17,
       "absolute": 181
     }
+  },
+  {
+    "scene": {
+      "season": 38,
+      "episode": 18,
+      "absolute": 182
+    },
+    "tvdb": {
+      "season": 39,
+      "episode": 18,
+      "absolute": 182
+    }
   }
 ]
