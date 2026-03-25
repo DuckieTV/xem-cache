@@ -4954,5 +4954,89 @@
       "episode": 14,
       "absolute": 412
     }
+  },
+  {
+    "scene": {
+      "season": 27,
+      "episode": 12,
+      "absolute": 411
+    },
+    "tvdb": {
+      "season": 2025,
+      "episode": 15,
+      "absolute": 413
+    }
+  },
+  {
+    "scene": {
+      "season": 27,
+      "episode": 13,
+      "absolute": 412
+    },
+    "tvdb": {
+      "season": 2026,
+      "episode": 1,
+      "absolute": 414
+    }
+  },
+  {
+    "scene": {
+      "season": 27,
+      "episode": 14,
+      "absolute": 413
+    },
+    "tvdb": {
+      "season": 2026,
+      "episode": 2,
+      "absolute": 415
+    }
+  },
+  {
+    "scene": {
+      "season": 27,
+      "episode": 15,
+      "absolute": 414
+    },
+    "tvdb": {
+      "season": 2026,
+      "episode": 3,
+      "absolute": 416
+    }
+  },
+  {
+    "scene": {
+      "season": 27,
+      "episode": 16,
+      "absolute": 415
+    },
+    "tvdb": {
+      "season": 2026,
+      "episode": 4,
+      "absolute": 417
+    }
+  },
+  {
+    "scene": {
+      "season": 27,
+      "episode": 17,
+      "absolute": 416
+    },
+    "tvdb": {
+      "season": 2026,
+      "episode": 5,
+      "absolute": 418
+    }
+  },
+  {
+    "scene": {
+      "season": 27,
+      "episode": 18,
+      "absolute": 417
+    },
+    "tvdb": {
+      "season": 2026,
+      "episode": 6,
+      "absolute": 419
+    }
   }
 ]

@@ -2182,5 +2182,41 @@
       "episode": 18,
       "absolute": 182
     }
+  },
+  {
+    "scene": {
+      "season": 38,
+      "episode": 19,
+      "absolute": 183
+    },
+    "tvdb": {
+      "season": 39,
+      "episode": 19,
+      "absolute": 183
+    }
+  },
+  {
+    "scene": {
+      "season": 38,
+      "episode": 20,
+      "absolute": 184
+    },
+    "tvdb": {
+      "season": 39,
+      "episode": 20,
+      "absolute": 184
+    }
+  },
+  {
+    "scene": {
+      "season": 38,
+      "episode": 21,
+      "absolute": 185
+    },
+    "tvdb": {
+      "season": 39,
+      "episode": 21,
+      "absolute": 185
+    }
   }
 ]
