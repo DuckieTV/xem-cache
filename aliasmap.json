@@ -78,6 +78,17 @@
     "名侦探柯南",
     "Detektiv Conan"
   ],
+  "72775": [
+    "Saint Seiya - Saintia Shou",
+    "Saint Seiya - Soul of Gold",
+    "Saint Seiya Omega",
+    "Saint Seiya Omega",
+    "Saint Seiya The Lost Canvas",
+    "Saint Seiya The Lost Canvas",
+    "Saint Seiya - Meiou Hades Elysion-hen",
+    "Saint Seiya The Hades Chapter Inferno",
+    "Saint Seiya - Legend of Sanctuary"
+  ],
   "72902": [
     "Last Exile",
     "Last Exile: Fam, The Silver Wing"
@@ -2122,7 +2133,10 @@
     "Diamond no Ace Second Season",
     "Diamond no Ace - Act II",
     "Ace of Diamond: Act II",
-    "Dia no Ace: Act II"
+    "Dia no Ace: Act II",
+    "Dia no Ace: Act II Second Season",
+    "Ace of Diamond Act II S2",
+    "Diamond no Ace: Act II Second Season"
   ],
   "273009": [
     "Yozakura Quartet: Hana no Uta",
@@ -3075,7 +3089,8 @@
     "ReZero kara Hajimeru Isekai Seikatsu (Season 2)",
     "Re:ZERO -Starting Life in Another World- Season 2",
     "Re Zero kara Hajimeru Isekai Seikatsu 3rd Season",
-    "Re:Zero kara Hajimeru Isekai Seikatsu 3rd Season"
+    "Re:Zero kara Hajimeru Isekai Seikatsu 3rd Season",
+    "Re:Zero kara Hajimeru Isekai Seikatsu 4th Season"
   ],
   "305099": [
     "Mayoiga"
@@ -3557,7 +3572,9 @@
     "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 2nd Season",
     "Classroom of the Elite 3rd Season",
     "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e S3",
-    "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 3rd Season"
+    "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 3rd Season",
+    "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e S4",
+    "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 4th Season: 2-nensei-hen 1 Gakki"
   ],
   "329823": [
     "Vatican Kiseki Chousakan"
@@ -4110,7 +4127,10 @@
     "That Time I Got Reincarnated as a Slime Season 2",
     "Tensei Shitara Slime Datta Ken S3",
     "Tensei shitara Slime Datta Ken 3rd Season",
-    "That Time I Got Reincarnated as a Slime Season 3"
+    "That Time I Got Reincarnated as a Slime Season 3",
+    "Tensei Shitara Slime Datta Ken S4",
+    "Tensei shitara Slime Datta Ken 4th Season",
+    "That Time I Got Reincarnated as a Slime Season 4"
   ],
   "352564": [
     "Ore ga Suki na no wa Imouto Dakedo Imouto ja Nai",
@@ -4477,7 +4497,8 @@
     "Ascendance of a Bookworm (Honzuki no Gekokujou) S2",
     "Honzuki no Gekokujou - Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen 3rd Season",
     "Honzuki no Gekokujou S3",
-    "Honzuki no Gekokujou (Ascendance of a Bookworm)"
+    "Honzuki no Gekokujou (Ascendance of a Bookworm)",
+    "Honzuki no Gekokujou S4"
   ],
   "366460": [
     "Brand New Animal (BNA)",
@@ -4553,7 +4574,10 @@
     "Welcome to Demon School! Iruma-kun S2",
     "Mairimashita! Iruma-kun S3",
     "Mairimashita! Iruma-kun 3rd Season",
-    "Welcome to Demon School! Iruma-kun S3"
+    "Welcome to Demon School! Iruma-kun S3",
+    "Mairimashita! Iruma-kun S4",
+    "Mairimashita Iruma-kun 4th Season",
+    "Welcome to Demon School! Iruma-kun S4"
   ],
   "369145": [
     "Null Peta"
@@ -4570,6 +4594,10 @@
   ],
   "369749": [
     "Tenka Hyakken: Meiji-kan e Youkoso!"
+  ],
+  "370761": [
+    "Dorohedoro S2",
+    "Dorohedoro Season 2"
   ],
   "370768": [
     "Nihon Chinbotsu 2020"
@@ -4853,7 +4881,8 @@
     "Kanojo Okarishimasu 4th Season",
     "Kanojo, Okarishimasu (2025)",
     "Kanojo, Okarishimasu S4",
-    "RentAGirlfriend"
+    "RentAGirlfriend",
+    "Kanojo Okarishimasu 5th Season"
   ],
   "380655": [
     "Monster Musume no Oisha-san"
@@ -5762,8 +5791,11 @@
     "MF Ghost 3rd Season"
   ],
   "414221": [
+    "Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken 2",
     "Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken",
-    "Otonari no Tenshi-sama"
+    "Otonari no Tenshi-sama",
+    "Otonari no Tenshi-sama 2",
+    "Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken S2"
   ],
   "414562": [
     "Kimi wa Houkago Insomnia",
@@ -5897,7 +5929,9 @@
     "Mobile Suit Gundam - The Witch from Mercury"
   ],
   "418367": [
-    "Isekai Nonbiri Nouka"
+    "Isekai Nonbiri Nouka",
+    "Isekai Nonbiri Nouka S2",
+    "Isekai Nonbiri Nouka 2"
   ],
   "418376": [
     "4-nin wa Sorezore Uso wo Tsuku",
@@ -5907,6 +5941,9 @@
     "Watashi no Shiawase na Kekkon",
     "Watashi no Shiawase na Kekkon S2",
     "Watashi no Shiawase na Kekkon 2nd Season"
+  ],
+  "418666": [
+    "Tongari Boushi no Atelier"
   ],
   "418740": [
     "Hanabi-chan wa Okuregachi",
@@ -6107,7 +6144,9 @@
     "Jidouhanbaiki ni Umarekawatta Ore wa Meikyuu o Samayou",
     "Reborn as a Vending Machine, Now I Wander the Dungeon",
     "Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou S2",
-    "Jidouhanbaiki ni Umarekawatta Ore wa Meikyuu o Samayou S2"
+    "Jidouhanbaiki ni Umarekawatta Ore wa Meikyuu o Samayou S2",
+    "Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou S3",
+    "Jidouhanbaiki ni Umarekawatta Ore wa Meikyuu o Samayou S3"
   ],
   "423154": [
     "Human Bug Daigaku"
@@ -6248,7 +6287,8 @@
   ],
   "426528": [
     "Higeki no Genkyou to Naru Saikyou Gedou Last Boss Joou wa Tami no Tame ni Tsukushimasu.",
-    "LasTame"
+    "LasTame",
+    "LasTame S2"
   ],
   "426530": [
     "Boushoku no Berserk"
@@ -6683,6 +6723,9 @@
     "Watari-kun no xx ga Houkai Sunzen",
     "Watari-kun's XX Is on the Brink of Collapse"
   ],
+  "440057": [
+    "Class de 2-banme ni Kawaii Onnanoko to Tomodachi ni Natta"
+  ],
   "440450": [
     "One Room - Hiatari Futsuu - Tenshi-tsuki",
     "One Room, Hiatari Futsuu, Tenshi-tsuki."
@@ -6854,7 +6897,8 @@
     "Himitsu no AiPri: Ring-hen"
   ],
   "445829": [
-    "Tsue to Tsurugi no Wistoria"
+    "Tsue to Tsurugi no Wistoria",
+    "Tsue to Tsurugi no Wistoria S2"
   ],
   "445964": [
     "Kenka Dokugaku"
@@ -6935,9 +6979,15 @@
   "449857": [
     "Shin Samurai-den Yaiba"
   ],
+  "449883": [
+    "Awajima Hyakkei"
+  ],
   "449884": [
     "Izure Saikyou no Renkinjutsushi?",
     "Someday Will I Be the Greatest Alchemist"
+  ],
+  "449913": [
+    "Kujima Utaeba Ie Hororo"
   ],
   "449914": [
     "Kakushite Makina-san",
@@ -7040,6 +7090,9 @@
   "452710": [
     "Katainaka no Ossan, Kensei ni Naru"
   ],
+  "452711": [
+    "Yomi no Tsugai"
+  ],
   "452712": [
     "Zutaboro Reijou wa Ane no Moto Konyakusha ni Dekiai sareru"
   ],
@@ -7050,6 +7103,9 @@
   ],
   "452741": [
     "NegaPosi Angler"
+  ],
+  "452801": [
+    "Reincarnation no Kaben"
   ],
   "452826": [
     "Haite Kudasai, Takamine-san"
@@ -7072,6 +7128,9 @@
   ],
   "453230": [
     "Yano-kun no Futsuu no Hibi"
+  ],
+  "453319": [
+    "Ganbare! Nakamura-kun!!"
   ],
   "453353": [
     "Arafou Otoko no Isekai Tsuuhan Seikatsu",
@@ -7128,6 +7187,9 @@
     "The Mononoke Lecture Logs of Chuzenji-sensei",
     "Chuuzenji-sensei"
   ],
+  "455164": [
+    "Himekishi wa Barbaroi no Yome"
+  ],
   "455309": [
     "Odayaka Kizoku no Kyuuka no Susume."
   ],
@@ -7144,7 +7206,9 @@
   "455684": [
     "Saikyou no Ousama Nidome no Jinsei wa Nani o Suru",
     "Saikyou no Ousama, Nidome no Jinsei wa Nani o Suru?",
-    "Saikyou no Ousama, Nidome no Jinsei wa Nani wo Suru?"
+    "Saikyou no Ousama, Nidome no Jinsei wa Nani wo Suru?",
+    "The Beginning After the End S2",
+    "Saikyou no Ousama, Nidome no Jinsei wa Nani o Suru? Season 2"
   ],
   "455709": [
     "Eris no Seihai"
@@ -7183,6 +7247,9 @@
   ],
   "456678": [
     "Ballpark de Tsukamaete!"
+  ],
+  "456679": [
+    "Kirio Fanclub"
   ],
   "456730": [
     "Mugen Gacha",
@@ -7266,11 +7333,17 @@
   "459339": [
     "Majutsushi Kunon wa Mieteiru"
   ],
+  "459627": [
+    "Koori no Jouheki"
+  ],
   "459970": [
     "Kizetsu Yuusha to Ansatsu Hime"
   ],
   "460096": [
     "Taiyou yori mo Mabushii Hoshi"
+  ],
+  "460313": [
+    "Replica datte, Koi wo Suru."
   ],
   "460340": [
     "Chuhai Lips Canned Flavor of Married Women"
@@ -7306,6 +7379,12 @@
   "461311": [
     "The Super Cube"
   ],
+  "461374": [
+    "Kamiina Botan, Yoeru Sugata wa Yuri no Hana"
+  ],
+  "461457": [
+    "Mahou no Shimai LuluttoLilly"
+  ],
   "461466": [
     "Tensei shitara Dragon no Tamago datta"
   ],
@@ -7327,6 +7406,17 @@
     "Osananajimi to wa Love Comedy ni Naranai",
     "Osananajimi to wa LoveCom ni Naranai"
   ],
+  "462400": [
+    "Ponkotsu Fuuki Iin to Skirt-take ga Futekisetsu na JK no Hanashi"
+  ],
+  "462446": [
+    "Shunkashuutou Daikousha - Haru no Mai",
+    "Agents of the Four Seasons",
+    "Shunkashuutou Daikousha Haru no Mai"
+  ],
+  "462598": [
+    "Kanan-sama wa Akumade Choroi"
+  ],
   "462789": [
     "Okiraku Ryoushu no Tanoshii Ryouchi Bouei",
     "Okiraku Ryoushu no Tanoshii Ryouchi Boue"
@@ -7342,6 +7432,9 @@
   "463481": [
     "Uruwashi no Yoi no Tsuki"
   ],
+  "463583": [
+    "Jishou Akuyaku Reijou na Konyakusha no Kansatsu Kiroku."
+  ],
   "464419": [
     "Guimi Zhi Zhu"
   ],
@@ -7350,6 +7443,9 @@
   ],
   "464693": [
     "Yoroi Shin Den Samurai Troopers"
+  ],
+  "464717": [
+    "Aishiteru Game wo Owarasetai"
   ],
   "464963": [
     "Maou no Musume wa Yasashi Sugiru!!"
@@ -7361,6 +7457,9 @@
     "Towa no Yuugure",
     "Towa no Yugure"
   ],
+  "465216": [
+    "Hokuto no Ken (2026)"
+  ],
   "465498": [
     "Akuyaku Reijou wa Ringoku no Outaishi ni Dekiai sareru"
   ],
@@ -7369,6 +7468,9 @@
   ],
   "465543": [
     "Gintama - 3-nen Z-gumi Ginpachi-sensei"
+  ],
+  "465799": [
+    "Kami no Niwatsuki Kusunoki-tei"
   ],
   "465978": [
     "Debu to Love to Ayamachi to!"
@@ -7379,6 +7481,18 @@
   "466376": [
     "Potion Wagami wo Tasukeru",
     "I Saved Myself with a Potion Life in another world"
+  ],
+  "466524": [
+    "Kuroneko to Majo no Kyoushitsu"
+  ],
+  "467209": [
+    "Liar Game"
+  ],
+  "467292": [
+    "Maid-san wa Taberu Dake"
+  ],
+  "467414": [
+    "Kill Ao"
   ],
   "467839": [
     "Jingai Kyoushitsu no Ningengirai Kyoushi"
@@ -7394,11 +7508,53 @@
     "Who Made Me a Princess",
     "Mofa Gongzhu de Xiao Fannao"
   ],
+  "468660": [
+    "Hidarikiki no Eren"
+  ],
+  "468761": [
+    "Otaku ni Yasashii Gal wa Inai"
+  ],
+  "469451": [
+    "Kanteishi (Kari)",
+    "Saikyou no Shokugyou wa Yuusha demo Kenja demo Naku Kanteishi (Kari) Rashii desu yo"
+  ],
+  "469985": [
+    "Nigetsuri",
+    "Nigashita Sakana wa Ookikatta ga Tsuriageta Sakana ga Ookisugita Ken"
+  ],
+  "470519": [
+    "Mata Korosarete Shimatta no desu ne, Tantei-sama"
+  ],
+  "470659": [
+    "Kami no Shizuku"
+  ],
   "470817": [
     "Hyperspace Sheriff Gavan Infinity"
+  ],
+  "470864": [
+    "Tadaima, Ojamasaremasu!"
   ],
   "470961": [
     "Meitantei Precure!",
     "Meitantei Precure"
+  ],
+  "471000": [
+    "Haibara-kun no Tsuyokute Seishun New Game"
+  ],
+  "471791": [
+    "Ookii Onnanoko wa Suki desu ka?",
+    "Ookii Onnanoko wa Suki Desuka?"
+  ],
+  "473228": [
+    "Nippon Sangoku"
+  ],
+  "473229": [
+    "Yuusha no Rokkotsu de"
+  ],
+  "473668": [
+    "Daikenja Riddle no Jikan Gyakkou"
+  ],
+  "473930": [
+    "Ingoku Danchi"
   ]
 }

@@ -5038,5 +5038,41 @@
       "episode": 6,
       "absolute": 419
     }
+  },
+  {
+    "scene": {
+      "season": 27,
+      "episode": 19,
+      "absolute": 418
+    },
+    "tvdb": {
+      "season": 2026,
+      "episode": 7,
+      "absolute": 420
+    }
+  },
+  {
+    "scene": {
+      "season": 27,
+      "episode": 20,
+      "absolute": 419
+    },
+    "tvdb": {
+      "season": 2026,
+      "episode": 8,
+      "absolute": 421
+    }
+  },
+  {
+    "scene": {
+      "season": 27,
+      "episode": 21,
+      "absolute": 420
+    },
+    "tvdb": {
+      "season": 2026,
+      "episode": 9,
+      "absolute": 422
+    }
   }
 ]
