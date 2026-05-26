@@ -2314,5 +2314,17 @@
       "episode": 29,
       "absolute": 193
     }
+  },
+  {
+    "scene": {
+      "season": 38,
+      "episode": 30,
+      "absolute": 194
+    },
+    "tvdb": {
+      "season": 39,
+      "episode": 30,
+      "absolute": 194
+    }
   }
 ]
