@@ -3281,7 +3281,8 @@
     "Keijo!!!!!!!!"
   ],
   "315500": [
-    "Youjo Senki"
+    "Youjo Senki",
+    "Youjo Senki S2"
   ],
   "316331": [
     "Bernard Jou Iwaku."
@@ -3533,7 +3534,8 @@
   "328670": [
     "Quanzhi Fashi",
     "Quanzhi Fashi Season 2",
-    "Quanzhi Fashi (Full-Time Magister)"
+    "Quanzhi Fashi (Full-Time Magister)",
+    "Quanzhi Fashi S7"
   ],
   "328775": [
     "Demain nous appartient"
@@ -3918,7 +3920,9 @@
   "343913": [
     "Grand Blue",
     "Grand Blue S2",
-    "Grand Blue Season 2"
+    "Grand Blue Season 2",
+    "Grand Blue S3",
+    "Grand Blue Season 3"
   ],
   "343999": [
     "Jian Wangchao (2017)",
@@ -4642,7 +4646,8 @@
     "Mushoku Tensei II - Isekai Ittara Honki Dasu Part 2",
     "Mushoku Tensei - Isekai Ittara Honki Dasu",
     "Mushoku Tensei Isekai Ittara Honki Dasu",
-    "Mushoku Tensei II Isekai Ittara Honki Dasu"
+    "Mushoku Tensei II Isekai Ittara Honki Dasu",
+    "Mushoku Tensei S3"
   ],
   "371436": [
     "Majo no Tabitabi",
@@ -5735,7 +5740,9 @@
   ],
   "412826": [
     "Otome Game Sekai wa Mob ni Kibishii Sekai desu",
-    "Otomege Sekai wa Mob ni Kibishii Sekai Desu"
+    "Otomege Sekai wa Mob ni Kibishii Sekai Desu",
+    "Otome Game Sekai wa Mob ni Kibishii Sekai desu S2",
+    "Otomege Sekai wa Mob ni Kibishii Sekai Desu II"
   ],
   "412843": [
     "A Herbivorous Dragon of 5000 Years Gets Unfairly Villainized",
@@ -6478,7 +6485,8 @@
     "Kimi no Koto ga Dai Dai Dai Dai Daisuki na 100-nin no Kanojo 2",
     "Kimi no Koto ga Dai Dai Dai Dai Daisuki na 100-nin no Kanojo 2nd Season",
     "Kimi no Koto ga Dai Dai Dai Dai Daisuki na 100-nin no Kanojo S2",
-    "hyakkano 2"
+    "hyakkano 2",
+    "Hyakkano S3"
   ],
   "432080": [
     "Ousama Ranking - Yuuki no Takarabako"
@@ -7102,7 +7110,8 @@
     "Katainaka no Ossan, Kensei ni Naru"
   ],
   "452711": [
-    "Yomi no Tsugai"
+    "Yomi no Tsugai",
+    "Espíritus del Inframundo"
   ],
   "452712": [
     "Zutaboro Reijou wa Ane no Moto Konyakusha ni Dekiai sareru"
@@ -7363,6 +7372,9 @@
     "Ansatsusha de Aru Ore no Status ga Yuusha yori mo Akiraka ni Tsuyoi no da ga",
     "sutetsuyo"
   ],
+  "460501": [
+    "Neko to Ryuu"
+  ],
   "460607": [
     "Ninja to Gokudou"
   ],
@@ -7371,6 +7383,9 @@
   ],
   "460693": [
     "Hikuidori - Ushuu Boro Tobi-gumi"
+  ],
+  "460899": [
+    "Kimi ga Shinu made Koi wo Shitai"
   ],
   "460903": [
     "Yuusha Party wo Oidasareta Kiyoubinbou"
@@ -7444,6 +7459,9 @@
   "463481": [
     "Uruwashi no Yoi no Tsuki"
   ],
+  "463578": [
+    "All Works Maid"
+  ],
   "463583": [
     "Jishou Akuyaku Reijou na Konyakusha no Kansatsu Kiroku."
   ],
@@ -7501,6 +7519,9 @@
   "466524": [
     "Kuroneko to Majo no Kyoushitsu"
   ],
+  "467127": [
+    "Lv999 no Murabito"
+  ],
   "467209": [
     "Liar Game"
   ],
@@ -7529,6 +7550,10 @@
   ],
   "468761": [
     "Otaku ni Yasashii Gal wa Inai"
+  ],
+  "468809": [
+    "Kokoore",
+    "Koko wa Ore ni Makasete Saki ni Ike to Itte kara 10-nen ga Tattara Densetsu ni Natte Ita"
   ],
   "469451": [
     "Kanteishi (Kari)",
@@ -7561,6 +7586,9 @@
     "Ookii Onnanoko wa Suki desu ka?",
     "Ookii Onnanoko wa Suki Desuka?"
   ],
+  "471878": [
+    "Otome Kaijuu Caramelise"
+  ],
   "473228": [
     "Nippon Sangoku"
   ],
@@ -7569,10 +7597,20 @@
     "Megami ~Isekai Tensei Nani ni Naritai Desu ka~ Ore ~Yuusha no Rokkotsu de~",
     "Megami Isekai Tensei Nani ni Naritai Desu ka Ore Yuusha no Rokkotsu de"
   ],
+  "473423": [
+    "Yani Neko"
+  ],
   "473668": [
     "Daikenja Riddle no Jikan Gyakkou"
   ],
+  "473913": [
+    "Ushiro no Shoumen Kamui-san",
+    "Kamui-san in the Back"
+  ],
   "473930": [
     "Ingoku Danchi"
+  ],
+  "474303": [
+    "Rakudai Kenja no Gakuin Musou"
   ]
 }
