@@ -2290,5 +2290,29 @@
       "episode": 6,
       "absolute": 164
     }
+  },
+  {
+    "scene": {
+      "season": 44,
+      "episode": 7,
+      "absolute": 168
+    },
+    "tvdb": {
+      "season": 2026,
+      "episode": 7,
+      "absolute": 165
+    }
+  },
+  {
+    "scene": {
+      "season": 44,
+      "episode": 8,
+      "absolute": 169
+    },
+    "tvdb": {
+      "season": 2026,
+      "episode": 8,
+      "absolute": 166
+    }
   }
 ]

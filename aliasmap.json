@@ -3282,7 +3282,8 @@
   ],
   "315500": [
     "Youjo Senki",
-    "Youjo Senki S2"
+    "Youjo Senki S2",
+    "Youjo Senki II"
   ],
   "316331": [
     "Bernard Jou Iwaku."
@@ -4647,7 +4648,11 @@
     "Mushoku Tensei - Isekai Ittara Honki Dasu",
     "Mushoku Tensei Isekai Ittara Honki Dasu",
     "Mushoku Tensei II Isekai Ittara Honki Dasu",
-    "Mushoku Tensei S3"
+    "Mushoku Tensei S3",
+    "Mushoku Tensei III - Isekai Ittara Honki Dasu",
+    "Mushoku Tensei - Isekai Ittara Honki Dasu 2nd Season",
+    "Mushoku Tensei III: Isekai Ittara Honki Dasu",
+    "Mushoku Tensei: Isekai Ittara Honki Dasu"
   ],
   "371436": [
     "Majo no Tabitabi",
@@ -5168,7 +5173,8 @@
     "Soukou Musume Senki"
   ],
   "392195": [
-    "Bungou Stray Dogs Wan!"
+    "Bungou Stray Dogs Wan!",
+    "Bungou Stray Dogs Wan! S2"
   ],
   "392196": [
     "Project Scard: Praeter no Kizu",
@@ -5178,7 +5184,8 @@
     "Tenchi Souzou Design-bu"
   ],
   "392491": [
-    "Azur Lane - Bisoku Zenshin!"
+    "Azur Lane - Bisoku Zenshin!",
+    "Azur Lane - Bisoku Zenshin! S2"
   ],
   "392668": [
     "Subarashiki Kono Sekai: The Animation",
@@ -5396,7 +5403,9 @@
   ],
   "401279": [
     "Gaikotsu Kishi-​sama, Tadaima Isekai e Odekakechuu",
-    "Gaikotsu Kishi-sama, Tadaima Isekai e Odekake-chuu"
+    "Gaikotsu Kishi-sama, Tadaima Isekai e Odekake-chuu",
+    "Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu S2",
+    "Gaikotsu Kishi-sama Tadaima Isekai e Odekake-chuu II"
   ],
   "401855": [
     "Tsuki to Laika to Nosferatu"
@@ -5517,6 +5526,9 @@
   "402640": [
     "Shokei Shoujo no Virgin Road"
   ],
+  "402642": [
+    "Tai-Ari deshita. Ojousama wa Kakutou Game nante Shinai"
+  ],
   "402644": [
     "Niehime to Kemono no Ou"
   ],
@@ -5586,6 +5598,11 @@
   ],
   "407694": [
     "Gensou Sangokushi - Tengen Reishinki"
+  ],
+  "407704": [
+    "Nijuuseiki Denki Mokuroku",
+    "Nijuuseiki Denki Mokuroku: Eureka Evrika",
+    "Destellos del mañana"
   ],
   "407833": [
     "Aharen-san wa Hakarenai",
@@ -5742,7 +5759,7 @@
     "Otome Game Sekai wa Mob ni Kibishii Sekai desu",
     "Otomege Sekai wa Mob ni Kibishii Sekai Desu",
     "Otome Game Sekai wa Mob ni Kibishii Sekai desu S2",
-    "Otomege Sekai wa Mob ni Kibishii Sekai Desu II"
+    "Otomege Sekai wa Mob ni Kibishii Sekai Desu 2"
   ],
   "412843": [
     "A Herbivorous Dragon of 5000 Years Gets Unfairly Villainized",
@@ -6486,7 +6503,9 @@
     "Kimi no Koto ga Dai Dai Dai Dai Daisuki na 100-nin no Kanojo 2nd Season",
     "Kimi no Koto ga Dai Dai Dai Dai Daisuki na 100-nin no Kanojo S2",
     "hyakkano 2",
-    "Hyakkano S3"
+    "Hyakkano S3",
+    "Kimi no Koto ga Dai Dai Dai Dai Daisuki na 100-nin no Kanojo S3",
+    "hyakkano 3"
   ],
   "432080": [
     "Ousama Ranking - Yuuki no Takarabako"
@@ -6496,7 +6515,9 @@
     "Mahou Shoujo Akogarete (Gushing Over Magical Girls)"
   ],
   "432455": [
-    "Nige Jouzu no Wakagimi"
+    "Nige Jouzu no Wakagimi",
+    "Nige Jouzu no Wakagimi S2",
+    "Nige Jouzu no Wakagimi 2nd Season"
   ],
   "432476": [
     "Tsuma, Shougakusei ni Naru"
@@ -6821,7 +6842,9 @@
   ],
   "442767": [
     "Kabushikigaisha Magilumiere",
-    "Magilumiere Inc"
+    "Magilumiere Inc",
+    "Kabushikigaisha Magilumiere S2",
+    "Kabushikigaisha Magilumiere 2nd Season"
   ],
   "442797": [
     "Hoshifuru Oukoku no Nina"
@@ -6932,7 +6955,9 @@
   ],
   "446692": [
     "Douse, Koishite Shimaunda",
-    "Douse, Koishite Shimaunda S2"
+    "Douse, Koishite Shimaunda S2",
+    "Douse, Koishite Shimaunda 2nd Season",
+    "Douse Koishite Shimaunda 2nd Season"
   ],
   "446876": [
     "Boku no Tsuma wa Kanjou ga Nai"
@@ -7018,11 +7043,19 @@
     "Kinoko Inu"
   ],
   "450072": [
-    "Hanazakari no Kimitachi e"
+    "Hanazakari no Kimitachi e",
+    "Hanazakari no Kimitachi e S2",
+    "Hanazakari no Kimitachi e 2nd Season"
+  ],
+  "450228": [
+    "Sayonara Lara"
   ],
   "450428": [
     "Hikaru ga Shinda Natsu",
     "Hikanatsu"
+  ],
+  "450475": [
+    "Koukaku Kidoutai (2026)"
   ],
   "450933": [
     "Kinomi Master",
@@ -7071,10 +7104,16 @@
   ],
   "451793": [
     "Clevatess The King of Devil Beasts The Baby and The Brave of Undead",
-    "Clevatess-Majuu no Ou to Akago to Shikabane no Yuusha"
+    "Clevatess-Majuu no Ou to Akago to Shikabane no Yuusha",
+    "Clevatess S2",
+    "Clevatess II"
   ],
   "451821": [
     "Mikadono Sanshimai wa Angai, Choroi"
+  ],
+  "452039": [
+    "Toukutsu Ou",
+    "Dogulwang"
   ],
   "452091": [
     "Magic Maker: Isekai Mahou no Tsukurikata"
@@ -7107,7 +7146,8 @@
     "Bukiyou na Senpai"
   ],
   "452710": [
-    "Katainaka no Ossan, Kensei ni Naru"
+    "Katainaka no Ossan, Kensei ni Naru",
+    "Katainaka no Ossan, Kensei ni Naru II"
   ],
   "452711": [
     "Yomi no Tsugai",
@@ -7139,6 +7179,9 @@
   ],
   "453022": [
     "Sentai Red Isekai de Boukensha ni Naru"
+  ],
+  "453028": [
+    "Tsuihou sareta Tensei Juukishi wa Game Chishiki de Musou suru"
   ],
   "453057": [
     "Chitose-kun wa Ramune Bin no Naka"
@@ -7287,7 +7330,8 @@
     "Theres No Freaking Way Ill be Your Lover Unless"
   ],
   "457078": [
-    "Seihantai na Kimi to Boku"
+    "Seihantai na Kimi to Boku",
+    "Seihantai na Kimi to Boku 2nd Season"
   ],
   "457099": [
     "Nazotoki wa Dinner no Ato de"
@@ -7310,7 +7354,9 @@
   ],
   "457532": [
     "Hell Mode",
-    "Hell Mode: Yarikomizuki no Gamer wa Hai Settei no Isekai de Musou suru"
+    "Hell Mode: Yarikomizuki no Gamer wa Hai Settei no Isekai de Musou suru",
+    "Hell Mode S2",
+    "Hell Mode: Yarikomizuki no Gamer wa Hai Settei no Isekai de Musou suru S2"
   ],
   "457645": [
     "Takopii no Genzai"
@@ -7334,6 +7380,11 @@
   ],
   "458232": [
     "Fermat no Ryouri"
+  ],
+  "458309": [
+    "Mahou Shoujo Lyrical Nanoha EXCEEDS - Gun Blaze Vengeance",
+    "Mahou Shoujo Lyrical Nanoha EXGV",
+    "Magical Girl Lyrical Nanoha EXGV"
   ],
   "458369": [
     "Hibi wa Sugiredo Meshi Umashi"
@@ -7423,10 +7474,16 @@
   "461513": [
     "Yuusha no Kuzu"
   ],
+  "461544": [
+    "Futsutsuka na Akujo dewa Gozaimasu ga"
+  ],
   "461708": [
     "Mikata ga Yowasugite Hojo Mahou",
     "Mikata ga Yowasugite Hojo Mahou ni Tesshiteita Kyuutei Mahoushi, Tsuihou sarete Saikyou wo Mezashimasu",
     "hojo mahou"
+  ],
+  "461714": [
+    "Kore Kaite Shine"
   ],
   "462226": [
     "Osananajimi to wa Love Comedy ni Naranai",
@@ -7440,6 +7497,9 @@
     "Shunkashuutou Daikousha - Haru no Mai",
     "Agents of the Four Seasons",
     "Shunkashuutou Daikousha Haru no Mai"
+  ],
+  "462561": [
+    "Tenmaku no Jaadugar"
   ],
   "462598": [
     "Kanan-sama wa Akumade Choroi"
@@ -7460,7 +7520,8 @@
     "Uruwashi no Yoi no Tsuki"
   ],
   "463578": [
-    "All Works Maid"
+    "All Works Maid",
+    "Heroine Seijo Iie All Works Maid desu (Hokori)"
   ],
   "463583": [
     "Jishou Akuyaku Reijou na Konyakusha no Kansatsu Kiroku."
@@ -7470,6 +7531,9 @@
   ],
   "464460": [
     "Kirei ni Shite Moraemasu ka."
+  ],
+  "464625": [
+    "Oni no Hanayome"
   ],
   "464693": [
     "Yoroi Shin Den Samurai Troopers"
@@ -7506,8 +7570,21 @@
   "465799": [
     "Kami no Niwatsuki Kusunoki-tei"
   ],
+  "465802": [
+    "Grow Up Show - Himawari no Circus-dan",
+    "Grow Up Show"
+  ],
+  "465973": [
+    "Super no Ura de Yani Suu Futari"
+  ],
   "465978": [
     "Debu to Love to Ayamachi to!"
+  ],
+  "465987": [
+    "Ryoumin 0-nin Start no Henkyou Ryoushu-sama"
+  ],
+  "465988": [
+    "Mujikaku Seijo wa Kyou mo Muishiki ni Chikara wo Tare Nagasu"
   ],
   "466129": [
     "Chanto Suenai Kyuuketsuki-chan"
@@ -7519,6 +7596,9 @@
   "466524": [
     "Kuroneko to Majo no Kyoushitsu"
   ],
+  "467005": [
+    "Buchigire Reijou wa Houfuku wo Chikaimashita"
+  ],
   "467127": [
     "Lv999 no Murabito"
   ],
@@ -7528,14 +7608,29 @@
   "467292": [
     "Maid-san wa Taberu Dake"
   ],
+  "467401": [
+    "Tenkosaki"
+  ],
   "467414": [
     "Kill Ao"
   ],
   "467839": [
     "Jingai Kyoushitsu no Ningengirai Kyoushi"
   ],
+  "467841": [
+    "BanG Dream! Yumemita"
+  ],
+  "467882": [
+    "Sekai Saikyou no Kouei"
+  ],
+  "468049": [
+    "Tefuda ga Oome no Victoria"
+  ],
   "468366": [
     "2200-nen Neko no Kuni Nippon"
+  ],
+  "468399": [
+    "Hanaori-san wa Tensei shitemo Kenka ga Shitai"
   ],
   "468580": [
     "Heika Watashi wo Wasurete Kudasai",
@@ -7563,14 +7658,22 @@
     "Nigetsuri",
     "Nigashita Sakana wa Ookikatta ga Tsuriageta Sakana ga Ookisugita Ken"
   ],
+  "470406": [
+    "Saijo no Osewa",
+    "Rich Girl Caretaker"
+  ],
   "470519": [
     "Mata Korosarete Shimatta no desu ne, Tantei-sama"
+  ],
+  "470520": [
+    "Toumei na Yoru ni Kakeru Kimi to, Me ni Mienai Koi wo Shita."
   ],
   "470659": [
     "Kami no Shizuku"
   ],
   "470817": [
-    "Hyperspace Sheriff Gavan Infinity"
+    "Hyperspace Sheriff Gavan Infinity",
+    "Beastirring Hunter Omegahorn"
   ],
   "470864": [
     "Tadaima, Ojamasaremasu!"
@@ -7582,12 +7685,27 @@
   "471000": [
     "Haibara-kun no Tsuyokute Seishun New Game"
   ],
+  "471296": [
+    "Uchi no Otouto-domo ga Sumimasen"
+  ],
+  "471497": [
+    "Reiwa no Dara-san"
+  ],
+  "471657": [
+    "Tetsunabe no Jan!"
+  ],
   "471791": [
     "Ookii Onnanoko wa Suki desu ka?",
     "Ookii Onnanoko wa Suki Desuka?"
   ],
   "471878": [
-    "Otome Kaijuu Caramelise"
+    "Otome Kaijuu Carameliser"
+  ],
+  "472831": [
+    "Iwamoto-senpai no Suisen"
+  ],
+  "473018": [
+    "World Is Dancing"
   ],
   "473228": [
     "Nippon Sangoku"
@@ -7610,7 +7728,24 @@
   "473930": [
     "Ingoku Danchi"
   ],
+  "474027": [
+    "Sora wa Akai Kawa no Hotori"
+  ],
   "474303": [
     "Rakudai Kenja no Gakuin Musou"
+  ],
+  "474490": [
+    "Kimiai",
+    "Kimi wo Aisuru Ki wa Nai to Itta Jiki Koushaku-sama ga Nazeka Dekiai Shitekimasu"
+  ],
+  "475631": [
+    "Suterare Seijo no Isekai Gohan Tabi",
+    "Suterare Seijo no Isekai Gohan Tabi: Kakure Skill de Camping Car wo Shoukan shimashita"
+  ],
+  "476185": [
+    "Saikyou Degarashi Ouji no Anyaku Teii Arasoi"
+  ],
+  "479833": [
+    "Bai Ri Cheng Wang"
   ]
 }
