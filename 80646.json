@@ -2314,5 +2314,41 @@
       "episode": 8,
       "absolute": 166
     }
+  },
+  {
+    "scene": {
+      "season": 44,
+      "episode": 9,
+      "absolute": 170
+    },
+    "tvdb": {
+      "season": 2026,
+      "episode": 9,
+      "absolute": 167
+    }
+  },
+  {
+    "scene": {
+      "season": 44,
+      "episode": 10,
+      "absolute": 171
+    },
+    "tvdb": {
+      "season": 2026,
+      "episode": 10,
+      "absolute": 168
+    }
+  },
+  {
+    "scene": {
+      "season": 44,
+      "episode": 11,
+      "absolute": 172
+    },
+    "tvdb": {
+      "season": 2026,
+      "episode": 11,
+      "absolute": 169
+    }
   }
 ]
